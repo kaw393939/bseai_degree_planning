@@ -8,6 +8,9 @@ dist/
 # Local scratch
 _tmp/
 
+# Avoid committing scraped job-board dumps
+incoming_info/jobs.md
+
 # Jekyll local build artifacts (legacy)
 docs/_site/
 docs/.jekyll-cache/

@@ -26,6 +26,13 @@ export default defineConfig({
           ]
         },
         {
+          label: 'Careers',
+          items: [
+            { label: 'Skills Map', slug: 'careers/skills-map' },
+            { label: 'Example Job Descriptions + Salaries', slug: 'careers/example-job-descriptions' }
+          ]
+        },
+        {
           label: 'Research',
           items: [{ label: 'Peer Program Benchmarks', slug: 'research/peer-programs' }]
         }
