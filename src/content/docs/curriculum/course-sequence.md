@@ -1,13 +1,10 @@
 ---
-layout: default
 title: Course Sequence (Draft)
-parent: Curriculum
-nav_order: 2
 ---
 
 # Course Sequence (Draft)
 
-This is a **placeholder** structure to support planning conversations. Replace course names and semester placement as decisions are made.
+This is a placeholder structure to support planning conversations. Replace course names and semester placement as decisions are made.
 
 ## Year 1 — Foundations
 

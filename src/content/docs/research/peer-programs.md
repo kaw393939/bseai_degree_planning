@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Peer Program Benchmarks
-parent: Research
-nav_order: 1
 ---
 
 # Peer Program Benchmarks (Starter)

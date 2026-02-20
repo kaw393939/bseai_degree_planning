@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Program Overview
-parent: Curriculum
-nav_order: 1
 ---
 
 # Program Overview (Draft)
@@ -22,11 +19,11 @@ Graduates should be able to:
 
 ## Pillars
 
-1. **Software engineering for AI systems**
-2. **Data engineering & MLOps foundations**
-3. **Applied ML/LLMs and evaluation**
-4. **Product engineering and human-centered design**
-5. **Enterprise context: security, governance, compliance, and integration**
+1. Software engineering for AI systems
+2. Data engineering & MLOps foundations
+3. Applied ML/LLMs and evaluation
+4. Product engineering and human-centered design
+5. Enterprise context: security, governance, compliance, and integration
 
 ## Open questions
 

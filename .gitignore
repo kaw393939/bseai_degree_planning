@@ -1,7 +1,16 @@
 .DS_Store
 
-# Jekyll local build artifacts (only if you preview locally)
+# Node / Astro
+node_modules/
+dist/
+.astro/
+
+# Local scratch
+_tmp/
+
+# Jekyll local build artifacts (legacy)
 docs/_site/
 docs/.jekyll-cache/
 docs/.bundle/
 docs/vendor/
+

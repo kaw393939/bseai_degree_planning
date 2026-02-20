@@ -1,7 +1,6 @@
 ---
-layout: default
 title: Home
-nav_order: 1
+description: Planning hub for NJIT Informatics BS in Enterprise AI.
 ---
 
 # BS in Enterprise AI
@@ -21,8 +20,8 @@ The goal is to design a degree that prepares students to become:
 
 ## How to use this repo
 
-- Keep content as Markdown under `docs/`.
+- Keep planning content as Markdown under `src/content/docs/`.
 - Add new pages under the relevant section (Curriculum, Research, etc.).
 - Use short, decision-oriented notes and link to supporting research.
 
-Next: start with the Curriculum section.
+Start with the Curriculum section.
