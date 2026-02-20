@@ -1,0 +1,27 @@
+title: "BS in Enterprise AI"
+description: "Curriculum planning hub for NJIT Informatics — preparing AI Product Engineers and AI Software Engineers."
+
+# GitHub Pages (Jekyll) config
+# Using a remote theme keeps the repo lightweight and renders Markdown nicely.
+remote_theme: just-the-docs/just-the-docs
+
+url: "https://kaw393939.github.io"
+baseurl: "/bseai_degree_planning"
+
+# Theme settings
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+# Nice-to-have but still GitHub Pages compatible
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Navigation helpers
+aux_links:
+  "Repository": "https://github.com/kaw393939/bseai_degree_planning"
+aux_links_new_tab: true
+
+# Avoid build warnings from future-dated posts (we're not using posts anyway)
+future: true

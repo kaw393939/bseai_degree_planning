@@ -1,0 +1,7 @@
+.DS_Store
+
+# Jekyll local build artifacts (only if you preview locally)
+docs/_site/
+docs/.jekyll-cache/
+docs/.bundle/
+docs/vendor/
