@@ -22,7 +22,8 @@ export default defineConfig({
           items: [
             { label: 'Program Overview', slug: 'curriculum/overview' },
             { label: 'Course Sequence (Draft)', slug: 'curriculum/course-sequence' },
-            { label: 'Outcomes & Competencies (Draft)', slug: 'curriculum/outcomes' }
+            { label: 'Outcomes & Competencies (Draft)', slug: 'curriculum/outcomes' },
+            { label: 'Implementation Plan (Draft)', slug: 'curriculum/implementation-plan' }
           ]
         },
         {
