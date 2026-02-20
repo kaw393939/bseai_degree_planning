@@ -14,6 +14,7 @@ _tmp/
 # Avoid committing scraped job-board dumps
 incoming_info/jobs.md
 incoming_info/eai_research/
+incoming_info/njit_course_research/
 
 # Jekyll local build artifacts (legacy)
 docs/_site/
