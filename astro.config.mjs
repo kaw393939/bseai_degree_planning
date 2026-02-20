@@ -23,6 +23,7 @@ export default defineConfig({
             { label: 'Program Overview', slug: 'curriculum/overview' },
             { label: 'Course Sequence (Draft)', slug: 'curriculum/course-sequence' },
             { label: 'Outcomes & Competencies (Draft)', slug: 'curriculum/outcomes' },
+            { label: 'Core Studio Spine (Draft)', slug: 'curriculum/core-studio-spine' },
             { label: 'Implementation Plan (Draft)', slug: 'curriculum/implementation-plan' }
           ]
         },
