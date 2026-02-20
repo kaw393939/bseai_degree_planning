@@ -24,6 +24,7 @@ export default defineConfig({
             { label: 'Course Sequence (Draft)', slug: 'curriculum/course-sequence' },
             { label: 'Outcomes & Competencies (Draft)', slug: 'curriculum/outcomes' },
             { label: 'Core Studio Spine (Draft)', slug: 'curriculum/core-studio-spine' },
+            { label: 'Student Journey (Draft)', slug: 'curriculum/student-journey' },
             { label: 'Course Catalog (Current)', slug: 'curriculum/course-catalog-current' },
             { label: 'Course Catalog (Proposed)', slug: 'curriculum/course-catalog-proposed' },
             { label: 'Implementation Plan (Draft)', slug: 'curriculum/implementation-plan' }
