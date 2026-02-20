@@ -9,13 +9,21 @@ These are **original** example job descriptions you can use when asked: “What 
 
 Salary ranges are **estimates** based on:
 
-- Salary ranges captured in the job signals file (`incoming_info/jobs.md`, not tracked)
+- The salary ranges captured in your job signals file (`incoming_info/jobs.md`, kept untracked)
+- Current web research using `eai search` (saved under `incoming_info/eai_research/`, gitignored)
 - BLS Occupational Outlook Handbook medians (May 2024) as baseline reference:
   - Software Developers: https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm
   - Data Scientists: https://www.bls.gov/ooh/math/data-scientists.htm
   - Information Security Analysts: https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm
 
 Actual pay varies by location, seniority, company type, and total-comp structure.
+
+## Quick salary bands (US, Feb 2026 snapshot)
+
+- **AI Product Engineer**: entry base ~$110k–$150k; mid–senior base ~$140k–$260k (sources include Built In + Y Combinator company postings)
+- **Forward-Deployed AI/ML Engineer**: mid base ~$140k–$220k; TC often ~$200k–$350k (sources include Glassdoor + Scale)
+- **AI Deployment / MLOps / Inference Engineer**: entry base ~$115k–$140k; mid base ~$130k–$170k; senior base ~$160k–$220k (sources include Salary.com + Levels)
+- **LLM Application Engineer**: entry base ~$110k–$160k; mid base ~$150k–$200k; senior/staff base ~$180k–$250k+ (sources include Levels + H1B/filings aggregators)
 
 ---
 
@@ -43,8 +51,11 @@ Actual pay varies by location, seniority, company type, and total-comp structure
 
 **Estimated salary (US)**
 
-- Early-career: roughly in the **$120k–$170k** band depending on region/company
-- Mid-level and above: postings often show **$170k–$250k+** for high-cost markets
+- Entry (0–2 yrs): base roughly **$110k–$150k**
+- Mid–senior: base roughly **$140k–$260k**
+- TC can be substantially higher with equity, especially in top markets/companies
+
+Example source set: https://builtin.com/salaries/us/ai-engineer, https://www.ycombinator.com/companies/gem/jobs/4Uathaz-ai-product-engineer-san-francisco
 
 ---
 
@@ -64,8 +75,10 @@ Actual pay varies by location, seniority, company type, and total-comp structure
 
 **Estimated salary (US)**
 
-- Sample postings show **~$145k–$185k** base for this style of role in some markets
-- More senior/lead variants can be higher depending on company/region
+- Often hired at **mid-level+** (varies by company)
+- Mid base roughly **$140k–$220k**; TC often **$200k–$350k**
+
+Example source set: https://scale.com/careers/4602177005, https://www.glassdoor.com/Salary/Palantir-Technologies-Forward-Deployed-Software-Engineer-Salaries-EJI_IE236375.0%2C21_KO22%2C56_IM615.htm
 
 ---
 
@@ -85,12 +98,40 @@ Actual pay varies by location, seniority, company type, and total-comp structure
 
 **Estimated salary (US)**
 
-- Sample postings show wide ranges (e.g., **$137k–$250k**)
-- Security-sensitive deployments often trend higher with experience
+- Entry (0–2 yrs): base roughly **$115k–$140k**
+- Mid (3–5 yrs): base roughly **$130k–$170k**
+- Senior (5–8 yrs): base roughly **$160k–$220k**
+- Postings can be wide (example captured band: **$137k–$250k**)
+
+Example source set: https://www.salary.com/research/salary/hiring/mlops-engineer-salary, https://www.levels.fyi/blog/ai-engineer-compensation-trends-q3-2025.html
 
 ---
 
-## 4) AI Software Engineer (platform + quality)
+## 4) LLM Application Engineer (RAG + eval)
+
+**What you do**
+
+- Build reliable RAG features (search/retrieval + generation) that meet latency/cost targets
+- Add reranking, caching, and guardrails; handle unanswerable queries well
+- Build evaluation harnesses (offline + online) and run error analysis loops
+
+**Must-have skills**
+
+- Retrieval basics (hybrid search, reranking) + vector stores
+- Evaluation metrics (Recall@k / nDCG + groundedness/attribution)
+- Solid software engineering: tests, CI, observability, API design
+
+**Estimated salary (US)**
+
+- Entry (0–2 yrs): base roughly **$110k–$160k**
+- Mid (3–5 yrs): base roughly **$150k–$200k**
+- Senior/staff: base roughly **$180k–$250k+** (TC can be much higher with equity)
+
+Example source set: https://www.levels.fyi, https://www.h1b-connect.com
+
+---
+
+## 5) AI Software Engineer (platform + quality)
 
 **What you do**
 

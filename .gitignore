@@ -5,11 +5,15 @@ node_modules/
 dist/
 .astro/
 
+# Secrets
+.env
+
 # Local scratch
 _tmp/
 
 # Avoid committing scraped job-board dumps
 incoming_info/jobs.md
+incoming_info/eai_research/
 
 # Jekyll local build artifacts (legacy)
 docs/_site/

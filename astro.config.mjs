@@ -28,6 +28,7 @@ export default defineConfig({
         {
           label: 'Careers',
           items: [
+            { label: 'Job Signals Summary', slug: 'careers/job-signals-summary' },
             { label: 'Skills Map', slug: 'careers/skills-map' },
             { label: 'Example Job Descriptions + Salaries', slug: 'careers/example-job-descriptions' }
           ]

@@ -37,6 +37,19 @@ Typical technical surface area:
 - Python, API integration, prompt design, embeddings/vector search
 - Latency/cost tradeoffs, caching, rate limits
 
+### RAG + eval rubric (practical)
+
+Students should be able to design and measure:
+
+- **Retrieval quality**: Recall@k, MRR, nDCG, and “context hit rate” (did the retrieved text actually support the answer?)
+- **Generation quality**: groundedness/faithfulness, attribution correctness, refusal quality for unanswerables
+- **System quality**: p50/p95 latency, $/query, timeout rate, cache hit rate
+
+Common interview/take-home style expectations for this role family:
+
+- Implement end-to-end RAG over a corpus, plus a repeatable eval suite.
+- Instrument cost/latency and prevent regressions with CI gating.
+
 ## 3) Data integration and data competence
 
 Students should be able to:
