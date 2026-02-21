@@ -106,17 +106,17 @@ have assumptions, biases, and blind spots. Students who work with databases, kno
 graphs, and vector embeddings must understand what these representations capture and
 what they distort.
 
-### 7. Moral Reasoning (IS 390)
-The ability to balance "can we build this?" with "should we build this?" and to
-produce evidence-based arguments for both sides. In regulated industries, in public-
-facing AI, in any system that affects people's lives — this is the skill that
-prevents catastrophe and builds institutional trust.
+### 7. Systems Thinking (IS 390)
+The ability to decompose complex systems, understand interdependencies, and design
+for the whole — not just the parts. AI systems have probabilistic components, emergent
+behavior, and failure modes that only become visible at the system level. Someone
+must see the whole picture. Ethics and governance are handled by IS 350.
 
 ### 8. Accountable Leadership (IS 425)
-The ability to ship a system, present it to stakeholders, defend its design, own its
-failures, and plan its improvement. This is not a presentation skill — it's the
-integration of every prior capability into the act of leading an AI-powered initiative
-from conception through production.
+The ability to ship a system, present it to stakeholders, defend its design, own
+its failures, and plan its improvement. In IS 425 this means a production AI system
+built on knowledge graphs with human-in-the-loop workflows — the integration of
+everything, presented at Demo Day, accountable to real clients.
 
 ## The Renamed Spine
 
@@ -124,14 +124,14 @@ Each course title signals both its technical domain and its human capability:
 
 | Sem | Course | Title | Technical Domain | Human Edge |
 |-----|--------|-------|-----------------|------------|
-| 1 | IS 117 | Inquiry & Digital Craft | Terminal, Git, HTML/CSS, deployment | Disciplined Inquiry |
-| 2 | IS 118 | Interaction Design & Computational Thinking | JavaScript, APIs, debugging, data handling | Translation |
-| 3 | IS 218 | Software Engineering & Professional Judgment | Full-stack apps, testing, CI/CD, AI-assisted dev | Professional Judgment |
-| 4 | IS 265 | Organizations, Problems & Persuasion | Business process, stakeholders, workflow prototyping | Problem Finding |
-| 5 | IS 219 | Systems Architecture & Resilience | Linux, containers, networking, security, observability | Resilience Thinking |
-| 6 | IS 331 | Data, Knowledge & Representation | SQL, graph, vector, pipelines, data quality | Epistemic Humility |
-| 7 | IS 390 | AI Strategy, Ethics & Requirements | LLM/RAG/agents + requirements + responsible AI | Moral Reasoning |
-| 8 | IS 425 | Enterprise AI & Accountable Leadership | Production AI system + Demo Day + client engagement | Accountable Leadership |
+| 1 | IS 117 | Inquiry & Web Craft | Terminal, Git, HTML/CSS, deployment | Disciplined Inquiry |
+| 2 | IS 118 | Interactive Computing | JavaScript, APIs, debugging, data handling | Translation |
+| 3 | IS 218 | Software Engineering | Full-stack apps, testing, CI/CD, AI-assisted dev | Professional Judgment |
+| 4 | IS 265 | Problems & Persuasion | Business process, stakeholders, workflow prototyping | Problem Finding |
+| 5 | IS 219 | Systems & Resilience | Linux, containers, networking, security, observability | Resilience Thinking |
+| 6 | IS 331 | Data & Knowledge | SQL, graph, vector, pipelines, data quality | Epistemic Humility |
+| 7 | IS 390 | Systems Analysis & Design | Requirements, architecture, tradeoffs, evaluation plans | Systems Thinking |
+| 8 | IS 425 | Applied AI Systems | Knowledge graphs, HITL, vector+graph retrieval, agents, evals | Accountable Leadership |
 
 ### Sequencing rationale
 

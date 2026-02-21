@@ -15,10 +15,10 @@ AI will automate everything that can be reduced to a procedure — code generati
 - **Judging when the machine is wrong.** AI produces confident, plausible output. Knowing it's wrong requires critical thinking and domain knowledge.
 - **Taking responsibility.** AI cannot be held accountable. Someone must own the outcome.
 - **Navigating ambiguity.** Requirements are never clean. Stakeholders contradict each other. Politics shapes decisions.
-- **Exercising moral reasoning.** "Can we?" is engineering. "Should we?" is judgment.
+- **Thinking in systems.** AI optimizes parts. Humans must understand how parts interact and what emerges from the whole.
+- **Exercising moral reasoning.** "Can we?" is engineering. "Should we?" is judgment. (See IS 350.)
 - **Creating meaning.** AI generates content. Humans decide what matters.
 - **Inspiring trust.** Leadership, credibility, persuasion — these require a human on the other end.
-- **Connecting dots across domains.** The most valuable insights come from combining knowledge across fields.
 
 ## The inversion
 
@@ -38,14 +38,14 @@ Each studio course in the [core spine](/bseai_degree_planning/curriculum/core-st
 
 | Capability | Course | What it means |
 |---|---|---|
-| **Disciplined Inquiry** | IS 117 | Asking structured, productive questions — issue trees, hypothesis-first thinking, the Five Whys |
-| **Translation** | IS 118 | Making complex ideas tangible — turning invisible logic into something humans can see and interact with |
-| **Professional Judgment** | IS 218 | Evaluating work — your own, your team's, your AI's — and knowing when to override the machine |
-| **Problem Finding** | IS 265 | Identifying the real problem in organizational noise, not just the stated one |
-| **Resilience Thinking** | IS 219 | Designing for failure, responding to incidents, owning recovery |
-| **Epistemic Humility** | IS 331 | Understanding that data is not truth — it's a model of truth, with assumptions and blind spots |
-| **Moral Reasoning** | IS 390 | Balancing capability with responsibility — evidence-based arguments for "should we?" |
-| **Accountable Leadership** | IS 425 | Shipping a system, defending its design, owning its failures, and improving it |
+| **Disciplined Inquiry** | IS 117 — Inquiry & Web Craft | Asking structured, productive questions — issue trees, hypothesis-first thinking, the Five Whys |
+| **Translation** | IS 118 — Interactive Computing | Making complex ideas tangible — turning invisible logic into something humans can see and interact with |
+| **Professional Judgment** | IS 218 — Software Engineering | Evaluating work — your own, your team's, your AI's — and knowing when to override the machine |
+| **Problem Finding** | IS 265 — Problems & Persuasion | Identifying the real problem in organizational noise, not just the stated one |
+| **Resilience Thinking** | IS 219 — Systems & Resilience | Designing for failure, responding to incidents, owning recovery |
+| **Epistemic Humility** | IS 331 — Data & Knowledge | Understanding that data is not truth — it's a model of truth, with assumptions and blind spots |
+| **Systems Thinking** | IS 390 — Systems Analysis & Design | Decomposing complexity, understanding interdependencies, designing for the whole system |
+| **Accountable Leadership** | IS 425 — Applied AI Systems | Shipping a KG + HITL system, defending its design, owning its failures, and improving it |
 
 ## What makes this different
 

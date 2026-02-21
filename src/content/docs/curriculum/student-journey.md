@@ -21,7 +21,7 @@ Jaylen represents about a third of the incoming class. The other two-thirds are 
 
 ## Year 1: "I can make things."
 
-### Fall — IS 117: Inquiry & Digital Craft
+### Fall — IS 117: Inquiry & Web Craft
 
 **Where Jaylen starts:** Can't navigate a filesystem. Doesn't know what a terminal is. Has never committed code. Doesn't understand what a website actually is beneath the surface.
 
@@ -36,7 +36,7 @@ Jaylen represents about a third of the incoming class. The other two-thirds are 
 
 **Technical confidence:** Terminal basics, Git, HTML/CSS, static deployment. The digital floor is laid.
 
-### Spring — IS 118: Interaction Design & Computational Thinking
+### Spring — IS 118: Interactive Computing
 
 **Where Jaylen starts:** Can publish static pages. Can't make anything interactive. Doesn't know JavaScript.
 
@@ -54,7 +54,7 @@ Jaylen represents about a third of the incoming class. The other two-thirds are 
 
 ## Year 2: "I can build real software — and I understand why it matters."
 
-### Fall — IS 218: Software Engineering & Professional Judgment
+### Fall — IS 218: Software Engineering
 
 **Where Jaylen starts:** Can write JS, fetch APIs, publish sites. Has never built anything with a backend, written a test, or used CI.
 
@@ -69,7 +69,7 @@ Jaylen represents about a third of the incoming class. The other two-thirds are 
 
 **Technical confidence:** Full-stack development, testing, CI/CD, deployment, monitoring basics. Jaylen is now a functioning software engineer, not a script kiddie.
 
-### Spring — IS 265: Organizations, Problems & Persuasion
+### Spring — IS 265: Problems & Persuasion
 
 **Where Jaylen starts:** Can build software. Has no idea what a stakeholder is or why requirements are hard.
 
@@ -87,7 +87,7 @@ Jaylen represents about a third of the incoming class. The other two-thirds are 
 
 ## Year 3: "I understand the machine — and what it can't tell me."
 
-### Fall — IS 219: Systems Architecture & Resilience
+### Fall — IS 219: Systems & Resilience
 
 **Where Jaylen starts:** Can build and deploy web apps. Doesn't understand what happens below the application layer.
 
@@ -102,7 +102,7 @@ Jaylen represents about a third of the incoming class. The other two-thirds are 
 
 **Technical confidence:** Linux, containers, networking, secrets management, monitoring, incident response. Jaylen can operate in a production environment, not just a code editor.
 
-### Spring — IS 331: Data, Knowledge & Representation
+### Spring — IS 331: Data & Knowledge
 
 **Where Jaylen starts:** Can build and deploy systems. Doesn't understand data modeling, databases at depth, or how AI "knows" things.
 
@@ -119,35 +119,37 @@ Jaylen represents about a third of the incoming class. The other two-thirds are 
 
 ---
 
-## Year 4: "I can build AI systems — and I'm responsible for them."
+## Year 4: "I can analyze systems and lead AI projects."
 
-### Fall — IS 390: AI Strategy, Ethics & Requirements
+### Fall — IS 390: Systems Analysis & Design
 
-**Where Jaylen starts:** Can build software, manage infrastructure, work with data. Has not built an AI system or wrestled with the ethical implications.
-
-**What happens:**
-- Week 2: Builds their first RAG pipeline. Document chunking, embedding, retrieval, generation. It works. It also sometimes hallucinates. "Oh."
-- Week 5: Adds evaluation: golden answer test set, retrieval recall metrics, faithfulness checks. The numbers are sobering — the system isn't as good as it felt.
-- Week 7: Stakeholder harm analysis. Who uses this system? What happens when it's wrong? What if it's wrong about someone's medical condition? Financial standing? Legal status?
-- Week 10: Writes a requirements document for an AI system that includes not just what it should do, but what it should *never* do. Tests include "the system should refuse when..." scenarios.
-- Week 15: Delivers an ethics impact assessment for a peer's project. Finds real risks. Recommends real controls. Respectful but honest.
-
-**Human Edge gained: Moral Reasoning.** Jaylen can now have the "should we?" conversation with evidence. They have a framework for thinking about harm, controls, and responsible deployment.
-
-**The weight of it:** For the first time, Jaylen feels the gravity of building systems that affect people's lives. This isn't abstract ethics class — it's "my system got this wrong and a real person would have been harmed."
-
-### Spring — IS 425: Enterprise AI & Accountable Leadership
-
-**Where Jaylen starts:** Has all eight semesters of skills and capabilities. Has never led a full AI project from inception through Demo Day.
+**Where Jaylen starts:** Can build software, manage infrastructure, work with data. Has not yet designed a full system from requirements through architecture, or analyzed how AI components change the systems design problem.
 
 **What happens:**
-- Week 1: Meets the client (real company, through the Center for Enterprise AI). Scoping meeting. Requirements are vague. Jaylen uses issue trees (IS 117), stakeholder mapping (IS 265), and harm analysis (IS 390) to scope the project.
-- Week 4: System architecture is designed. Graph + vector retrieval, agent orchestration, HITL review points. The architecture document explains tradeoffs — not just what was chosen, but what was considered and rejected.
-- Week 8: Evaluation harness is running. Regression gates prevent deployment if quality drops. The system is monitored.
-- Week 12: Something breaks in production. Jaylen runs the incident response (IS 219), writes the postmortem, and presents it to the client. Honest, professional, accountable.
-- Week 15: **Demo Day.** Jaylen presents to industry judges. Shows the system, the evaluation evidence, the architecture, the ethics assessment. Answers hard questions. Doesn't bluff.
+- Week 2: Gets a messy project brief from a real stakeholder (via Center for Enterprise AI). The "requirements" are three sentences and a spreadsheet. Jaylen starts decomposing.
+- Week 4: Maps the system — not just the software, but the data flows, the human touchpoints, the failure modes, the cost drivers. Draws the architecture. Realizes the easy design has a catastrophic failure mode.
+- Week 7: Writes requirements with acceptance tests. But these aren't just feature tests — they include non-functional requirements: latency, reliability, what happens when the AI component returns garbage.
+- Week 10: Prototypes the hard parts. Presents the architecture to a review panel. Gets hard questions about tradeoffs. Defends choices with evidence. Changes two decisions based on feedback.
+- Week 15: Delivers a complete systems analysis package: requirements, architecture, evaluation plan, prototype evidence. This is the blueprint that IS 425 will build on.
 
-**Human Edge gained: Accountable Leadership.** Jaylen stood up in front of industry professionals, presented a production AI system with evidence, defended their decisions, and took responsibility for the outcomes.
+**Human Edge gained: Systems Thinking.** Jaylen can now look at a complex system and see how the parts interact — where complexity hides, what emergent behavior to watch for, how to design for the whole and not just the pieces.
+
+**The shift:** Jaylen stops thinking like a developer ("what should I build?") and starts thinking like an analyst ("what does this system need to be, and how do all the parts work together?").
+
+### Spring — IS 425: Applied AI Systems
+
+**Where Jaylen starts:** Has all eight semesters of skills and capabilities, plus a complete systems analysis package from IS 390. Has never built a production AI system with knowledge graphs and human-in-the-loop workflows.
+
+**What happens:**
+- Week 1: Meets the client (real company, through the Center for Enterprise AI). Takes the systems analysis from IS 390 and scopes the implementation. Requirements are real. Deadlines are real.
+- Week 3: Builds the knowledge graph. Entities, relationships, domain structure. Discovers that modeling the domain as a graph reveals connections that flat data hid. "*This* is why the spreadsheet approach kept failing."
+- Week 5: Integrates vector retrieval with graph context. Semantic search finds relevant documents; the knowledge graph tells the system *why* they're relevant and what's connected. The combination is dramatically better than either alone.
+- Week 8: Implements HITL workflows. The system flags low-confidence outputs for human review. Escalation paths are designed. Override capability works. The evaluation harness includes regression gates — quality can't silently degrade.
+- Week 10: Something breaks. A data source changes format, the knowledge graph gets stale, retrieval quality drops. Jaylen runs incident response (IS 219 skills), updates the pipeline (IS 331 skills), writes the postmortem, and presents it to the client. Professional.
+- Week 12: The system is monitored. Observability traces every decision: what was retrieved, what the graph contributed, where the human intervened, what the model generated.
+- Week 15: **Demo Day.** Jaylen presents to industry judges. Shows the knowledge graph, the HITL workflow, the evaluation evidence. Walks through a real failure case and how the system handled it. Answers hard questions. Doesn't bluff.
+
+**Human Edge gained: Accountable Leadership.** Jaylen stood up in front of industry professionals, presented a production AI system built on knowledge graphs with human-in-the-loop safeguards, defended their decisions, and took responsibility for the outcomes.
 
 ---
 
@@ -155,9 +157,9 @@ Jaylen represents about a third of the incoming class. The other two-thirds are 
 
 **Portfolio:** 8 shipped projects, each more sophisticated than the last, publicly visible on GitHub and their portfolio site (which has evolved every semester since IS 117).
 
-**Human Edge artifacts:** 8 documents demonstrating inquiry, translation, judgment, problem finding, resilience, epistemic humility, moral reasoning, and leadership.
+**Human Edge artifacts:** 8 documents demonstrating inquiry, translation, judgment, problem finding, resilience, epistemic humility, systems thinking, and leadership.
 
-**Technical skills:** Linux, Git, web development, full-stack apps, containers, monitoring, databases, graph databases, vector stores, RAG, agents, evaluation, CI/CD.
+**Technical skills:** Linux, Git, web development, full-stack apps, containers, monitoring, databases, knowledge graphs, vector stores, RAG, HITL workflows, agents, evaluation, CI/CD.
 
 **Professional experience:** Service Learning Clinic or Industry Practicum. Demo Day presentations. Client engagement.
 

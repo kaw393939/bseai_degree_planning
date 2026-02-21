@@ -107,34 +107,37 @@ Why AI can't do this: AI treats its training data as ground truth. It has no mec
 
 ---
 
-## 7. Moral Reasoning *(IS 390)*
+## 7. Systems Thinking *(IS 390)*
 
-**The ability to balance "can we build this?" with "should we build this?" — and to produce evidence-based arguments for both sides.**
+**The ability to decompose complex systems, understand interdependencies, and design for the whole — not just the parts.**
 
 What this looks like in practice:
-- Conducting stakeholder harm analysis before deployment
-- Identifying who is affected by an AI system and how
-- Designing controls, limitations, and off-switches
-- Writing ethics impact assessments that are honest, not performative
-- Saying "no" to a technically feasible feature on ethical grounds
+- Analyzing a system with AI components and mapping how they interact with data, users, infrastructure, and each other
+- Identifying emergent behavior — what happens at the system level that isn't visible in any individual component
+- Writing requirements that account for non-functional concerns (performance, reliability, cost, failure modes) alongside features
+- Designing architectures that handle the uncertainty of probabilistic AI behavior
+- Producing evaluation plans that define "good" concretely and measure it honestly
 
-Assessment evidence: Ethics impact assessments, risk-control matrices, "what we decided not to build" documents
+Assessment evidence: Systems decomposition documents, architecture tradeoff analyses, requirements with acceptance tests, evaluation plans
 
-Why AI can't do this: AI can enumerate ethical principles. It cannot feel the weight of a decision that affects someone's job, credit score, medical treatment, or freedom. Moral reasoning requires caring about the outcome — and AI does not care.
+Why AI can't do this: AI can analyze individual components. It cannot reason about how components interact in ways that produce unexpected behavior. Complex systems have emergent properties — failures, bottlenecks, feedback loops — that only appear when you understand the whole. That requires a human mind that can hold the entire system in view.
+
+*Note: Moral reasoning and AI ethics are developed in IS 350 (Computers, Society & Ethics), the dedicated ethics course taken in Year 2.*
 
 ---
 
 ## 8. Accountable Leadership *(IS 425)*
 
-**The ability to ship a system, present it to stakeholders, defend its design, own its failures, and plan its improvement.**
+**The ability to ship an AI system, present it to stakeholders, defend its design, own its failures, and plan its improvement.**
 
 What this looks like in practice:
-- Leading a team through a full product lifecycle (scoping→building→shipping→evaluating)
-- Presenting to industry judges with evidence, not just slides
+- Leading a team through the full lifecycle of a knowledge-graph-backed AI system with human-in-the-loop workflows
+- Building the integration of every skill from the program: inquiry, translation, judgment, problem finding, resilience, data knowledge, and systems thinking
+- Presenting to industry judges with evidence — not slides, but a live system with evaluation data
 - Writing postmortems that name what went wrong without blaming
-- Taking personal responsibility for system outcomes
+- Taking personal responsibility for a system that real people will use
 
-Assessment evidence: Demo Day presentations, leadership reflections, postmortems, improvement plans
+Assessment evidence: Demo Day presentations, production AI systems with KG + HITL + eval suite, leadership reflections, postmortems, improvement plans
 
 Why AI can't do this: AI cannot be held accountable. When a system fails, someone must face the client, explain what happened, take responsibility, and commit to a fix. This is the ultimate human capability — the willingness to stand behind your work.
 

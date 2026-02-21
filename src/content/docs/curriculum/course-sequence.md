@@ -17,14 +17,14 @@ One studio per semester, 8 semesters, cohort cap 20–25. Each course produces p
 
 | Semester | Course | Title | Human Edge |
 |----------|--------|-------|------------|
-| Fall 1 | IS 117 | Inquiry & Digital Craft | Disciplined Inquiry |
-| Spring 1 | IS 118 | Interaction Design & Computational Thinking | Translation |
-| Fall 2 | IS 218 | Software Engineering & Professional Judgment | Professional Judgment |
-| Spring 2 | IS 265 | Organizations, Problems & Persuasion | Problem Finding |
-| Fall 3 | IS 219 | Systems Architecture & Resilience | Resilience Thinking |
-| Spring 3 | IS 331 | Data, Knowledge & Representation | Epistemic Humility |
-| Fall 4 | IS 390 | AI Strategy, Ethics & Requirements | Moral Reasoning |
-| Spring 4 | IS 425 | Enterprise AI & Accountable Leadership | Accountable Leadership |
+| Fall 1 | IS 117 | Inquiry & Web Craft | Disciplined Inquiry |
+| Spring 1 | IS 118 | Interactive Computing | Translation |
+| Fall 2 | IS 218 | Software Engineering | Professional Judgment |
+| Spring 2 | IS 265 | Problems & Persuasion | Problem Finding |
+| Fall 3 | IS 219 | Systems & Resilience | Resilience Thinking |
+| Spring 3 | IS 331 | Data & Knowledge | Epistemic Humility |
+| Fall 4 | IS 390 | Systems Analysis & Design | Systems Thinking |
+| Spring 4 | IS 425 | Applied AI Systems | Accountable Leadership |
 
 ---
 
@@ -54,7 +54,7 @@ These courses deepen specific AI and enterprise competencies beyond what the spi
 
 | Course | Title | When | Purpose |
 |--------|-------|------|---------|
-| IS 350 | AI Ethics, Governance & Society | Fall 2 | Deep dive into AI regulation, bias auditing, system cards — goes far beyond the overview in IS 390. Taken early to build ethical reasoning before students build AI systems. |
+| IS 350 | Computers, Society & Ethics | Fall 2 | The dedicated ethics course. AI regulation, bias auditing, system cards, privacy, societal impact. IS 390 handles systems analysis; IS 350 handles the "should we?" questions. Taken early so ethical reasoning is established before students build AI systems. |
 | IS 247 | Designing the User Experience | Spring 2 | Human-centered design thinking. AI products that humans can't use are worthless. Taken alongside IS 265 to reinforce problem-finding with design methodology. |
 | IS 392 | Applied AI & Language Systems | Fall 3 | NLP, prompt engineering, RAG architecture, chunking, embeddings, reranking. The technical depth needed for IS 390 and IS 425. |
 | IS 465 | Machine Learning for Enterprise AI | Spring 3 or Fall 4 | Practical ML: problem framing (classification/regression/ranking), baselines, evaluation discipline, overfitting, interpretability. Not theory-heavy — focused on "when to use what and how to know if it's working." |
@@ -91,7 +91,7 @@ Standard NJIT gen-ed requirements. Recommended choices that reinforce the Human 
 
 | | Fall | Spring |
 |---|---|---|
-| **Studio** | IS 117: Inquiry & Digital Craft | IS 118: Interaction Design & Computational Thinking |
+| **Studio** | IS 117: Inquiry & Web Craft | IS 118: Interactive Computing |
 | **Technical** | CS 100: Intro to CS (Python) | DS 100: Probability & Statistics |
 | **Technical** | MATH 111: Calculus I | CS 114: Data Structures |
 | **Gen-Ed** | ENGL 101: Writing I | GEN-ED: Humanities |
@@ -101,8 +101,8 @@ Standard NJIT gen-ed requirements. Recommended choices that reinforce the Human 
 
 | | Fall | Spring |
 |---|---|---|
-| **Studio** | IS 218: Software Engineering & Professional Judgment | IS 265: Organizations, Problems & Persuasion |
-| **Applied** | IS 350: AI Ethics, Governance & Society | IS 247: Designing the User Experience |
+| **Studio** | IS 218: Software Engineering | IS 265: Problems & Persuasion |
+| **Applied** | IS 350: Computers, Society & Ethics | IS 247: Designing the User Experience |
 | **Technical** | MATH 211/DS 110: Linear Algebra | MATH 226: Discrete Analysis |
 | **Gen-Ed** | ENGL 102: Writing II | GEN-ED: Humanities/Elective |
 | **Gen-Ed** | GEN-ED: Social Science | — |
@@ -111,17 +111,17 @@ Standard NJIT gen-ed requirements. Recommended choices that reinforce the Human 
 
 | | Fall | Spring |
 |---|---|---|
-| **Studio** | IS 219: Systems Architecture & Resilience | IS 331: Data, Knowledge & Representation |
+| **Studio** | IS 219: Systems & Resilience | IS 331: Data & Knowledge |
 | **Applied** | IS 392: Applied AI & Language Systems | IS 465: Machine Learning for Enterprise AI |
 | **Enterprise** | — | IS 375: Service Learning Clinic |
 | **Gen-Ed** | GEN-ED: Elective | GEN-ED: Elective |
 | **Gen-Ed** | GEN-ED: Elective | — |
 
-### Year 4: Strategy & Leadership
+### Year 4: Analysis & Leadership
 
 | | Fall | Spring |
 |---|---|---|
-| **Studio** | IS 390: AI Strategy, Ethics & Requirements | IS 425: Enterprise AI & Accountable Leadership |
+| **Studio** | IS 390: Systems Analysis & Design | IS 425: Applied AI Systems |
 | **Applied** | IS 480: AI Quality & Reliability Engineering | IS 448: Advanced Topics (elective) |
 | **Enterprise** | IS 491: Industry Practicum (or summer) | — |
 | **Gen-Ed** | GEN-ED: Elective | GEN-ED: Elective |
