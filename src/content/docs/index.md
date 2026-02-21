@@ -9,15 +9,38 @@ AI will automate everything that can be reduced to a procedure. This program tra
 
 **Eight studios. Eight human capabilities. Four years. One transformation.**
 
-## Start here
+---
 
+## Start Here
+
+### The Vision
+- [**Executive Summary**](/bseai_degree_planning/philosophy/executive-summary/) — The program in two pages (for administrators and decision-makers)
 - [**The Human Edge (Vision)**](/bseai_degree_planning/curriculum/overview/) — Why this program exists and what makes it different
-- [**The Eight Studios**](/bseai_degree_planning/curriculum/core-studio-spine/) — The renamed course spine with paired technical and human outcomes
-- [**The Human Edge Framework**](/bseai_degree_planning/curriculum/outcomes/) — Eight irreplaceable capabilities, defined and assessed
-- [**The Complete Degree**](/bseai_degree_planning/curriculum/course-sequence/) — Full four-year plan, every course, semester by semester
-- [**The Student Journey**](/bseai_degree_planning/curriculum/student-journey/) — Jaylen's four-year transformation, honestly told
+- [**The Eight Studios**](/bseai_degree_planning/curriculum/core-studio-spine/) — The course spine with paired technical and human outcomes
 
-## The thesis
+### The Philosophy
+- [**The Stripping Thesis**](/bseai_degree_planning/philosophy/stripping-thesis/) — AI reveals what's truly human
+- [**The Acceleration Thesis**](/bseai_degree_planning/philosophy/acceleration-thesis/) — Why this transition is faster than horses to cars
+- [**The New Paradigm**](/bseai_degree_planning/philosophy/new-paradigm/) — The old career model is dead. Here's what replaces it.
+
+### The Courses
+- [**All Eight Syllabi**](/bseai_degree_planning/syllabi/is117/) — Complete course designs for the studio spine
+- [**Learning Objectives**](/bseai_degree_planning/program/learning-objectives/) — Bloom's-aligned objectives for every course
+- [**Curriculum Map**](/bseai_degree_planning/program/curriculum-map/) — How outcomes progress across the program
+
+### The Evidence
+- [**Why Now**](/bseai_degree_planning/evidence/why-now/) — METR benchmarks, BLS data, and the window of opportunity
+- [**Job Market Data**](/bseai_degree_planning/evidence/job-market/) — $100K–$350K salary ranges and +34% growth projections
+
+### For Stakeholders
+- [**For Administrators**](/bseai_degree_planning/stakeholders/for-administrators/) — One-page strategic overview
+- [**For Faculty**](/bseai_degree_planning/stakeholders/for-faculty/) — Teaching in the studio model
+- [**For Students**](/bseai_degree_planning/stakeholders/for-students/) — What to expect and what you'll earn
+- [**For Industry Partners**](/bseai_degree_planning/stakeholders/for-industry/) — Capstone projects, hiring, and advisory roles
+
+---
+
+## The Thesis
 
 In a world where AI generates code, analyzes data, writes documentation, and drafts architecture — the graduates who matter are the ones who can:
 
@@ -25,7 +48,7 @@ In a world where AI generates code, analyzes data, writes documentation, and dra
 2. **Judge** when the machine is wrong
 3. **Find** the real problem in organizational noise
 4. **Design** for failure and own recovery
-5. **Reason** about ethics under pressure
+5. **Reason** about what the data misses
 6. **Lead** with evidence and accountability
 
 This is not a CS degree with AI courses bolted on. It is a new kind of degree for a new kind of professional — one where human judgment is the primary output and technical fluency is the necessary foundation.
