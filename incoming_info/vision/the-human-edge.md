@@ -118,20 +118,20 @@ its failures, and plan its improvement. In IS 425 this means a production AI sys
 built on knowledge graphs with human-in-the-loop workflows — the integration of
 everything, presented at Demo Day, accountable to real clients.
 
-## The Renamed Spine
+## The Spine: Official Titles + Studio Labels
 
-Each course title signals both its technical domain and its human capability:
+For 2026 palatability, each studio keeps a catalog-normal **official title**, with a forward-looking **studio label** shown in parentheses.
 
 | Sem | Course | Title | Technical Domain | Human Edge |
 |-----|--------|-------|-----------------|------------|
-| 1 | IS 117 | Inquiry & Web Craft | Terminal, Git, HTML/CSS, deployment | Disciplined Inquiry |
-| 2 | IS 118 | Interactive Computing | JavaScript, APIs, debugging, data handling | Translation |
-| 3 | IS 218 | Software Engineering | Full-stack apps, testing, CI/CD, AI-assisted dev | Professional Judgment |
-| 4 | IS 265 | Problems & Persuasion | Business process, stakeholders, workflow prototyping | Problem Finding |
-| 5 | IS 219 | Systems & Resilience | Linux, containers, networking, security, observability | Resilience Thinking |
-| 6 | IS 331 | Data & Knowledge | SQL, graph, vector, pipelines, data quality | Epistemic Humility |
-| 7 | IS 390 | Systems Analysis & Design | Requirements, architecture, tradeoffs, evaluation plans | Systems Thinking |
-| 8 | IS 425 | Applied AI Systems | Knowledge graphs, HITL, vector+graph retrieval, agents, evals | Accountable Leadership |
+| 1 | IS 117 | Introduction to Website Development *(Inquiry & Web Craft)* | Terminal, Git, HTML/CSS, deployment | Disciplined Inquiry |
+| 2 | IS 118 | Interactive Web Development *(Interactive Computing)* | JavaScript, APIs, debugging, data handling | Translation |
+| 3 | IS 218 | Building Web Applications *(Software Engineering)* | Full-stack apps, testing, CI/CD, AI-assisted dev | Professional Judgment |
+| 4 | IS 265 | Introduction to Information Systems *(Problems & Persuasion)* | Business process, stakeholders, workflow prototyping | Problem Finding |
+| 5 | IS 219 | Adv Website Development *(Systems & Resilience)* | Linux, containers, networking, security, observability | Resilience Thinking |
+| 6 | IS 331 | Database Design, Management and Applications *(Data & Knowledge)* | SQL, graph, vector, pipelines, data quality | Epistemic Humility |
+| 7 | IS 390 | Requirements Analysis and Systems Design *(Systems Analysis & Design)* | Requirements, architecture, tradeoffs, evaluation plans | Systems Thinking |
+| 8 | IS 425 | Enterprise AI Applications & Infrastructure *(Applied AI Systems)* | Knowledge graphs, HITL, vector+graph retrieval, agents, evals | Accountable Leadership |
 
 ### Sequencing rationale
 

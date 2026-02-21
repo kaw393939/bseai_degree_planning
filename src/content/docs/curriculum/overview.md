@@ -38,14 +38,14 @@ Each studio course in the [core spine](/bseai_degree_planning/curriculum/core-st
 
 | Capability | Course | What it means |
 |---|---|---|
-| **Disciplined Inquiry** | IS 117 — Inquiry & Web Craft | Asking structured, productive questions — issue trees, hypothesis-first thinking, the Five Whys |
-| **Translation** | IS 118 — Interactive Computing | Making complex ideas tangible — turning invisible logic into something humans can see and interact with |
-| **Professional Judgment** | IS 218 — Software Engineering | Evaluating work — your own, your team's, your AI's — and knowing when to override the machine |
-| **Problem Finding** | IS 265 — Problems & Persuasion | Identifying the real problem in organizational noise, not just the stated one |
-| **Resilience Thinking** | IS 219 — Systems & Resilience | Designing for failure, responding to incidents, owning recovery |
-| **Epistemic Humility** | IS 331 — Data & Knowledge | Understanding that data is not truth — it's a model of truth, with assumptions and blind spots |
-| **Systems Thinking** | IS 390 — Systems Analysis & Design | Decomposing complexity, understanding interdependencies, designing for the whole system |
-| **Accountable Leadership** | IS 425 — Applied AI Systems | Shipping a KG + HITL system, defending its design, owning its failures, and improving it |
+| **Disciplined Inquiry** | IS 117 — Introduction to Website Development *(Inquiry & Web Craft)* | Asking structured, productive questions — issue trees, hypothesis-first thinking, the Five Whys |
+| **Translation** | IS 118 — Interactive Web Development *(Interactive Computing)* | Making complex ideas tangible — turning invisible logic into something humans can see and interact with |
+| **Professional Judgment** | IS 218 — Building Web Applications *(Software Engineering)* | Evaluating work — your own, your team's, your AI's — and knowing when to override the machine |
+| **Problem Finding** | IS 265 — Introduction to Information Systems *(Problems & Persuasion)* | Identifying the real problem in organizational noise, not just the stated one |
+| **Resilience Thinking** | IS 219 — Adv Website Development *(Systems & Resilience)* | Designing for failure, responding to incidents, owning recovery |
+| **Epistemic Humility** | IS 331 — Database Design, Management and Applications *(Data & Knowledge)* | Understanding that data is not truth — it's a model of truth, with assumptions and blind spots |
+| **Systems Thinking** | IS 390 — Requirements Analysis and Systems Design *(Systems Analysis & Design)* | Decomposing complexity, understanding interdependencies, designing for the whole system |
+| **Accountable Leadership** | IS 425 — Enterprise AI Applications & Infrastructure *(Applied AI Systems)* | Shipping a KG + HITL system, defending its design, owning its failures, and improving it |
 
 ## What makes this different
 

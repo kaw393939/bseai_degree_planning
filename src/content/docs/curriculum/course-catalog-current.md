@@ -19,7 +19,7 @@ For records and raw research outputs (not committed), see `incoming_info/njit_co
   - Focus: hands-on web-based information systems; team projects; usability evaluation; CMS exposure.
   - Link: https://catalog.njit.edu/undergraduate/computing-sciences/informatics/
 
-- IS 219 — Advanced Website Development
+- IS 219 — Adv Website Development
   - Focus: advanced interactive websites; client-side scripting (JS/DOM); usability; security/privacy; cross-browser.
   - Link: https://catalog.njit.edu/undergraduate/computing-sciences/information-systems/
 

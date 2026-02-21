@@ -21,7 +21,7 @@ Jaylen represents about a third of the incoming class. The other two-thirds are 
 
 ## Year 1: "I can make things."
 
-### Fall — IS 117: Inquiry & Web Craft
+### Fall — IS 117: Introduction to Website Development *(Inquiry & Web Craft)*
 
 **Where Jaylen starts:** Can't navigate a filesystem. Doesn't know what a terminal is. Has never committed code. Doesn't understand what a website actually is beneath the surface.
 
@@ -36,7 +36,7 @@ Jaylen represents about a third of the incoming class. The other two-thirds are 
 
 **Technical confidence:** Terminal basics, Git, HTML/CSS, static deployment. The digital floor is laid.
 
-### Spring — IS 118: Interactive Computing
+### Spring — IS 118: Interactive Web Development *(Interactive Computing)*
 
 **Where Jaylen starts:** Can publish static pages. Can't make anything interactive. Doesn't know JavaScript.
 
@@ -54,7 +54,7 @@ Jaylen represents about a third of the incoming class. The other two-thirds are 
 
 ## Year 2: "I can build real software — and I understand why it matters."
 
-### Fall — IS 218: Software Engineering
+### Fall — IS 218: Building Web Applications *(Software Engineering)*
 
 **Where Jaylen starts:** Can write JS, fetch APIs, publish sites. Has never built anything with a backend, written a test, or used CI.
 
@@ -69,7 +69,7 @@ Jaylen represents about a third of the incoming class. The other two-thirds are 
 
 **Technical confidence:** Full-stack development, testing, CI/CD, deployment, monitoring basics. Jaylen is now a functioning software engineer, not a script kiddie.
 
-### Spring — IS 265: Problems & Persuasion
+### Spring — IS 265: Introduction to Information Systems *(Problems & Persuasion)*
 
 **Where Jaylen starts:** Can build software. Has no idea what a stakeholder is or why requirements are hard.
 
@@ -87,7 +87,7 @@ Jaylen represents about a third of the incoming class. The other two-thirds are 
 
 ## Year 3: "I understand the machine — and what it can't tell me."
 
-### Fall — IS 219: Systems & Resilience
+### Fall — IS 219: Adv Website Development *(Systems & Resilience)*
 
 **Where Jaylen starts:** Can build and deploy web apps. Doesn't understand what happens below the application layer.
 
@@ -102,7 +102,7 @@ Jaylen represents about a third of the incoming class. The other two-thirds are 
 
 **Technical confidence:** Linux, containers, networking, secrets management, monitoring, incident response. Jaylen can operate in a production environment, not just a code editor.
 
-### Spring — IS 331: Data & Knowledge
+### Spring — IS 331: Database Design, Management and Applications *(Data & Knowledge)*
 
 **Where Jaylen starts:** Can build and deploy systems. Doesn't understand data modeling, databases at depth, or how AI "knows" things.
 
@@ -121,7 +121,7 @@ Jaylen represents about a third of the incoming class. The other two-thirds are 
 
 ## Year 4: "I can analyze systems and lead AI projects."
 
-### Fall — IS 390: Systems Analysis & Design
+### Fall — IS 390: Requirements Analysis and Systems Design *(Systems Analysis & Design)*
 
 **Where Jaylen starts:** Can build software, manage infrastructure, work with data. Has not yet designed a full system from requirements through architecture, or analyzed how AI components change the systems design problem.
 
@@ -136,7 +136,7 @@ Jaylen represents about a third of the incoming class. The other two-thirds are 
 
 **The shift:** Jaylen stops thinking like a developer ("what should I build?") and starts thinking like an analyst ("what does this system need to be, and how do all the parts work together?").
 
-### Spring — IS 425: Applied AI Systems
+### Spring — IS 425: Enterprise AI Applications & Infrastructure *(Applied AI Systems)*
 
 **Where Jaylen starts:** Has all eight semesters of skills and capabilities, plus a complete systems analysis package from IS 390. Has never built a production AI system with knowledge graphs and human-in-the-loop workflows.
 

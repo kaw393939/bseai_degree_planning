@@ -7,7 +7,7 @@ description: Proposed new course(s) and proposed studio delivery expectations.
 
 This page lists what is **proposed** (not official catalog text).
 
-## IS 118 (Proposed) — Web Systems + JavaScript Foundations (Studio)
+## IS 118 (Proposed) — Interactive Web Development *(studio label: Interactive Computing)*
 
 IS118 is the bridge from “first exposure” to “real build competence.”
 

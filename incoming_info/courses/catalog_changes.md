@@ -7,21 +7,24 @@ Purpose: Map exactly what catalog/administrative changes are required for a Fall
 
 ## Executive Summary
 
-The BS in Enterprise AI degree requires **16 IS courses** (15 existing + 1 new). Of these:
+The BS in Enterprise AI degree requires **16 IS courses** (15 existing + 1 new). For Fall 2026 palatability, the approach is:
+
+- Keep **official catalog titles** as close to existing NJIT titles as possible
+- Use forward-looking names as **EAI labels/subtitles** (not the official title)
+- Avoid HCI territory conflicts by using existing **Special Topics** numbers for new electives
 
 | Category | Count | Courses |
 |----------|-------|---------|
 | ✅ No change needed | 2 | IS 350, IS 247 |
-| 🟢 Minor (title + delivery) | 3 | IS 117, IS 390, IS 425 |
-| 🟡 Moderate (title + content evolution) | 6 | IS 218, IS 331, IS 392, IS 465, IS 480, IS 491 |
+| 🟢 Minor (delivery + labeling) | 5 | IS 117, IS 390, IS 425, IS 385, IS 485 |
+| 🟡 Moderate (content evolution) | 6 | IS 218, IS 331, IS 392, IS 465, IS 480, IS 491 |
 | 🔴 Major (significant repurposing) | 2 | IS 265, IS 219 |
 | 🆕 New course | 1 | IS 118 |
-| ⚠️ Territory conflict (need new numbers) | 2 | IS 375 → new number, IS 448 → new number |
+| ⚠️ Territory conflict | 0 | Avoided for 2026 by using IS 385/485 Special Topics |
 
 **Net administrative actions:**
 - 1 new course proposal (IS 118)
-- 2 new course numbers needed (replacing IS 375 and IS 448 slots)
-- 11 course modification requests (title/description/prerequisite updates)
+- 8 course modification requests (description/prerequisite updates)
 - 2 courses unchanged (IS 350, IS 247)
 
 ---
@@ -32,28 +35,28 @@ These changes are small enough to go through a single catalog update cycle.
 
 ### 1.1 Title + Delivery Updates (3 courses)
 
-| Course | Current Title | Proposed Title | What Changes | Risk |
+| Course | Current Title | Proposed Catalog Title | EAI Label (subtitle) | What Changes | Risk |
 |--------|--------------|---------------|-------------|------|
-| IS 117 | Introduction to Website Development | Inquiry & Web Craft | Title, cap to 20–25, add Git/terminal/deploy | Low — content still teaches web dev |
-| IS 390 | Requirements Analysis and Systems Design | Systems Analysis & Design | Minor title change, add AI systems context | Very low — title is shorter/cleaner |
-| IS 425 | Enterprise AI Applications & Infrastructure | Applied AI Systems | Title shortened, studio delivery formalized, KG+HITL focus | Very low — course already close to target |
+| IS 117 | Introduction to Website Development | Introduction to Website Development | Inquiry & Web Craft | Cap to 20–25, add Git/terminal/deploy, portfolio artifacts | Low — content still teaches web dev |
+| IS 390 | Requirements Analysis and Systems Design | Requirements Analysis and Systems Design | Systems Analysis & Design | Studio delivery + AI-systems context in assignments | Very low |
+| IS 425 | Enterprise AI Applications & Infrastructure | Enterprise AI Applications & Infrastructure | Applied AI Systems | Studio delivery formalized, KG+HITL focus | Very low |
 
 ### 1.2 Content Evolution Updates (6 courses)
 
 | Course | Current → Proposed | Key Content Delta | Administrative Argument |
 |--------|-------------------|------------------|----------------------|
-| IS 218 | Building Web Applications → Software Engineering | Add CI/CD, testing, AI-assisted dev; drop CMS emphasis | "Web applications" in 2026 IS full-stack engineering. Natural evolution. |
-| IS 331 | Database Design → Data & Knowledge | Add graph DB, vector embeddings, hybrid retrieval; keep SQL core | Modern database practice includes graph + vector. SQL foundation preserved. |
-| IS 392 | AI-Driven Text Analytics → Applied AI & Language Systems | Add RAG, embeddings, reranking; keep NLP core | Course already mentions LLMs + prompt engineering. Expanding to cover architecture. |
-| IS 465 | Data Analytics for Business IS → Machine Learning for Enterprise AI | Shift from broad survey to focused ML practice | "Data analytics" was heading here anyway. ML is the applied form. |
-| IS 480 | Data-Centric AI → AI Quality & Reliability Engineering | Shift from data quality to system quality/eval | Data quality is a subset of reliability. Monitoring already covered. |
-| IS 491 | Senior Project – IS → Industry Practicum | From academic capstone to industry placement | IS 425 serves as capstone. Industry practicum provides applied experience. |
+| IS 218 | Building Web Applications *(EAI label: Software Engineering)* | Add CI/CD, testing, AI-assisted dev; reduce CMS emphasis | "Web applications" in 2026 IS full-stack engineering. Natural evolution. |
+| IS 331 | Database Design, Management and Applications *(EAI label: Data & Knowledge)* | Add graph DB, vector embeddings, hybrid retrieval; keep SQL core | Modern data systems practice includes graph + vector. SQL foundation preserved. |
+| IS 392 | AI-Driven Text Analytics *(EAI label: Applied AI & Language Systems)* | Add RAG, embeddings, reranking; keep NLP core | Course already mentions LLMs + prompt engineering. Expanding to cover architecture. |
+| IS 465 | Data Analytics for Business Information Systems *(EAI label: ML for Enterprise AI)* | Shift from broad survey to focused ML practice | "Data analytics" was heading here anyway. ML is the applied form. |
+| IS 480 | Data-Centric AI *(EAI label: AI Quality & Reliability Engineering)* | Expand from data quality to system quality/eval | Data quality is a subset of reliability. Monitoring already covered. |
+| IS 491 | Senior Project – IS *(EAI label: Industry Practicum)* | Add industry placement option + clearer practicum assessment | IS 425 serves as capstone. Industry practicum provides applied experience. |
 
 ---
 
 ## Phase 2: Major Changes (Need curriculum committee, start process now)
 
-### 2.1 IS 265: Introduction to Information Systems → Problems & Persuasion 🔴
+### 2.1 IS 265: Introduction to Information Systems *(EAI label: Problems & Persuasion)* 🔴
 
 **Current:** Survey of IS role in organizations, evolving IT, computer tools for analysis/presentation.
 
@@ -66,13 +69,13 @@ These changes are small enough to go through a single catalog update cycle.
 - No other course in the catalog covers applied problem-finding
 
 **Administrative steps:**
-1. Submit course modification with new title, description, and prerequisites (IS 218)
+1. Submit course modification with updated description and prerequisites (IS 218)
 2. Frame as "modernizing the IS foundations course to focus on applied skills"
 3. Ensure no other programs depend on IS 265 as a prerequisite (check cross-listings with MIS 245)
 
 **Prerequisite impact:** Currently has no prerequisites. Proposed: IS 218. This places it in Spring Year 2 instead of available anytime. Programs that use IS 265 as an early course need notification.
 
-### 2.2 IS 219: Adv Website Development → Systems & Resilience 🔴
+### 2.2 IS 219: Adv Website Development *(EAI label: Systems & Resilience)* 🔴
 
 **Current:** Advanced interactive websites: JS/DOM/jQuery, validation, cookies, AJAX, cross-browser.
 
@@ -85,13 +88,13 @@ These changes are small enough to go through a single catalog update cycle.
 - "Advanced website development" in 2026 IS infrastructure — you can't ship without it
 
 **Administrative steps:**
-1. Submit course modification with new title, description, and prerequisites (IS 265)
+1. Submit course modification with updated description and prerequisites (IS 265)
 2. Frame as "updating advanced web development to reflect current industry practice"
 3. This is the hardest sell — the content pivot is significant. Pair with IS 118 proposal to show JS content is relocated, not removed.
 
 **Prerequisite impact:** Currently requires IS 117 + CS 100. Proposed: IS 265. Moves to Fall Year 3 in the EAI sequence. Check if other programs use IS 219 as a prerequisite.
 
-### 2.3 IS 118: Interactive Computing 🆕
+### 2.3 IS 118: Interactive Web Development *(EAI label: Interactive Computing)* 🆕
 
 **Proposed:** JavaScript fundamentals, DOM, API integration, debugging, security hygiene basics.
 
@@ -107,9 +110,9 @@ These changes are small enough to go through a single catalog update cycle.
 
 ---
 
-## Phase 3: Territory Resolution (Requires negotiation)
+## Phase 3: Territory Resolution (Avoided for 2026)
 
-### 3.1 IS 375 & IS 448: HCI Program Courses
+### 3.1 IS 375 & IS 448: HCI Program Courses (do not repurpose)
 
 **Problem:** The current degree plan uses IS 375 (Service Learning Clinic) and IS 448 (Advanced Topics in Enterprise AI) with content that has nothing to do with their current catalog identities:
 
@@ -190,7 +193,7 @@ IS 491 (IS 331 + senior) ─ Summer or Fall 4
 ### Low Risk
 | Item | Why |
 |------|-----|
-| IS 117, 390, 425 title changes | Minimal delta, same course number, existing content overlaps |
+| IS 117, IS 390, IS 425 (official titles unchanged) | Minimal delta to official titles; changes are delivery + assignment modernization |
 | IS 350, IS 247 unchanged | Nothing to approve |
 | Studio delivery model | Internal pedagogy decision, doesn't require catalog change |
 | IS 392, IS 480 evolution | Content already heading this direction |
@@ -198,7 +201,7 @@ IS 491 (IS 331 + senior) ─ Summer or Fall 4
 ### Medium Risk
 | Item | Why | Mitigation |
 |------|-----|-----------|
-| IS 218 scope expansion | "Building Web Applications" → "Software Engineering" is a bigger jump | Frame as reflecting 2026 industry reality; CI/CD + testing IS web app development now |
+| IS 218 scope expansion | Expands beyond CMS-centric web apps into full-stack engineering (tests + CI/CD) | Frame as reflecting 2026 industry reality; CI/CD + testing are now part of web app development |
 | IS 331 adding graph/vector | Expands beyond traditional SQL | Keep SQL as 60%+ of content; graph/vector as forward-looking addition |
 | IS 465 ML pivot | "Business analytics" → "ML" sounds like a bigger shift than it is | Show that ML IS the applied form of data analytics; statistics foundation stays |
 | IS 491 practicum shift | Academic capstone → industry placement changes assessment structure | IS 425 is the academic capstone; IS 491 provides complementary industry experience |
@@ -207,9 +210,9 @@ IS 491 (IS 331 + senior) ─ Summer or Fall 4
 ### High Risk
 | Item | Why | Mitigation |
 |------|-----|-----------|
-| IS 265 major repurposing | "Intro IS" → "Problems & Persuasion" is a significant identity change | Check if other programs depend on IS 265. Frame as "applied IS fundamentals." |
+| IS 265 major repurposing | Keeps official title but shifts course identity toward applied problem framing | Check if other programs depend on IS 265. Frame as "applied IS fundamentals." |
 | IS 219 major pivot | JS/jQuery → Linux/containers is undeniable content swap | Pair with IS 118 proposal showing JS content is relocated. Frame as "modern web infrastructure." |
-| IS 375/448 territory | HCI courses being used for non-HCI content | Use IS 385/485 special topics numbers for 2026; avoid the conflict entirely |
+| Enterprise AI electives (numbers) | Avoiding HCI territory requires careful course numbering | Use IS 385/485 Special Topics for 2026; file permanent numbers after the electives prove themselves |
 
 ---
 
@@ -217,7 +220,7 @@ IS 491 (IS 331 + senior) ─ Summer or Fall 4
 
 ### What to do RIGHT NOW (Feb–Mar 2026)
 
-1. **Submit Phase 1 changes** (IS 117, 218, 331, 390, 392, 425, 465, 480, 491) — title and description updates
+1. **Submit Phase 1 changes** (IS 117, 218, 331, 390, 392, 425, 465, 480, 491) — description + prerequisite updates (keep official titles stable where possible)
 2. **Submit IS 118 new course proposal** — critical for the spine
 3. **Submit IS 265 modification** — start the committee process early
 4. **Submit IS 219 modification** — start the committee process early
@@ -234,7 +237,7 @@ IS 491 (IS 331 + senior) ─ Summer or Fall 4
 
 | If blocked on... | Fallback |
 |-----------------|----------|
-| IS 265 rename | Run IS 265 with current title but studio delivery + modernized content. File rename for 2027. |
+| IS 265 content change | Run IS 265 with current title but incremental modernization (stakeholders + requirements + persuasion). Push full studio version to 2027. |
 | IS 219 pivot | Run IS 219 with hybrid content (some JS, some infrastructure). Full pivot in 2027. |
 | IS 118 approval | Run IS 117 as 2-semester sequence (117A/117B) or use IS 385 special topics for the JS content. |
 | IS 375/448 territory | Already handled — use IS 385/485 special topics. |
