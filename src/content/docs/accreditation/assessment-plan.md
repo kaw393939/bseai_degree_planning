@@ -155,6 +155,8 @@ PEOs describe what graduates are expected to achieve 3–5 years after graduatio
 | PEO assessment | Every 3 years | Program director + faculty |
 | ABET self-study | Per accreditation cycle | Department-level |
 
+> **Data availability note:** The program launches Fall 2026. Initial assessment data for outcomes primarily assessed in upper-division studios (IS 219, IS 331, IS 390, IS 425) will not be available until AY 2028–2029, when the first cohort reaches those courses. Early assessment cycles will focus on SO-1, SO-2, SO-5, HE-1, and HE-5 data from IS 117 and IS 118.
+
 ### Decision Rules
 
 - If <70% of students score Proficient (3) or higher on a Human Edge artifact → review the teaching approach and exemplars for that capability

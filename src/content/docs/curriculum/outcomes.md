@@ -157,3 +157,9 @@ The human capabilities above are the *differentiating* outcomes. They rest on a 
 - **Document everything** — requirements, architecture, runbooks, postmortems, limitations
 
 These are table stakes. They are necessary. They are not sufficient. **The Human Edge is what makes a BS in Enterprise AI graduate irreplaceable.**
+
+---
+
+## How 8 Capabilities Become 5 Formal Outcomes
+
+The 8 capabilities above are the *pedagogical* framework — what each studio develops. For accreditation purposes, they are formally assessed through 5 measurable Human Edge outcomes (HE-1 through HE-5). See the [Student Outcomes](/bseai_degree_planning/program/student-outcomes/) page for the complete mapping table showing how each studio capability feeds into the formal HE outcomes.

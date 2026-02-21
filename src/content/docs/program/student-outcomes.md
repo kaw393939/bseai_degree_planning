@@ -96,7 +96,7 @@ The program develops **8 named Human Edge capabilities** — one per studio cour
 |---|---|---|---|
 | SO-1 (Analyze) | IS 117 | IS 265, IS 331 | IS 390, IS 425 |
 | SO-2 (Design) | IS 117, IS 118 | IS 218, IS 219, IS 331 | IS 390, IS 425 |
-| SO-3 (Communicate) | IS 118 | IS 265 | IS 425 |
+| SO-3 (Communicate) | IS 117, IS 118 | IS 218, IS 265, IS 219, IS 331 | IS 390, IS 425 |
 | SO-4 (Ethics) | IS 218 | IS 331, IS 350 | IS 425 |
 | SO-5 (Teamwork) | IS 117 | All studios | IS 425 |
 | HE-1 (AI Orchestration) | IS 117 | IS 218, IS 331 | IS 425 |

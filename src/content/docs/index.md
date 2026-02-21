@@ -24,7 +24,7 @@ AI will automate everything that can be reduced to a procedure. This program tra
 - [**The New Paradigm**](/bseai_degree_planning/philosophy/new-paradigm/) — The old career model is dead. Here's what replaces it.
 
 ### The Courses
-- [**All Eight Syllabi**](/bseai_degree_planning/syllabi/is117/) — Complete course designs for the studio spine
+- [**Syllabi: Start the Sequence**](/bseai_degree_planning/syllabi/is117/) — Complete course designs for all eight studio spine courses
 - [**Learning Objectives**](/bseai_degree_planning/program/learning-objectives/) — Bloom's-aligned objectives for every course
 - [**Curriculum Map**](/bseai_degree_planning/program/curriculum-map/) — How outcomes progress across the program
 

@@ -71,6 +71,8 @@ These capabilities are what make you **irreplaceable**.
 | Mid career (5 years) | $150K–$220K |
 | Senior (8+ years) | $180K–$350K+ |
 
+*Ranges based on AI-focused roles from Levels.fyi, Glassdoor, and LinkedIn Salary Insights (2024–2026). See [Job Market Evidence](/bseai_degree_planning/evidence/job-market/) for detailed breakdowns by role and company.*
+
 ### Jobs You'll Be Qualified For
 
 | Role | What You'd Do |

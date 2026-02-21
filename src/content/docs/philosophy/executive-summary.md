@@ -63,6 +63,8 @@ See [Accreditation Alignment](/bseai_degree_planning/accreditation/abet-alignmen
 
 ## Labor Market Evidence
 
+*Salary data from active job postings as of February 2026. See [Job Market Evidence](/bseai_degree_planning/evidence/job-market/) for methodology and sources.*
+
 | Role | Company | Salary | Key Requirements |
 |------|---------|--------|-----------------|
 | Forward-Deployed AI Engineer | Morningstar | $145–183K | AI prototyping, cross-functional collaboration, Claude Code/Cursor expertise, documentation |

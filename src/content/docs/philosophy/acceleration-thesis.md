@@ -76,7 +76,7 @@ The horse-to-car transition took ~15 years because it was bottlenecked by:
 
 AI has **none of these bottlenecks:**
 - It distributes at internet speed — a new model is available worldwide the day it's released
-- It improves by *building itself* — OpenAI's GPT-5.3 Codex "was instrumental in creating itself" (OpenAI, February 5, 2026)
+- It improves by *building itself* — OpenAI's GPT-5.3 Codex "was instrumental in creating itself" ([OpenAI, February 5, 2026](https://openai.com/index/introducing-gpt-5-3-codex/))
 - Marginal cost of deployment approaches zero — serving one more user costs almost nothing
 
 ### The METR Evidence

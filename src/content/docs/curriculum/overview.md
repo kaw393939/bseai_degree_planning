@@ -20,6 +20,8 @@ AI will automate everything that can be reduced to a procedure — code generati
 - **Creating meaning.** AI generates content. Humans decide what matters.
 - **Inspiring trust.** Leadership, credibility, persuasion — these require a human on the other end.
 
+These aspirations are operationalized through **eight studio capabilities** — one per course in the [core spine](/bseai_degree_planning/curriculum/core-studio-spine/) — each explicitly taught, assessed, and accumulated across the degree.
+
 ## The inversion
 
 Most technical programs treat human capabilities as "soft skills" — a seminar here, a communication course there. The technical content is the real curriculum; the human stuff is garnish.

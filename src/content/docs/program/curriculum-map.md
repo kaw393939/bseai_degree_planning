@@ -15,7 +15,7 @@ This matrix shows how each student outcome progresses across the eight-course st
 |---|---|---|---|---|---|---|---|---|
 | **SO-1** Analyze a complex computing problem | I | I | R | R | R | R | M | M |
 | **SO-2** Design, implement, evaluate a solution | I | I | R | R | R | R | M | M |
-| **SO-3** Communicate effectively | I | I | R | I | R | R | M | M |
+| **SO-3** Communicate effectively | I | I | R | R | R | R | M | M |
 | **SO-4** Professional/ethical responsibility | — | I | I | R | R | R | R | M |
 | **SO-5** Function on teams | I | I | R | R | R | R | M | M |
 
