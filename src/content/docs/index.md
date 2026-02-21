@@ -30,7 +30,7 @@ AI will automate everything that can be reduced to a procedure. This program tra
 
 ### The Evidence
 - [**Why Now**](/bseai_degree_planning/evidence/why-now/) — METR benchmarks, BLS data, and the window of opportunity
-- [**Job Market Data**](/bseai_degree_planning/evidence/job-market/) — $100K–$350K salary ranges and +34% growth projections
+- [**Job Market Data**](/bseai_degree_planning/evidence/job-market/) — $110K–$350K+ salary ranges and +34% growth projections
 
 ### For Stakeholders
 - [**For Administrators**](/bseai_degree_planning/stakeholders/for-administrators/) — One-page strategic overview
@@ -45,10 +45,12 @@ AI will automate everything that can be reduced to a procedure. This program tra
 In a world where AI generates code, analyzes data, writes documentation, and drafts architecture — the graduates who matter are the ones who can:
 
 1. **Ask** which question matters
-2. **Judge** when the machine is wrong
-3. **Find** the real problem in organizational noise
-4. **Design** for failure and own recovery
-5. **Reason** about what the data misses
-6. **Lead** with evidence and accountability
+2. **Translate** the invisible into the visible
+3. **Judge** when the machine is wrong
+4. **Find** the real problem in organizational noise
+5. **Design** for failure and own recovery
+6. **Reason** about what the data misses
+7. **See** the whole system, not just the parts
+8. **Lead** with evidence and accountability
 
 This is not a CS degree with AI courses bolted on. It is a new kind of degree for a new kind of professional — one where human judgment is the primary output and technical fluency is the necessary foundation.

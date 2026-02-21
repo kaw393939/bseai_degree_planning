@@ -30,13 +30,17 @@ Each studio course assesses both technical competence and Human Edge capability 
 
 ### Standard Assessment Components (All Studios)
 
-| Component | Weight | What It Measures |
+Each studio course allocates grade weight across these categories. Exact percentages vary by course — the ranges below are guidelines that each syllabus adapts to its specific context:
+
+| Component | Typical Range | What It Measures |
 |---|---|---|
-| **Deployed artifact** | 30–40% | Technical competence — does the system work, is it tested, is it deployed? |
-| **Human Edge artifact** | 20–25% | Capability development — does the student demonstrate the course's human capability? |
-| **Studio checkoffs** | 15–20% | Baseline skills — terminal, Git, deploy verified in person |
-| **Context Pack** | 10–15% | AI management skill — can the student construct effective context for agents? |
-| **Documentation** | 10% | Professional communication — README, runbook, design decisions |
+| **Deployed artifact** | 25–40% | Technical competence — does the system work, is it tested, is it deployed? |
+| **Human Edge artifact** | 15–25% | Capability development — does the student demonstrate the course's human capability? |
+| **Studio checkoffs** | 10–20% | Baseline skills — terminal, Git, deploy verified in person |
+| **Context Pack** | Embedded in project grade | AI management skill — can the student construct effective context for agents? |
+| **Documentation & presentation** | 10–15% | Professional communication — README, runbook, design decisions, Demo Day |
+
+*Note: The Context Pack is assessed as part of the overall project grade, not as a separate line item. Each syllabus maps its specific grade components to these categories — for example, in IS 117, the Museum Website (35%) serves as the Deployed Artifact and the Portfolio (25%) embeds Human Edge and documentation work. See individual syllabi for exact breakdowns.*
 
 ### Human Edge Artifacts by Course
 
@@ -75,7 +79,9 @@ Each year, a faculty committee reviews a stratified sample of student portfolios
 - **AI judgment:** Are AI Audit Logs showing increasingly nuanced evaluation?
 - **Context Packs:** Are students constructing more sophisticated context over time?
 
-### Demo Day Assessment (Starting Year 2)
+### Demo Day Assessment (Starting Semester 2)
+
+Demo Day begins with IS 118 (Year 1, Spring) and continues through the capstone. IS 117 concludes with a final presentation rather than a formal Demo Day. The format and audience scale up each year:
 
 | Dimension | Weight | Evaluated By |
 |---|---|---|
@@ -144,7 +150,7 @@ PEOs describe what graduates are expected to achieve 3–5 years after graduatio
 |---|---|---|
 | Human Edge artifact review | Every semester | Course instructor |
 | Portfolio progression review | Annual | Faculty committee (3+) |
-| Demo Day analysis | Every semester (Year 2+) | Faculty + external judges |
+| Demo Day analysis | Every semester (Semester 2+) | Faculty + external judges |
 | Industry Advisory Board | Annual | Program director + 5–7 industry members |
 | PEO assessment | Every 3 years | Program director + faculty |
 | ABET self-study | Per accreditation cycle | Department-level |

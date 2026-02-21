@@ -7,7 +7,7 @@ description: Paraphrased snapshots of current NJIT catalog descriptions for the 
 
 This page is a **paraphrased** snapshot of current NJIT catalog descriptions for the spine courses.
 
-For records and raw research outputs (not committed), see `incoming_info/njit_course_research/`.
+*Based on NJIT catalog research conducted February 2026. See [NJIT Catalog](https://catalog.njit.edu/) for current official descriptions.*
 
 ## Spine courses (current)
 
@@ -36,5 +36,5 @@ For records and raw research outputs (not committed), see `incoming_info/njit_co
   - Link: https://catalog.njit.edu/undergraduate/computing-sciences/informatics/
 
 - IS 425 — Enterprise AI Applications & Infrastructure
-  - Focus: enterprise AI systems; ingestion + ETL; vector DBs; HITL workflows; cost/quality optimization.
+  - Focus: enterprise AI systems; ingestion + ETL; vector DBs; HITL workflows; cost/quality optimization. *(Note: description reflects proposed studio content. Current catalog description may differ — see [NJIT Catalog](https://catalog.njit.edu/) for the official version.)*
   - Link: https://catalog.njit.edu/undergraduate/computing-sciences/information-systems/

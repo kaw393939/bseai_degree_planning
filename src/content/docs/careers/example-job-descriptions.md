@@ -9,12 +9,12 @@ These are **original** example job descriptions you can use when asked: “What 
 
 Salary ranges are **estimates** based on:
 
-- The salary ranges captured in your job signals file (`incoming_info/jobs.md`, kept untracked)
-- Current web research using `eai search` (saved under `incoming_info/eai_research/`, gitignored)
+- Recent AI-focused job postings (2024–2025) from companies including Morningstar, Scale AI, Palantir, and Y Combinator-backed startups
 - BLS Occupational Outlook Handbook medians (May 2024) as baseline reference:
   - Software Developers: https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm
   - Data Scientists: https://www.bls.gov/ooh/math/data-scientists.htm
   - Information Security Analysts: https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm
+- Levels.fyi, Glassdoor, Salary.com, and H1B filing aggregators
 
 Actual pay varies by location, seniority, company type, and total-comp structure.
 

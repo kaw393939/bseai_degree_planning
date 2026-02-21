@@ -138,6 +138,8 @@ IS 117 → IS 118 → IS 218 → IS 265
 
 Each studio requires the prior one. No skipping. The accumulation model only works if every student goes through the full progression.
 
+*Note: IS 218 also requires CS 100 (Introduction to Computer Science) as a co-prerequisite. CS 100 is taken in Fall 1 alongside IS 117.*
+
 ---
 
 ## What This Produces

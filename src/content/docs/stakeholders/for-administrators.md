@@ -33,8 +33,8 @@ An eight-course studio spine that takes students from zero technical knowledge t
 |--------|------|
 | Data scientist growth (BLS 2024–2034) | +34% — among fastest-growing occupations |
 | Software developer growth | +15%, ~287,900 new jobs |
-| Entry-level AI salary range | $100K–$150K |
-| Mid-career AI salary range | $150K–$350K |
+| Entry-level AI salary range | $110K–$150K |
+| Mid-career AI salary range | $150K–$220K |
 
 No peer institution offers a program that explicitly teaches the **integration layer** — building production AI systems with human judgment, evaluation, and accountability.
 

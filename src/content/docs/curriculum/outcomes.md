@@ -122,7 +122,7 @@ Assessment evidence: Systems decomposition documents, architecture tradeoff anal
 
 Why AI can't do this: AI can analyze individual components. It cannot reason about how components interact in ways that produce unexpected behavior. Complex systems have emergent properties — failures, bottlenecks, feedback loops — that only appear when you understand the whole. That requires a human mind that can hold the entire system in view.
 
-*Note: Moral reasoning and AI ethics are developed in IS 350 (Computers, Society & Ethics), the dedicated ethics course taken in Year 2.*
+*Note: While every studio addresses ethical judgment in context, IS 350 (Computers, Society & Ethics) provides the dedicated academic foundation in AI ethics and governance, taken in Year 2.*
 
 ---
 

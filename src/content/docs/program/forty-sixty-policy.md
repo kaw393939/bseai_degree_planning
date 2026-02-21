@@ -45,7 +45,7 @@ After this, students *understand* what the AI is doing when they direct it in th
 
 ## Why 60%: The Actual Workflow
 
-The 60% agentic portion is not "use AI to make things easier." It is training in the **actual professional workflow** that employers are already paying $137K–$350K for.
+The 60% agentic portion is not "use AI to make things easier." It is training in the **actual professional workflow** that employers are already paying $110K–$350K+ for.
 
 What students practice in the 60%:
 
@@ -88,7 +88,7 @@ Taking responsibility for the final product regardless of who (or what) produced
 
 ## The Ratio Will Change — By Design
 
-If METR's doubling time holds (~3–5 months), the floor of what AI handles autonomously will rise continuously. The 40/60 split defined in 2026 may need to become 30/70 by 2028 and 20/80 by 2030.
+If METR's doubling time holds (∼3 months and accelerating), the floor of what AI handles autonomously will rise continuously. The 40/60 split defined in 2026 may need to become 30/70 by 2028 and 20/80 by 2030.
 
 **This is expected and desirable.** As AI becomes more capable, students need less procedural practice and more evaluation/judgment practice. The policy includes a review mechanism:
 

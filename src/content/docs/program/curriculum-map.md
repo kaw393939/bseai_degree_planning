@@ -58,7 +58,7 @@ The Context Pack — the program's signature recurring artifact — progresses a
 
 | Course | Context Pack Scope | Components |
 |---|---|---|
-| IS 117 | Single page/component | Project Brief + basic requirements |
+| IS 117 | Simple website project | Project Brief + basic requirements |
 | IS 118 | Multi-page interactive app | + API documentation, interaction requirements |
 | IS 218 | Full-stack application | + Architecture patterns, testing criteria, CI/CD specs |
 | IS 265 | Organizational problem | + Stakeholder map, political context, assumptions log |

@@ -91,7 +91,7 @@ METR (Model Evaluation & Threat Research) tracks the length of real-world tasks 
 
 Source: [METR Time Horizons](https://metr.org/time-horizons/), updated February 20, 2026
 
-If this trajectory holds:
+If this trajectory holds — and note that the doubling time has only *accelerated* so far, though historically exponentials do not hold forever — the projections suggest:
 - **Late 2026:** AI handles full-workday tasks autonomously
 - **Mid 2027:** Multi-day projects
 - **Early 2028:** Week-long sprints

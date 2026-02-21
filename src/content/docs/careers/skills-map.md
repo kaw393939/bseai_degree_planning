@@ -5,7 +5,7 @@ description: A curriculum-aligned view of the skills that appear repeatedly acro
 
 # Skills Map (from job signals)
 
-This page distills recurring requirements from the job signals captured in `incoming_info/jobs.md` (kept untracked) into a curriculum-friendly skills map.
+This page distills recurring requirements from recent AI-focused job postings (2024–2025) into a curriculum-friendly skills map.
 
 ## 1) Product-minded AI engineering (prototype → production)
 

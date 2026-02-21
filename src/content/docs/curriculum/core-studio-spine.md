@@ -7,7 +7,7 @@ description: "Eight studio courses pairing a technical domain with an irreplacea
 
 Every studio has two co-equal pillars: a **technical domain** and a **Human Edge** capability. Both are graded. Both produce portfolio-grade artifacts. Neither is optional.
 
-**Operating constraints:** Cohort cap 20–25 · Portfolio artifact every semester · Terminal + Git + deploy every semester · Demo Day starting Year 2
+**Operating constraints:** Cohort cap 20–25 · Portfolio artifact every semester · Terminal + Git + deploy every semester · Demo Day starting Semester 2 (IS 118 onward; IS 117 ends with a final presentation)
 
 ---
 
@@ -159,7 +159,7 @@ Ethics and governance are handled by IS 350 (Computers, Society & Ethics). IS 39
 
 **Technical domain:** Knowledge graphs, human-in-the-loop workflows, vector + graph retrieval, agent/tool orchestration, evaluation harnesses, regression gates, observability, client engagement — the integration of everything.
 
-This is the capstone. A real client. A real problem. A production-grade AI system where **knowledge graphs** structure domain understanding, **HITL workflows** keep humans in control of critical decisions, and the full stack of skills from every prior course comes together. Students build, evaluate, deploy, present at Demo Day, and write an honest postmortem. This is Keith Williams's class — where Neural Fabric concepts (local LLM + graph + vector + observability for mission-critical AI) come to life in student hands.
+This is the capstone. A real client. A real problem. A production-grade AI system where **knowledge graphs** structure domain understanding, **HITL workflows** keep humans in control of critical decisions, and the full stack of skills from every prior course comes together. Students build, evaluate, deploy, present at Demo Day, and write an honest postmortem. This is where Neural Fabric concepts — local LLM + graph + vector + observability for mission-critical AI — come to life in student hands.
 
 **System scope (non-negotiable):**
 - Knowledge graph: entities, relationships, and reasoning over domain structure

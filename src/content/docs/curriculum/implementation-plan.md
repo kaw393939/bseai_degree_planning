@@ -1,95 +1,100 @@
 ---
-title: Implementation Plan (Draft)
-description: Prioritized next steps to deliver studio-based core courses and the Center for Enterprise AI.
+title: Implementation Plan
+description: Phased timeline for launching the BS in Enterprise AI studio spine and supporting infrastructure.
 ---
 
-# Implementation Plan (Draft)
+# Implementation Plan
 
-This plan is derived from the planning notes in `incoming_info/` and is intended to be *operational*: what to build, in what order, with what evidence.
+This plan outlines the phased rollout of the BS in Enterprise AI, from curriculum design through full-cohort operation. The program launches with its first cohort in **Fall 2026**; all 8 studio courses are operational by **Spring 2030**.
 
-## Phase 0 — Lock the operating model (2–3 weeks)
+## Phase 0 — Curriculum Design & Approval (Spring 2025 – Spring 2026)
 
-**Studio constraints (non-negotiables)**
+**Objective:** Finalize the operating model, secure MSCHE approval, and prepare the first course for launch.
 
-- Core courses run as studios with **real feedback cycles**
+**Operating model (non-negotiables)**
+
+- All spine courses run as studios with real feedback cycles and shipped artifacts
 - Section cap: **20–25 students**
-- “Terminal + Linux” is required for a meaningful portion of coursework (target: **30–40%** of tasks)
+- Terminal + Linux required for a meaningful portion of coursework (target: **30–40%** of tasks)
+- [40/60 policy](/bseai_degree_planning/program/forty-sixty-policy/): every course balances 40% foundational skill-building with 60% AI-augmented professional practice
 
 **Deliverables**
 
-- Studio rubric used across courses (quality, evaluation, reliability, responsible AI, documentation)
+- Studio rubric framework used across all 8 spine courses (quality, evaluation, reliability, responsible AI, documentation)
 - Shared repo templates: service skeleton, eval harness skeleton, runbook template
+- IS 118 new-course proposal submitted (the only course requiring a new catalog number)
+- MSCHE substantive-change notification filed
 
-## Phase 1 — Near-term course readiness (target: Fall 2026)
+## Phase 1 — First Cohort Launch (Fall 2026 – Spring 2027)
 
-From the near-term plan:
+| Semester | Studio Course | Capability Focus |
+|----------|--------------|------------------|
+| Fall 2026 | **IS 117** — Computational Thinking | Disciplined Inquiry |
+| Spring 2027 | **IS 118** — Interactive Computing | Translation |
 
-- IS117 (studio)
-- IS265 (studio)
-- IS218 (studio)
-- IS331 (studio)
-- IS390 (studio)
-
-**What to standardize across all of them**
+**Standardizations across all studios (implemented before Fall 2026)**
 
 - Git workflow + CI checks
-- A minimum testing expectation
+- Minimum testing expectation (unit tests from IS 117; integration tests from IS 218 onward)
 - Logging/observability expectation
-- A “handoff artifact” requirement (README + runbook + evaluation note)
+- Handoff artifact requirement (README + runbook + evaluation note)
+- [Context Pack](/bseai_degree_planning/program/context-pack/) as a recurring deliverable
 
-## Phase 2 — Add the 3XX service learning clinic (Center on-ramp)
+## Phase 2 — Sophomore Studios (Fall 2027 – Spring 2028)
 
-Add a 300-level service learning course as the Center’s on-ramp.
+| Semester | Studio Course | Capability Focus |
+|----------|--------------|------------------|
+| Fall 2027 | **IS 218** — Software Engineering | Professional Judgment |
+| Spring 2028 | **IS 265** — Data & AI Fundamentals | Problem Finding |
 
-**Purpose**
+Technical coverage expands: containerized deployment, API design, data pipelines, SQL, and introductory ML evaluation. Demo Day begins in IS 118 and continues every semester from this point forward.
 
-- Public AI training delivery (teach-by-building modules)
-- Partner projects scoped for real delivery (not research-only)
+## Phase 3 — Junior Studios + Service Learning (Fall 2028 – Spring 2029)
 
-**Required artifacts**
+| Semester | Studio Course | Capability Focus |
+|----------|--------------|------------------|
+| Fall 2028 | **IS 219** — AI-Augmented Development | Resilience Thinking |
+| Spring 2029 | **IS 331** — AI Data Systems | Epistemic Humility |
 
-- Training module(s) + hands-on lab(s)
-- Partner-facing deliverable + documentation
-- Reflection and postmortem (what worked, what failed, what to change)
-
-## Phase 3 — The Enterprise AI “spine” (junior/senior studios)
-
-The spine should explicitly cover what your job signals emphasize:
+**Technical spine coverage at this stage:**
 
 - LLM application engineering (RAG + tool use + agentic orchestration)
 - Evaluation and AI QA (offline + online eval, regression gates)
-- Data competence (SQL, pipelines, quality)
+- Data competence (SQL, graph + vector stores, pipeline quality)
 - Systems/reliability (deployment, monitoring, rollbacks)
-- Responsible AI + governance artifacts
+- IS 331 introduces graph and vector as data structures for real corpora (entities/relationships + retrieval)
 
-**Where graph + vector belong**
+**Center for Enterprise AI on-ramp:** A 300-level service learning clinic may be added as the Center’s intake point, scoping partner projects for real delivery with training modules, partner-facing deliverables, and reflection postmortems.
 
-- IS331: introduce graph and vector as data structures for real corpora (entities/relationships + retrieval)
-- IS425: require a production-style system that combines graph + vector + orchestration + evals + HITL
+## Phase 4 — Senior Studios & Capstone (Fall 2029 – Spring 2030)
 
-## Phase 4 — Demo Day as a grading component (each semester)
+| Semester | Studio Course | Capability Focus |
+|----------|--------------|------------------|
+| Fall 2029 | **IS 390** — AI Product Studio | Systems Thinking |
+| Spring 2030 | **IS 425** — Enterprise AI Capstone | Accountable Leadership |
 
-Demo Day can work well if it’s rubric-driven and not purely “best demo wins.”
+IS 425 requires a production-style system combining graph + vector + orchestration + evaluation + HITL workflows. The capstone Demo Day serves as the program’s signature assessment, evaluated by industry judges.
 
-**Recommended grading split**
+## Demo Day Assessment Model
 
-- 25% external judging (value + clarity + evidence)
-- 25% faculty rubric (engineering depth + eval + reliability + responsible AI)
-- 25–35% technical deliverables (tests, CI, docs, reproducibility)
-- 15–25% individual contribution (peer + commit evidence)
+Demo Day operates as a **grading component within each course** (typically 15% of the course grade, starting in IS 118). The Demo Day portion is itself rubric-driven:
 
-## Phase 5 — Industry coalition + project intake
+| Component | Weight (within Demo Day) |
+|-----------|------------------------|
+| External judging (value + clarity + evidence) | 25% |
+| Faculty rubric (engineering depth + eval + reliability + responsible AI) | 25% |
+| Technical deliverables (tests, CI, docs, reproducibility) | 25–35% |
+| Individual contribution (peer + commit evidence) | 15–25% |
 
-To sustain the Center, you need a predictable intake pipeline.
+See the [Assessment Plan](/bseai_degree_planning/accreditation/assessment-plan/) for the full continuous-improvement framework.
+
+## Industry Coalition & Project Intake
+
+To sustain the Center for Enterprise AI and provide authentic senior projects, the program establishes a predictable intake pipeline:
 
 **Minimum viable intake process**
 
 - One-page project proposal template (data access, success metrics, risks)
 - Two-week scoping window at semester start
 - Named stakeholder and weekly check-in
-
-## What to do next (this week)
-
-1. Write the one-page studio rubric and apply it to IS117/265/218/331/390.
-2. Define the “Linux + security + cloud” baseline as a checklist students must pass.
-3. Draft the 3XX service learning clinic proposal (learning outcomes + deliverables).
+- IS 390 and IS 425 students work on industry-sourced projects as their studio deliverables

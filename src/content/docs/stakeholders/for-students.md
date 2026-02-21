@@ -67,9 +67,9 @@ These capabilities are what make you **irreplaceable**.
 
 | Career Stage | Expected Range |
 |-------------|---------------|
-| Entry level (graduation) | $100K–$150K |
-| Mid career (5 years) | $150K–$250K |
-| Senior (8+ years) | $200K–$350K+ |
+| Entry level (graduation) | $110K–$150K |
+| Mid career (5 years) | $150K–$220K |
+| Senior (8+ years) | $180K–$350K+ |
 
 ### Jobs You'll Be Qualified For
 
@@ -84,7 +84,7 @@ These capabilities are what make you **irreplaceable**.
 
 ### The Premium
 
-Traditional IS graduates typically start at $65K–$80K. BS in EAI graduates are projected to start at $100K–$150K — a **50–80% premium** — because you can build production AI systems, not just analyze business problems.
+Traditional IS graduates typically start at $65K–$80K (NJIT Class of 2024: CS average $92,375). BS in EAI graduates are projected to start at $110K–$150K — a **40–85% premium** over traditional IS — because you can build production AI systems, not just analyze business problems.
 
 ---
 

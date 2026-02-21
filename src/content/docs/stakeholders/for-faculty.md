@@ -57,6 +57,8 @@ You don't need to ban AI or pretend it doesn't exist. You also don't let student
 | Agentic | 60 min | Direct Copilot to build three more features using the same pattern. Audit each suggestion. Log decisions. |
 | Debrief | 15 min | Class discussion: where was AI helpful? Where was it wrong? What would you NOT trust it with? |
 
+*Note: The 40/60 split is a time-allocation guideline for the semester, not a rigid per-session formula. Contact hours are 3 hrs/week per syllabus. Some sessions will lean more toward hard-way or agentic work depending on the material.*
+
 ---
 
 ## The Human Edge Capability
@@ -99,7 +101,7 @@ Assessment is artifact-based: deployed projects, Human Edge documents, Context P
 
 ### Demo Day
 
-Every course ends with some form of Demo Day:
+Every course from IS 118 onward ends with Demo Day; IS 117 ends with a final presentation:
 - Students present their work to peers (and where possible, industry guests)
 - They demonstrate the working artifact, explain their decisions, and respond to questions
 - Scoring includes: functionality, communication clarity, honest self-assessment, and evidence of the Human Edge capability
@@ -149,6 +151,10 @@ The 40% hard-way component is your assessment of understanding. The AI Audit Log
 ### "What if I don't agree with the 40/60 ratio?"
 
 The ratio is a guideline, not a rigid rule. Some weeks will be more hard-way, some more agentic. The principle is: students must build understanding before they can direct AI effectively. If you have a pedagogical reason to adjust, document it and discuss at the cross-course coordination meeting.
+
+### "How does the 40/60 split relate to grading?"
+
+The 40/60 split is a pedagogical guideline for time allocation, not a grading split. See the [Assessment Plan](/bseai_degree_planning/accreditation/assessment-plan/) for grading categories.
 
 ### "How does this affect my academic freedom?"
 

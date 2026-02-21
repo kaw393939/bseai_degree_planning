@@ -12,7 +12,7 @@ New Jersey Institute of Technology · Ying Wu College of Computing
 
 ## The Opportunity
 
-AI is automating cognitive work at an accelerating rate. The METR benchmark shows AI task-completion capability doubling every 3–5 months (METR, February 2026). Employers are already hiring "Forward-Deployed AI Engineers," "AI Deployment Engineers," and "AI Product Engineers" at $137,000–$350,000 (Morningstar, OpenAI, Titan, WorkWhile — see [Job Market Evidence](/bseai_degree_planning/evidence/job-market/)).
+AI is automating cognitive work at an accelerating rate. The METR benchmark shows AI task-completion capability doubling approximately every 3 months — and accelerating (METR, February 2026). Employers are already hiring "Forward-Deployed AI Engineers," "AI Deployment Engineers," and "AI Product Engineers" at $137,000–$350,000 (Morningstar, OpenAI, Titan, WorkWhile — see [Job Market Evidence](/bseai_degree_planning/evidence/job-market/)).
 
 These roles don't require someone who can write code. They require someone who can **direct AI agents, evaluate their output, and take responsibility for the result** — while collaborating across product, design, and research functions.
 
@@ -31,7 +31,7 @@ No existing degree program at NJIT — or nationally — is designed from first 
 | 3 | IS 219 → IS 331 | Resilience Thinking + Epistemic Humility | Linux, containers, databases, knowledge graphs |
 | 4 | IS 390 → IS 425 | Systems Thinking + Accountable Leadership | Systems design, AI integration, capstone with real client |
 
-**Supported by:** CS 100, CS 114, MATH 111/211/226, DS 100, IS 247, IS 350, IS 392, IS 465, IS 480, and industry practicum.
+**Supported by:** CS 100, CS 114, MATH 111/211/226, DS 100, IS 247, IS 350, IS 392, IS 465, IS 480, and additional applied courses (IS 385, IS 491, IS 485).
 
 ---
 
@@ -81,14 +81,14 @@ BLS projects +15% growth for software developers, +34% for data scientists, and 
 
 - **Faculty:** 4 instructors committed and prepared for studio pedagogy
 - **Facilities:** Standard computing labs (students use personal machines + cloud)
-- **Existing courses leveraged:** 6 of 8 spine courses use existing NJIT catalog numbers (IS 117, IS 218, IS 219, IS 265, IS 331, IS 390). IS 118 is proposed. IS 425 is an existing number with updated content.
+- **Existing courses leveraged:** 7 of 8 spine courses use existing NJIT catalog numbers (IS 117, IS 218, IS 219, IS 265, IS 331, IS 390, IS 425). Only IS 118 requires a new course proposal. IS 425 is an existing number with updated content.
 - **Timeline:** Phase 1 courses ready for Fall 2026
 
 ---
 
 ## The Thesis in One Sentence
 
-AI will automate everything that can be reduced to a procedure; this degree trains what remains — the irreplaceable human capabilities that make someone worth $137K–$350K in the AI economy.
+AI will automate everything that can be reduced to a procedure; this degree trains what remains — the irreplaceable human capabilities that make someone worth $110K–$350K+ in the AI economy.
 
 ---
 

@@ -61,7 +61,7 @@ However, the program director should confirm with NJIT's MSCHE liaison whether t
 
 - **Human Edge Artifacts:** Each studio produces a graded artifact specifically assessing the course's human capability (inquiry log, translation brief, AI audit log, failure mode analysis, etc.)
 - **Portfolio Accumulation:** Students build 8 projects over 4 years, reviewed for quality and progression
-- **Demo Day:** Starting Year 2, external judges score presentations on technical depth, communication, evidence, and responsibility
+- **Demo Day:** Starting Semester 2 (IS 118 onward), external judges score presentations on technical depth, communication, evidence, and responsibility
 - **AI Audit Logs:** From IS 218 onward, students document their judgment about AI output — creating a longitudinal record of developing professional judgment
 - **Capstone (IS 425):** Production AI system built for a real client, with postmortem and improvement plan
 
@@ -89,7 +89,7 @@ Assess → Analyze → Improve → Re-assess
 | **Faculty** | 4 committed instructors. Studio cap of 20–25 enables intensive mentoring. Faculty actively use AI tools in practice. |
 | **Facilities** | Standard NJIT computing labs. Students use personal machines + cloud infrastructure. No specialized hardware required. |
 | **Library/IT** | NJIT library provides standard computing holdings. AI tools are cloud-based ($20/month student cost or institutional license). |
-| **Budget** | Minimal incremental cost: 6 of 8 spine courses use existing catalog numbers. Primary investment is faculty time for studio preparation. |
+| **Budget** | Minimal incremental cost: 7 of 8 spine courses use existing catalog numbers. Primary investment is faculty time for studio preparation. |
 | **Student support** | Standard NJIT advising + studio model provides intensive cohort-based support. IS 117 starts from zero — remediation is built in. |
 
 ### Planning

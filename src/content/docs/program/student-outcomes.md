@@ -71,6 +71,25 @@ In addition to the five ABET outcomes, graduates will demonstrate:
 
 ---
 
+## How the 8 Studio Capabilities Map to the 5 HE Outcomes
+
+The program develops **8 named Human Edge capabilities** — one per studio course — which are formally assessed through the **5 HE outcomes** above. This table makes the mapping explicit:
+
+| Studio Capability | Primary Course | Assessed Through HE Outcome(s) | Rationale |
+|---|---|---|---|
+| **Disciplined Inquiry** | IS 117 | HE-1, HE-4 | Inquiry is the foundation of AI orchestration (knowing what to ask) and epistemic responsibility (knowing what you don't know) |
+| **Translation** | IS 118 | HE-1, HE-5 | Translation = constructing effective context for AI and human audiences; adapts across domains |
+| **Professional Judgment** | IS 218 | HE-2 | Direct mapping — judging AI output under uncertainty is the core of professional judgment |
+| **Problem Finding** | IS 265 | HE-1, HE-2 | Finding the right problem requires orchestrating inquiry AND exercising judgment about what matters |
+| **Resilience Thinking** | IS 219 | HE-3 | Direct mapping — designing for failure, owning recovery |
+| **Epistemic Humility** | IS 331 | HE-4 | Direct mapping — acknowledging data/model limitations |
+| **Systems Thinking** | IS 390 | HE-1, HE-4, HE-5 | Seeing the whole system requires orchestration skill, epistemic awareness, and adaptability |
+| **Accountable Leadership** | IS 425 | HE-2, HE-3, HE-5 | Leadership integrates judgment, failure ownership, and adaptive capability at the capstone level |
+
+**Why 8 capabilities → 5 outcomes:** ABET assesses outcomes (what students *can do* at graduation), not individual course capabilities. The 8 capabilities are the pedagogical framework — they describe what each studio develops. The 5 HE outcomes are the assessment framework — they describe the measurable, cumulative results. Some capabilities contribute to multiple outcomes; some outcomes integrate multiple capabilities. This is analogous to how individual course topics combine into holistic ABET student outcomes.
+
+---
+
 ## Outcome Achievement Timeline
 
 | Outcome | Introduced | Reinforced | Mastered |

@@ -59,9 +59,9 @@ BLS captures median salaries across all experience levels and regions. Industry-
 
 | Experience Level | Total Compensation Range | Sources |
 |-----------------|-------------------------|---------|
-| Entry Level (0–2 years) | $100K–$150K | Levels.fyi, LinkedIn |
-| Mid Level (3–5 years) | $150K–$250K | Levels.fyi, Glassdoor |
-| Senior (5–8 years) | $200K–$350K | Levels.fyi |
+| Entry Level (0–2 years) | $110K–$150K | Levels.fyi, LinkedIn, Glassdoor |
+| Mid Level (3–5 years) | $150K–$220K | Levels.fyi, Glassdoor |
+| Senior (5–8 years) | $180K–$350K+ | Levels.fyi |
 | Staff/Principal (8+ years) | $300K–$500K+ | Levels.fyi |
 
 Note: Total compensation includes base salary, bonus, and equity. Ranges vary by company tier and location.
@@ -161,8 +161,10 @@ NJIT's location in the New York metro area provides access to one of the world's
 
 | Metric | Traditional IS Graduate | BS in EAI Graduate (projected) |
 |--------|------------------------|-------------------------------|
-| Entry salary (median) | $65K–$80K | $100K–$130K |
+| Entry salary (median) | $65K–$80K | $110K–$150K |
 | 5-year salary (median) | $85K–$110K | $150K–$220K |
+
+*Traditional IS baseline drawn from BLS Computer and Information Systems data (2024) and NJIT Class of 2024 career outcomes (CS average: $92,375, DS average: $89,000).*
 | Role breadth | IT analyst, systems admin, business analyst | AI systems engineer, knowledge engineer, AI PM, AI consultant |
 | Career trajectory | Management → CIO track | Technical leadership + management → CTO/CAIO track |
 

@@ -134,7 +134,7 @@ Prior Context: All prior Context Packs synthesized, lessons from every studio
 
 ## Assessment
 
-The Context Pack is assessed on:
+The Context Pack is assessed as part of the overall project grade in each studio course (not as a separate line item). Faculty evaluate Context Packs on:
 
 | Criterion | Weight | What It Measures |
 |---|---|---|

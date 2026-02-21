@@ -5,7 +5,7 @@ description: A non-verbatim summary of roles and pay bands captured in incoming 
 
 # Job Signals Summary (sanitized)
 
-This is a **non-verbatim** summary of the roles captured in `incoming_info/jobs.md` (kept untracked). It exists to translate job-posting signals into curriculum-relevant takeaways.
+This is a **non-verbatim** summary of roles observed in recent AI-focused job postings (2024–2025). It exists to translate job-posting signals into curriculum-relevant takeaways.
 
 ## Roles seen (examples)
 
