@@ -1,27 +1,31 @@
 ---
-title: Home
-description: Planning hub for NJIT Informatics BS in Enterprise AI.
+title: "The Human Edge"
+description: "Planning hub for the NJIT BS in Enterprise AI — training irreplaceable leaders for an AI-powered world."
 ---
 
-# BS in Enterprise AI
+# BS in Enterprise AI — The Human Edge
 
-This site is the working planning space for a proposed **BS in Enterprise AI** in the **NJIT Informatics Department**.
+AI will automate everything that can be reduced to a procedure. This program trains what's left: the human capabilities that make someone irreplaceable.
 
-The goal is to design a degree that prepares students to become:
+**Eight studios. Eight human capabilities. Four years. One transformation.**
 
-- **AI Product Engineers** (shipping AI-enabled products end-to-end)
-- **AI Software Engineers** (building reliable AI/ML systems and platforms)
+## Start here
 
-## What lives here
+- [**The Human Edge (Vision)**](/bseai_degree_planning/curriculum/overview/) — Why this program exists and what makes it different
+- [**The Eight Studios**](/bseai_degree_planning/curriculum/core-studio-spine/) — The renamed course spine with paired technical and human outcomes
+- [**The Human Edge Framework**](/bseai_degree_planning/curriculum/outcomes/) — Eight irreplaceable capabilities, defined and assessed
+- [**The Complete Degree**](/bseai_degree_planning/curriculum/course-sequence/) — Full four-year plan, every course, semester by semester
+- [**The Student Journey**](/bseai_degree_planning/curriculum/student-journey/) — Jaylen's four-year transformation, honestly told
 
-- Curriculum structure, course sequence, and requirements
-- Program outcomes and skills map
-- Notes from research, benchmarking, and stakeholder input
+## The thesis
 
-## How to use this repo
+In a world where AI generates code, analyzes data, writes documentation, and drafts architecture — the graduates who matter are the ones who can:
 
-- Keep planning content as Markdown under `src/content/docs/`.
-- Add new pages under the relevant section (Curriculum, Research, etc.).
-- Use short, decision-oriented notes and link to supporting research.
+1. **Ask** which question matters
+2. **Judge** when the machine is wrong
+3. **Find** the real problem in organizational noise
+4. **Design** for failure and own recovery
+5. **Reason** about ethics under pressure
+6. **Lead** with evidence and accountability
 
-Start with the Curriculum section.
+This is not a CS degree with AI courses bolted on. It is a new kind of degree for a new kind of professional — one where human judgment is the primary output and technical fluency is the necessary foundation.

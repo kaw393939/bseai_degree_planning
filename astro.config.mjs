@@ -6,9 +6,9 @@ export default defineConfig({
   base: '/bseai_degree_planning',
   integrations: [
     starlight({
-      title: 'BS in Enterprise AI',
+      title: 'BS in Enterprise AI — The Human Edge',
       description:
-        'Curriculum planning hub for NJIT Informatics — preparing AI Product Engineers and AI Software Engineers.',
+        'Curriculum planning hub for the NJIT BS in Enterprise AI — training irreplaceable leaders for an AI-powered world.',
       social: [
         {
           icon: 'github',
@@ -18,16 +18,21 @@ export default defineConfig({
       ],
       sidebar: [
         {
-          label: 'Curriculum',
+          label: 'The Program',
           items: [
-            { label: 'Program Overview', slug: 'curriculum/overview' },
-            { label: 'Course Sequence (Draft)', slug: 'curriculum/course-sequence' },
-            { label: 'Outcomes & Competencies (Draft)', slug: 'curriculum/outcomes' },
-            { label: 'Core Studio Spine (Draft)', slug: 'curriculum/core-studio-spine' },
-            { label: 'Student Journey (Draft)', slug: 'curriculum/student-journey' },
+            { label: 'The Human Edge (Vision)', slug: 'curriculum/overview' },
+            { label: 'The Eight Studios', slug: 'curriculum/core-studio-spine' },
+            { label: 'The Human Edge Framework', slug: 'curriculum/outcomes' },
+            { label: 'The Complete Degree', slug: 'curriculum/course-sequence' },
+            { label: 'The Student Journey', slug: 'curriculum/student-journey' },
+          ]
+        },
+        {
+          label: 'Reference',
+          items: [
             { label: 'Course Catalog (Current)', slug: 'curriculum/course-catalog-current' },
             { label: 'Course Catalog (Proposed)', slug: 'curriculum/course-catalog-proposed' },
-            { label: 'Implementation Plan (Draft)', slug: 'curriculum/implementation-plan' }
+            { label: 'Implementation Plan', slug: 'curriculum/implementation-plan' }
           ]
         },
         {

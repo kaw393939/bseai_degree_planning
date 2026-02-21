@@ -1,147 +1,173 @@
 ---
-title: Core Studio Spine (IS117→IS425)
-description: A coherent sequence of studio courses that progressively builds students into AI product engineers and AI software engineers.
+title: "The Eight Studios"
+description: "Eight renamed studio courses, each pairing a technical domain with an irreplaceable human capability."
 ---
 
-# Core Studio Spine (IS117→IS425)
+# The Eight Studios
 
-This spine is designed as a **studio every semester** that progressively builds the “CEO of agents” skillset: problem framing, product thinking, and enterprise-grade engineering (Linux, security, cloud, evaluation, and observability).
+Every studio course has two co-equal pillars: a **technical domain** that builds engineering fluency, and a **Human Edge** capability that develops what AI cannot replace. Both are graded. Both are portfolio-grade. Neither is optional.
 
-Design intent:
+**Operating constraints:** Cohort cap 20–25 · Portfolio artifact every semester · Terminal + Git + deploy every semester · Demo Day presentations starting Year 2
 
-- Cohort cap: **20–25**
-- Every course produces **portfolio-grade artifacts**
-- Every course reinforces the same professional habits: terminal, Git, deployment, documentation, and evidence
+---
 
-## The throughline (what accumulates each semester)
+## Year 1: Foundations of Inquiry & Digital Craft
 
-Every studio adds one new “layer,” while keeping prior layers in active use.
+### IS 117 — Inquiry & Digital Craft
 
-- **Layer 0**: Workflow discipline (terminal, files, VS Code, Git, deploy)
-- **Layer 1**: Web product basics (HTML/CSS/JS + information architecture)
-- **Layer 2**: Software engineering habits (tests, debugging, CI, API thinking)
-- **Layer 3**: Systems + cloud basics (containers, networking, observability, secrets)
-- **Layer 4**: Data competence (SQL, modeling, pipelines, quality)
-- **Layer 5**: Requirements + product engineering (acceptance tests, tradeoffs, docs)
-- **Layer 6**: Enterprise AI systems (graph + vector + orchestration + evals + HITL)
+**Human Edge: Disciplined Inquiry** — the ability to ask structured, productive questions.
 
-## Course-by-course build
+**Technical domain:** Terminal, filesystem, VS Code, Git/GitHub, HTML/CSS, static site deployment, information architecture.
 
-### IS117 — Foundations of Web Product Development (Studio)
+**Why this matters:** Before you can build anything worth building, you must learn to ask what's worth building. This course teaches the Warren Berger framework (*A More Beautiful Question*), issue trees, hypothesis-first thinking, and the Five Whys — while simultaneously building digital literacy from zero.
 
-**Adds:** Layer 0 + Layer 1 + vocabulary (design/usability/persuasion) + “asking better questions.”
-
-**Signature deliverables**
-
-- Museum-style website (theme: design/psychology/technology)
+**Signature deliverables:**
+- Museum-style website (design/psychology/technology theme)
 - Portfolio website v1
-- Studio checkoffs: terminal basics, Git, deploy
+- Studio checkoffs: terminal, Git, deploy
+- **Human Edge artifact:** Structured inquiry log — documenting questions asked, assumptions tested, and what changed as a result
 
-### IS118 (Proposed) — Web Systems + JavaScript Foundations (Studio)
+---
 
-**Purpose:** make IS117 broad and vocabulary-heavy, then make IS118 the first “serious build” course.
+### IS 118 — Interaction Design & Computational Thinking *(proposed)*
 
-**Adds:** Layer 2 (beginning) + deeper Layer 1.
+**Human Edge: Translation** — the ability to make complex ideas tangible and accessible.
 
-**Key topics (starter depth, not advanced)**
+**Technical domain:** JavaScript fundamentals, DOM manipulation, API integration, debugging workflow, data handling (JSON, forms, validation), intro to security hygiene.
 
-- JavaScript fundamentals: data types, control flow, functions, DOM, events
-- Debugging workflow (breakpoints, console, reading stack traces)
-- Data handling basics: JSON, fetch, forms, validation
-- Intro to security hygiene: secrets, basic threat awareness for web apps
+**Why this matters:** The gap between a "page" and an "application" is the gap between displaying information and enabling thinking. Every great AI product is an act of translation — taking something invisible (data, logic, a model's reasoning) and making it something a human can see, interact with, and understand.
 
-**Signature deliverables**
+**Signature deliverables:**
+- Interactive web application with form + API call + client-side state
+- Testing starter (automated checks or structured manual test checklist)
+- Documentation: README + "how to run" + "what I verified"
+- **Human Edge artifact:** "Translation brief" — a short document explaining what invisible thing the application makes visible, and how
 
-- Interactive web app (single-page or multi-page) with form + API call + client-side state
-- Testing starter: a small set of automated checks (or structured manual test checklist if needed)
-- Documentation: README + “how to run” + “what I verified”
+---
 
-### IS218 — Building Web Applications (Studio)
+## Year 2: Building & Understanding Organizations
 
-**Adds:** Layer 2 (real) + production workflow.
+### IS 218 — Software Engineering & Professional Judgment
 
-**Signature deliverables**
+**Human Edge: Professional Judgment** — the ability to evaluate work and know when to override the machine.
 
-- Full-stack app (front-end + API) with persistence
-- CI pipeline + automated tests (minimum bar)
-- Deployment + logging + basic monitoring plan
+**Technical domain:** Full-stack application development (front-end + API + persistence), testing, CI/CD, deployment, monitoring, AI-assisted development workflow.
 
-### IS219 — Cloud & Systems for Product Engineers (Studio)
+**Why this matters:** GitHub Copilot can generate 50 lines of code. Is it correct? Is it secure? Is it maintainable? Anyone can produce code now. The skill gap is *knowing whether it's right.* This course builds judgment through the discipline of building, breaking, debugging, testing, and deploying real software — then critically evaluating AI-generated contributions.
 
-**Adds:** Layer 3 (systems + cloud).
+**Signature deliverables:**
+- Full-stack deployed application with automated tests and CI pipeline
+- Deployment with logging and basic monitoring
+- **Human Edge artifact:** AI audit log — documenting every AI-assisted contribution, what the student accepted, rejected, and modified, with reasoning
 
-**Key topics**
+---
 
-- Linux operations: processes, permissions, networking basics
-- Containers, environment configuration, basic networking concepts
-- Secrets management, auth basics, least privilege as a habit
-- Observability: logs/metrics/traces at a conceptual and practical level
+### IS 265 — Organizations, Problems & Persuasion
 
-**Signature deliverables**
+**Human Edge: Problem Finding** — the ability to identify the real problem in complex human systems.
 
-- Deploy an API/service with containers
-- Observability checklist + runbook
-- Incident drill (tiny) + postmortem template practice
+**Technical domain:** Business process modeling, stakeholder analysis, workflow prototyping, requirements elicitation basics, communication and persuasion frameworks.
 
-### IS265 — Introduction to Information Systems (Studio)
+**Why this matters:** Organizations don't hand you clean problem statements. They hand you symptoms, complaints, contradictions, and politics. The most expensive mistake in AI is solving the wrong problem perfectly. This course — placed *after* IS 218 deliberately — gives students who have already built real software the frameworks to understand *what's worth building* in organizational contexts.
 
-**Adds:** business workflow thinking + stakeholder language.
+**Sequencing rationale:** A 19-year-old who has never shipped software cannot do meaningful stakeholder mapping. But a 19-year-old who just deployed a tested application in IS 218 can look at a business problem and say, "I know what's possible and what's hard — now what does the user actually need?"
 
-**Signature deliverables**
-
+**Signature deliverables:**
 - Problem framing memo (stakeholders, constraints, success metrics)
-- Simple workflow prototype (wireframe + minimal implementation)
-- “Ask better questions” artifact: issue tree / 5-Whys / assumptions log
+- Workflow prototype (wireframe + minimal implementation)
+- Persuasion exercise: presenting a recommendation to skeptical stakeholders
+- **Human Edge artifact:** Assumptions log + issue tree — documenting what was assumed, what was investigated, and what changed
 
-### IS331 — Database Design, Data Modeling, and Modern Retrieval (Studio)
+---
 
-**Adds:** Layer 4 (data competence), plus the bridge to vector/graph.
+## Year 3: Infrastructure & Knowledge
 
-**Key topics**
+### IS 219 — Systems Architecture & Resilience
 
-- SQL fluency + relational modeling
-- Data quality checks and reproducibility habits
-- Intro to **vector embeddings** and **graph** as data structures (why/when)
+**Human Edge: Resilience Thinking** — the ability to design for failure and own recovery.
 
-**Signature deliverables**
+**Technical domain:** Linux operations (processes, permissions, networking), containers, orchestration, environment configuration, secrets management, auth basics, observability (logs/metrics/traces).
 
-- Data-backed app feature + documented schema
-- Data pipeline with validation
-- Retrieval mini-project (starter): metadata + search (optionally hybrid)
+**Why this matters:** Systems break. Data pipelines fail. Models drift. Servers go down at 2 AM. The engineer who can diagnose, recover, and prevent recurrence is worth ten who can only build happy-path features. After spending a semester in organizational contexts (IS 265) where students saw how messy real systems are, they arrive here motivated to learn infrastructure not as abstract skill but as practical necessity.
 
-### IS390 — Requirements Analysis & Systems Design (Studio)
+**Signature deliverables:**
+- Deployed API/service with containers
+- Observability checklist + runbook
+- Incident drill + postmortem
+- **Human Edge artifact:** Failure mode analysis — "here's how my system can break, here's how I'd know, here's what I'd do"
 
-**Adds:** Layer 5 (product engineering in enterprise form).
+---
 
-**Signature deliverables**
+### IS 331 — Data, Knowledge & Representation
 
-- Requirements + acceptance tests
-- Architecture/design doc (tradeoffs, risks, non-functional requirements)
-- Evaluation plan (what “good” means, how measured)
+**Human Edge: Epistemic Humility** — understanding that data is not truth; it's a model of truth.
 
-### IS425 — Enterprise AI Applications & Infrastructure (Studio)
+**Technical domain:** SQL fluency, relational data modeling, data quality checks, reproducibility, graph databases and graph analysis, vector embeddings, hybrid retrieval, data pipelines and validation.
 
-**Adds:** Layer 6 (enterprise AI systems).
+**Why this matters:** Every AI system is only as good as its data, and every dataset is an imperfect representation of reality. Students who build knowledge graphs must understand what relationships they're capturing and what they're missing. Students who create vector embeddings must understand what semantic space they're mapping and what falls between the cracks. This is not just data engineering — it's epistemology for practitioners.
 
-**System scope expectation**
+**Signature deliverables:**
+- Data-backed application feature with documented schema
+- Data pipeline with validation and quality checks
+- Retrieval project: hybrid search (metadata + semantic + optionally graph)
+- **Human Edge artifact:** Data assumptions document — "what this data captures, what it distorts, what's missing, and what that means for any system built on it"
 
+---
+
+## Year 4: AI Strategy & Enterprise Leadership
+
+### IS 390 — AI Strategy, Ethics & Requirements
+
+**Human Edge: Moral Reasoning** — the ability to balance "can we?" with "should we?"
+
+**Technical domain:** LLM application engineering (RAG, tool use, agents), requirements analysis, acceptance testing, architecture documents, evaluation plans, responsible AI frameworks, risk assessment, governance artifacts.
+
+**Why this matters:** This is where students first build AI systems with *strategic intent* — not "build a chatbot" but "solve this organization's information retrieval problem with RAG, graph context, evaluation evidence, and a deployment plan." And alongside every technical decision, the ethical question: Who is affected? What could go wrong? What controls exist? How do we know it's working?
+
+**Signature deliverables:**
+- Requirements document + acceptance tests for an AI system
+- Architecture/design document (tradeoffs, risks, non-functional requirements)
+- Working AI prototype (RAG or agent-based) with evaluation harness
+- **Human Edge artifact:** Ethics impact assessment — stakeholder harm analysis, controls, limitations, and "what we decided not to build and why"
+
+---
+
+### IS 425 — Enterprise AI & Accountable Leadership
+
+**Human Edge: Accountable Leadership** — shipping a system, defending its design, owning its failures.
+
+**Technical domain:** Production AI system integrating graph + vector retrieval, agent/tool orchestration, human-in-the-loop review, evaluation harness with regression gates, observability, client engagement.
+
+**Why this matters:** This is the integration of everything. A real client. A real problem. A production-grade system. A Demo Day presentation to industry judges. A postmortem that honestly assesses what worked and what didn't. The student who completes IS 425 has demonstrated not just that they can build AI systems, but that they can *lead* AI initiatives — scoping, building, evaluating, presenting, and taking responsibility.
+
+**System scope expectation:**
 - Graph + vector retrieval (at least one used meaningfully)
 - Agent/tool orchestration with safe boundaries
 - Human-in-the-loop review points
 - Evaluation harness + regression gates
 - Observability: trace key decisions and failures
 
-**Signature deliverables**
-
-- Production-style “AI orchestrator” project: RAG/tool-use workflow with evals + runbook
+**Signature deliverables:**
+- Production-style AI orchestrator project with eval suite + runbook
 - Demo Day presentation + judge rubric score
 - Postmortem and improvement plan
+- **Human Edge artifact:** Leadership reflection — "what I decided, what I learned, what I'd do differently, and what I'm accountable for"
 
-## Recommended program-level checkoffs (the minimum bar)
+---
 
-By the end of the spine, every student should be able to:
+## The Accumulation Model
 
-- Operate in Linux/terminal, manage files, and debug basic environment issues
-- Use Git professionally (branching, commits, PRs, code review habits)
-- Deploy a service and maintain it (logs, monitoring, rollback)
-- Build an AI workflow with evaluation evidence and safe failure modes
+Each semester adds one new capability while all prior ones remain active:
+
+| Semester | New capability | Cumulative |
+|---|---|---|
+| 1 | Disciplined Inquiry | Inquiry |
+| 2 | Translation | Inquiry, Translation |
+| 3 | Professional Judgment | + Judgment |
+| 4 | Problem Finding | + Problem Finding |
+| 5 | Resilience Thinking | + Resilience |
+| 6 | Epistemic Humility | + Epistemic Humility |
+| 7 | Moral Reasoning | + Moral Reasoning |
+| 8 | Accountable Leadership | **All eight — the complete "CEO of agents"** |
+
+By graduation, students don't just have technical skills. They have a practiced, evidence-based capacity for every human capability that AI cannot replace.
