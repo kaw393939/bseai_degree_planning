@@ -13,9 +13,7 @@ Every studio has two co-equal pillars: a **technical domain** and a **Human Edge
 
 ## Year 1: Craft
 
-### IS 117 — Introduction to Website Development
-
-**Studio label:** Inquiry & Web Craft
+### IS 117 — Web Development & Inquiry
 
 **Human Edge: Disciplined Inquiry** — asking structured, productive questions.
 
@@ -34,8 +32,6 @@ Before you can build anything worth building, you must learn to ask what's worth
 
 ### IS 118 — Interactive Web Development *(proposed)*
 
-**Studio label:** Interactive Computing
-
 **Human Edge: Translation** — making the invisible visible.
 
 **Technical domain:** JavaScript fundamentals, DOM manipulation, API integration, debugging, data handling (JSON, forms, validation), security hygiene basics.
@@ -52,9 +48,7 @@ The gap between a page and an application is the gap between displaying informat
 
 ## Year 2: Construction
 
-### IS 218 — Building Web Applications
-
-**Studio label:** Software Engineering
+### IS 218 — Web Application Engineering
 
 **Human Edge: Professional Judgment** — evaluating work and knowing when to override the machine.
 
@@ -70,9 +64,7 @@ Copilot can generate 50 lines of code. Is it correct? Secure? Maintainable? The 
 
 ---
 
-### IS 265 — Introduction to Information Systems
-
-**Studio label:** Problems & Persuasion
+### IS 265 — Problem Analysis in Information Systems
 
 **Human Edge: Problem Finding** — identifying the real problem in complex human systems.
 
@@ -90,9 +82,7 @@ Organizations don't hand you clean problem statements. They hand you symptoms, c
 
 ## Year 3: Infrastructure & Knowledge
 
-### IS 219 — Adv Website Development
-
-**Studio label:** Systems & Resilience
+### IS 219 — Web Systems & Infrastructure
 
 **Human Edge: Resilience Thinking** — designing for failure and owning recovery.
 
@@ -109,9 +99,7 @@ Systems break. Pipelines fail. Models drift. The engineer who can diagnose, reco
 
 ---
 
-### IS 331 — Database Design, Management and Applications
-
-**Studio label:** Data & Knowledge
+### IS 331 — Data & Knowledge Systems
 
 **Human Edge: Epistemic Humility** — understanding that data is not truth; it's a model of truth.
 
@@ -129,9 +117,7 @@ Every AI system is only as good as its data, and every dataset is an imperfect r
 
 ## Year 4: Analysis & Integration
 
-### IS 390 — Requirements Analysis and Systems Design
-
-**Studio label:** Systems Analysis & Design
+### IS 390 — Systems Analysis & Design
 
 **Human Edge: Systems Thinking** — decomposing complexity and designing for the whole system, not just the parts.
 
@@ -151,9 +137,7 @@ Ethics and governance are handled by IS 350 (Computers, Society & Ethics). IS 39
 
 ---
 
-### IS 425 — Enterprise AI Applications & Infrastructure
-
-**Studio label:** Applied AI Systems
+### IS 425 — Applied Enterprise AI
 
 **Human Edge: Accountable Leadership** — shipping a system, defending its design, owning its failures.
 

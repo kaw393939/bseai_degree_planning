@@ -50,14 +50,14 @@ export default defineConfig({
         {
           label: 'Syllabi',
           items: [
-            { label: 'IS 117 — Inquiry & Web Craft', slug: 'syllabi/is117' },
-            { label: 'IS 118 — Interactive Computing', slug: 'syllabi/is118' },
-            { label: 'IS 218 — Software Engineering', slug: 'syllabi/is218' },
-            { label: 'IS 265 — Problems & Persuasion', slug: 'syllabi/is265' },
-            { label: 'IS 219 — Systems & Resilience', slug: 'syllabi/is219' },
-            { label: 'IS 331 — Data & Knowledge', slug: 'syllabi/is331' },
-            { label: 'IS 390 — Systems Architecture', slug: 'syllabi/is390' },
-            { label: 'IS 425 — Applied AI Systems', slug: 'syllabi/is425' },
+            { label: 'IS 117 — Web Development & Inquiry', slug: 'syllabi/is117' },
+            { label: 'IS 118 — Interactive Web Development', slug: 'syllabi/is118' },
+            { label: 'IS 218 — Web Application Engineering', slug: 'syllabi/is218' },
+            { label: 'IS 265 — Problem Analysis in Information Systems', slug: 'syllabi/is265' },
+            { label: 'IS 219 — Web Systems & Infrastructure', slug: 'syllabi/is219' },
+            { label: 'IS 331 — Data & Knowledge Systems', slug: 'syllabi/is331' },
+            { label: 'IS 390 — Systems Analysis & Design', slug: 'syllabi/is390' },
+            { label: 'IS 425 — Applied Enterprise AI', slug: 'syllabi/is425' },
           ]
         },
         {

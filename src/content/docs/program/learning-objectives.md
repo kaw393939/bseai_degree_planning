@@ -9,7 +9,7 @@ Each studio course has learning objectives aligned to Bloom's Taxonomy (Remember
 
 ---
 
-## IS 117 — Introduction to Website Development
+## IS 117 — Web Development & Inquiry
 
 **Human Edge: Disciplined Inquiry** · **40/60 Split: Manual web dev / AI-assisted building**
 
@@ -46,7 +46,7 @@ By the end of this course, students will be able to:
 
 ---
 
-## IS 218 — Building Web Applications
+## IS 218 — Web Application Engineering
 
 **Human Edge: Professional Judgment** · **40/60 Split: Manual testing and review / AI-directed full-stack development**
 
@@ -64,7 +64,7 @@ By the end of this course, students will be able to:
 
 ---
 
-## IS 265 — Introduction to Information Systems
+## IS 265 — Problem Analysis in Information Systems
 
 **Human Edge: Problem Finding** · **40/60 Split: Manual stakeholder analysis / AI-assisted prototyping**
 
@@ -82,7 +82,7 @@ By the end of this course, students will be able to:
 
 ---
 
-## IS 219 — Advanced Website Development
+## IS 219 — Web Systems & Infrastructure
 
 **Human Edge: Resilience Thinking** · **40/60 Split: Manual infrastructure / AI-directed automation**
 
@@ -100,7 +100,7 @@ By the end of this course, students will be able to:
 
 ---
 
-## IS 331 — Database Design, Management and Applications
+## IS 331 — Data & Knowledge Systems
 
 **Human Edge: Epistemic Humility** · **40/60 Split: Manual SQL and schema design / AI-directed pipeline building**
 
@@ -119,7 +119,7 @@ By the end of this course, students will be able to:
 
 ---
 
-## IS 390 — Requirements Analysis and Systems Design
+## IS 390 — Systems Analysis & Design
 
 **Human Edge: Systems Thinking** · **40/60 Split: Manual analysis and diagramming / AI-directed design documentation**
 
@@ -137,7 +137,7 @@ By the end of this course, students will be able to:
 
 ---
 
-## IS 425 — Enterprise AI Applications & Infrastructure
+## IS 425 — Applied Enterprise AI
 
 **Human Edge: Accountable Leadership** · **40/60 Split: Manual KG design and HITL architecture / AI-directed system integration**
 

@@ -17,14 +17,14 @@ The BS in Enterprise AI teaches you to **build, evaluate, and take accountabilit
 
 | Studio | Course | What You Build |
 |--------|--------|---------------|
-| 1 | IS 117 — Inquiry & Web Craft | Portfolio website + museum exhibit site |
-| 2 | IS 118 — Interactive Computing | Interactive web app with API integration |
-| 3 | IS 218 — Software Engineering | Full-stack web application, tested and deployed |
-| 4 | IS 265 — Problems & Persuasion | Problem framing package for a real organization |
-| 5 | IS 219 — Systems & Resilience | Containerized, observable, resilient service |
-| 6 | IS 331 — Data & Knowledge | Hybrid retrieval system (SQL + graph + vector) |
-| 7 | IS 390 — Systems Architecture | Complete systems analysis for an AI system |
-| 8 | IS 425 — Applied AI Systems | Production AI system for a real client + Demo Day |
+| 1 | IS 117 — Web Development & Inquiry | Portfolio website + museum exhibit site |
+| 2 | IS 118 — Interactive Web Development | Interactive web app with API integration |
+| 3 | IS 218 — Web Application Engineering | Full-stack web application, tested and deployed |
+| 4 | IS 265 — Problem Analysis in IS | Problem framing package for a real organization |
+| 5 | IS 219 — Web Systems & Infrastructure | Containerized, observable, resilient service |
+| 6 | IS 331 — Data & Knowledge Systems | Hybrid retrieval system (SQL + graph + vector) |
+| 7 | IS 390 — Systems Analysis & Design | Complete systems analysis for an AI system |
+| 8 | IS 425 — Applied Enterprise AI | Production AI system for a real client + Demo Day |
 
 By graduation you'll have **8 deployed projects**, a professional portfolio, and Demo Day experience presenting to industry judges.
 

@@ -7,7 +7,7 @@ description: Proposed new course(s) and proposed studio delivery expectations.
 
 This page lists what is **proposed** (not official catalog text).
 
-## IS 118 (Proposed) — Interactive Web Development *(studio label: Interactive Computing)*
+## IS 118 (Proposed) — Interactive Web Development
 
 IS 118 is the only course requiring a **new catalog entry**. The remaining 7 spine courses (IS 117, IS 218, IS 219, IS 265, IS 331, IS 390, IS 425) use existing catalog numbers with updated studio-format content. See [individual syllabi](/bseai_degree_planning/syllabi/is117/) for the proposed content updates to each existing course.
 

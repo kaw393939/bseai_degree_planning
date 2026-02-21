@@ -28,7 +28,7 @@ These graduates arrive on day one with **professional habits**, not just academi
 
 ## Engagement Opportunities
 
-### Capstone Projects (IS 425 — Applied AI Systems)
+### Capstone Projects (IS 425 — Applied Enterprise AI)
 
 The most impactful way to engage. Your organization provides:
 - A real problem with real data (appropriately scoped for one semester)

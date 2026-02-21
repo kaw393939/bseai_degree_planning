@@ -17,14 +17,14 @@ One studio per semester, 8 semesters, cohort cap 20–25. Each course produces p
 
 | Semester | Course | Title | Human Edge |
 |----------|--------|-------|------------|
-| Fall 1 | IS 117 | Introduction to Website Development (Inquiry & Web Craft) | Disciplined Inquiry |
-| Spring 1 | IS 118 | Interactive Web Development (Interactive Computing) | Translation |
-| Fall 2 | IS 218 | Building Web Applications (Software Engineering) | Professional Judgment |
-| Spring 2 | IS 265 | Introduction to Information Systems (Problems & Persuasion) | Problem Finding |
-| Fall 3 | IS 219 | Adv Website Development (Systems & Resilience) | Resilience Thinking |
-| Spring 3 | IS 331 | Database Design, Management and Applications (Data & Knowledge) | Epistemic Humility |
-| Fall 4 | IS 390 | Requirements Analysis and Systems Design (Systems Analysis & Design) | Systems Thinking |
-| Spring 4 | IS 425 | Enterprise AI Applications & Infrastructure (Applied AI Systems) | Accountable Leadership |
+| Fall 1 | IS 117 | Web Development & Inquiry | Disciplined Inquiry |
+| Spring 1 | IS 118 | Interactive Web Development | Translation |
+| Fall 2 | IS 218 | Web Application Engineering | Professional Judgment |
+| Spring 2 | IS 265 | Problem Analysis in Information Systems | Problem Finding |
+| Fall 3 | IS 219 | Web Systems & Infrastructure | Resilience Thinking |
+| Spring 3 | IS 331 | Data & Knowledge Systems | Epistemic Humility |
+| Fall 4 | IS 390 | Systems Analysis & Design | Systems Thinking |
+| Spring 4 | IS 425 | Applied Enterprise AI | Accountable Leadership |
 
 ---
 
@@ -91,7 +91,7 @@ Standard NJIT gen-ed requirements. Recommended choices that reinforce the Human 
 
 | | Fall | Spring |
 |---|---|---|
-| **Studio** | IS 117: Intro to Website Development (Inquiry & Web Craft) | IS 118: Interactive Web Dev (Interactive Computing) |
+| **Studio** | IS 117: Web Development & Inquiry | IS 118: Interactive Web Development |
 | **Technical** | CS 100: Intro to CS (Python) | DS 100: Probability & Statistics |
 | **Technical** | MATH 111: Calculus I | CS 114: Data Structures |
 | **Gen-Ed** | ENGL 101: Writing I | GEN-ED: Humanities |
@@ -101,7 +101,7 @@ Standard NJIT gen-ed requirements. Recommended choices that reinforce the Human 
 
 | | Fall | Spring |
 |---|---|---|
-| **Studio** | IS 218: Building Web Apps (Software Engineering) | IS 265: Intro to IS (Problems & Persuasion) |
+| **Studio** | IS 218: Web Application Engineering | IS 265: Problem Analysis in IS |
 | **Applied** | IS 350: Computers, Society & Ethics | IS 247: Designing the User Experience |
 | **Technical** | MATH 211/DS 110: Linear Algebra | MATH 226: Discrete Analysis |
 | **Gen-Ed** | ENGL 102: Writing II | GEN-ED: Humanities/Elective |
@@ -111,7 +111,7 @@ Standard NJIT gen-ed requirements. Recommended choices that reinforce the Human 
 
 | | Fall | Spring |
 |---|---|---|
-| **Studio** | IS 219: Advanced Website Dev (Systems & Resilience) | IS 331: Database Design (Data & Knowledge) |
+| **Studio** | IS 219: Web Systems & Infrastructure | IS 331: Data & Knowledge Systems |
 | **Applied** | IS 392: AI-Driven Text Analytics | IS 465: Data Analytics (ML for Enterprise AI) |
 | **Enterprise** | — | IS 385: Special Topics (Service Learning Clinic) |
 | **Gen-Ed** | GEN-ED: Elective | GEN-ED: Elective |
@@ -121,7 +121,7 @@ Standard NJIT gen-ed requirements. Recommended choices that reinforce the Human 
 
 | | Fall | Spring |
 |---|---|---|
-| **Studio** | IS 390: Requirements Analysis & Design (Systems Analysis & Design) | IS 425: Enterprise AI Apps & Infrastructure (Applied AI Systems) |
+| **Studio** | IS 390: Systems Analysis & Design | IS 425: Applied Enterprise AI |
 | **Applied** | IS 480: Data-Centric AI (AI Quality & Reliability Eng) | IS 485: Special Topics (Advanced Enterprise AI) |
 | **Enterprise** | IS 491: Senior Project – IS (Industry Practicum) (or summer) | — |
 | **Gen-Ed** | GEN-ED: Elective | GEN-ED: Elective |

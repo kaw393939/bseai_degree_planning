@@ -29,8 +29,8 @@ This plan outlines the phased rollout of the BS in Enterprise AI, from curriculu
 
 | Semester | Studio Course | Capability Focus |
 |----------|--------------|------------------|
-| Fall 2026 | **IS 117** — Computational Thinking | Disciplined Inquiry |
-| Spring 2027 | **IS 118** — Interactive Computing | Translation |
+| Fall 2026 | **IS 117** — Web Development & Inquiry | Disciplined Inquiry |
+| Spring 2027 | **IS 118** — Interactive Web Development | Translation |
 
 **Standardizations across all studios (implemented before Fall 2026)**
 
@@ -44,8 +44,8 @@ This plan outlines the phased rollout of the BS in Enterprise AI, from curriculu
 
 | Semester | Studio Course | Capability Focus |
 |----------|--------------|------------------|
-| Fall 2027 | **IS 218** — Software Engineering | Professional Judgment |
-| Spring 2028 | **IS 265** — Data & AI Fundamentals | Problem Finding |
+| Fall 2027 | **IS 218** — Web Application Engineering | Professional Judgment |
+| Spring 2028 | **IS 265** — Problem Analysis in IS | Problem Finding |
 
 Technical coverage expands: containerized deployment, API design, data pipelines, SQL, and introductory ML evaluation. Demo Day begins in IS 118 and continues every semester from this point forward.
 
@@ -53,8 +53,8 @@ Technical coverage expands: containerized deployment, API design, data pipelines
 
 | Semester | Studio Course | Capability Focus |
 |----------|--------------|------------------|
-| Fall 2028 | **IS 219** — AI-Augmented Development | Resilience Thinking |
-| Spring 2029 | **IS 331** — AI Data Systems | Epistemic Humility |
+| Fall 2028 | **IS 219** — Web Systems & Infrastructure | Resilience Thinking |
+| Spring 2029 | **IS 331** — Data & Knowledge Systems | Epistemic Humility |
 
 **Technical spine coverage at this stage:**
 
@@ -70,8 +70,8 @@ Technical coverage expands: containerized deployment, API design, data pipelines
 
 | Semester | Studio Course | Capability Focus |
 |----------|--------------|------------------|
-| Fall 2029 | **IS 390** — AI Product Studio | Systems Thinking |
-| Spring 2030 | **IS 425** — Enterprise AI Capstone | Accountable Leadership |
+| Fall 2029 | **IS 390** — Systems Analysis & Design | Systems Thinking |
+| Spring 2030 | **IS 425** — Applied Enterprise AI | Accountable Leadership |
 
 IS 425 requires a production-style system combining graph + vector + orchestration + evaluation + HITL workflows. The capstone Demo Day serves as the program’s signature assessment, evaluated by industry judges.
 
