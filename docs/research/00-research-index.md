@@ -19,6 +19,7 @@
 | 06 | [06-salary-data.md](06-salary-data.md) | Canonical salary ranges for AI roles. Entry/mid/senior data for AI deployment, product, forward-deployed, and LLM engineers. Location adjustments, BLS medians, company-specific TC. |
 | 07 | [07-accreditation-policy.md](07-accreditation-policy.md) | ABET CAC criteria (2025–2026), MSCHE substantive change requirements, NJIT syllabus policy. What the program must satisfy. |
 | 08 | [08-program-design.md](08-program-design.md) | The Human Edge vision, 8 capabilities, spine structure, course catalog (current vs proposed), administrative change roadmap, prerequisite chain, LLM App Engineer skills framework. |
+| 09 | [09-student-profile.md](09-student-profile.md) | Incoming student portrait: NAEP reading/math (2019–2024), ACT college readiness (Class of 2024), college remediation rates, Gen Z digital literacy/mental health/resilience/work values, Gen Alpha preview, NJIT context, design implications for BSEAI. |
 
 ---
 
@@ -51,3 +52,8 @@
 | AI investment 2025 | $225.8B | CB Insights State of AI 2025 | 2–3 |
 | Entry salary for AI roles | $110K–$150K | BLS, levels.fyi, job postings | 1–3 |
 | Amodei: 50% entry-level jobs | 1–5 years | Axios, Davos 2025 | 2–3 |
+| 12th-grade reading proficient | 35% (2024; lowest on record) | NAGB, Sep 2025 | 1 |
+| ACT met all 4 benchmarks | 20% (Class of 2024) | ACT Inc., Oct 2024 | 1 |
+| ACT math readiness | 29% (Class of 2024) | ACT Inc., Oct 2024 | 1 |
+| 8th graders digitally proficient | 2% | ICILS 2018 | 1 |
+| Gen Z mental health diagnosis | 46% | Harmony Healthcare IT, Jun 2025 | 2–3 |
