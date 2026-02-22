@@ -35,12 +35,12 @@ All evidence consolidated into 9 files. Every stat has author, date, and URL.
 
 ## The Program at a Glance
 
-- **8-course studio spine:** IS 117 → 118 → 218 → 265 → 219 → 331 → 390 → 425
-- **8 Human Edge capabilities:** Disciplined Inquiry, Translation, Professional Judgment, Problem Finding, Resilience Thinking, Epistemic Humility, Systems Thinking, Accountable Leadership
+- **8-course studio spine:** IS 117 → 118 → 218 → 265 → 331 → 390 → 425 → 482
+- **8 Human Edge capabilities:** Disciplined Inquiry, Professional Judgment, Resilience Thinking, Problem Finding, Epistemic Humility, Systems Thinking, Accountable Leadership, Translation
 - **Every semester ships an artifact.** Graduates leave with a portfolio of 8 projects.
-- **Signature assessments:** AI Audit Log (IS 218), Failure Mode Analysis + Incident Drill (IS 219), Demo Day (IS 425)
+- **Signature assessments:** AI Audit Log (IS 118), Failure Mode Analysis + Incident Drill (IS 218), Demo Day (IS 425), Translation Brief (IS 482)
 - **Department:** Informatics (IS prefix), Ying Wu College of Computing
-- **Accreditation path:** IS 118 is the only new course; 7 of 8 spine courses already exist
+- **Accreditation path:** IS 118 and IS 482 are new courses; 6 of 8 spine courses already exist
 
 ## Quick Start
 

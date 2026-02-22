@@ -36,29 +36,30 @@ This is the **"CEO of agents" thesis:** you don't write every line of code your 
 | Semester | Course | Human Edge | Technical Domain |
 |----------|--------|-----------|-----------------|
 | 1 | IS 117 — Inquiry & Web Craft | **Disciplined Inquiry** | Terminal, Git, HTML/CSS, deployment |
-| 2 | IS 118 — Interactive Computing (NEW) | **Translation** | JavaScript, APIs, debugging, data handling |
-| 3 | IS 218 — Software Engineering | **Professional Judgment** | Full-stack apps, testing, CI/CD, AI-assisted dev |
+| 2 | IS 118 — Interactive Computing (NEW) | **Professional Judgment** | JavaScript, APIs, debugging, data handling |
+| 3 | IS 218 — Web Application Engineering | **Resilience Thinking** | Containers, CI/CD, monitoring, incident response |
 | 4 | IS 265 — Problems & Persuasion | **Problem Finding** | Business process, stakeholders, workflow prototyping |
-| 5 | IS 219 — Systems & Resilience | **Resilience Thinking** | Linux, containers, networking, observability |
-| 6 | IS 331 — Data & Knowledge | **Epistemic Humility** | SQL, graph DB, vector embeddings, data quality |
-| 7 | IS 390 — Systems Analysis & Design | **Systems Thinking** | Requirements, architecture, tradeoffs, AI eval plans |
-| 8 | IS 425 — Applied AI Systems | **Accountable Leadership** | Knowledge graphs, HITL, agents, evals, Demo Day |
+| 5 | IS 331 — Data & Knowledge | **Epistemic Humility** | SQL, graph DB, vector embeddings, data quality |
+| 6 | IS 390 — Systems Analysis & Design | **Systems Thinking** | Requirements, architecture, tradeoffs, AI eval plans |
+| 7 | IS 425 — Applied Enterprise AI | **Accountable Leadership** | Knowledge graphs, HITL, agents, evals, Demo Day |
+| 8 | IS 482 — Community AI Training (NEW) | **Translation** | Curriculum design, community training, impact measurement |
 
 ### Signature Assessments
 
 | Course | Assessment | What It Proves |
 |--------|-----------|---------------|
 | IS 117 | Question Log | Students develop disciplined inquiry habits |
-| IS 218 | **AI Audit Log** | Students evaluate/override AI output with documented reasoning |
-| IS 219 | **Failure Mode Analysis** + Incident Drill | Students design for failure, recover in real time, write blameless postmortems |
+| IS 118 | **AI Audit Log** | Students evaluate/override AI output with documented reasoning |
+| IS 218 | **Failure Mode Analysis** + Incident Drill | Students design for failure, recover in real time, write blameless postmortems |
 | IS 425 | **Demo Day** | Students ship a production system, present to industry judges, defend design |
+| IS 482 | **Translation Brief** + Community Impact Report | Students translate technical AI knowledge for non-technical community audiences |
 
 ---
 
 ## 3. Complete Degree Structure
 
 ### Layer 1 — Studio Spine (24 credits, 8 courses)
-IS 117 → 118 → 218 → 265 → 219 → 331 → 390 → 425
+IS 117 → 118 → 218 → 265 → 331 → 390 → 425 → 482
 Cohort cap: 20–25. Portfolio artifact every semester.
 
 ### Layer 2 — Applied AI & Domain (15 credits, 5 courses)
@@ -131,9 +132,9 @@ This defines what industry hires for. The curriculum maps to every section.
 | Prompting & orchestration | System prompts, tool/function calling, agents/workflows | IS 392, IS 425 |
 | RAG system design | Ingestion pipelines, metadata/schema, chunking strategies, embeddings, guardrails | IS 392, IS 425 |
 | Evaluation | Retrieval metrics (Recall@k, nDCG, MRR), generation metrics (faithfulness, attribution) | IS 480, IS 425 |
-| Software engineering | Python/TypeScript, API design, tests, CI/CD, containers, observability | IS 218, IS 219 |
+| Software engineering | Python/TypeScript, API design, tests, CI/CD, containers, observability | IS 218 |
 | Data/ML ops | Experiment tracking, A/B testing, drift detection, feedback loops | IS 465, IS 480 |
-| Security/compliance | PII handling, data residency, prompt injection defenses, output filters | IS 350, IS 219 |
+| Security/compliance | PII handling, data residency, prompt injection defenses, output filters | IS 350, IS 218 |
 | Product sense | Success metrics, trade-offs, UX for citations and failure modes | IS 265, IS 390 |
 
 ### Industry Performance Targets (what employers measure)

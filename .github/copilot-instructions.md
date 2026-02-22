@@ -33,7 +33,7 @@ The primary audience is **PhD-level administrators at NJIT** who will evaluate t
 - **"The Human Edge"** — the program's central thesis and brand
 - **8 Human Edge Capabilities:** Disciplined Inquiry, Translation, Professional Judgment, Problem Finding, Resilience Thinking, Epistemic Humility, Systems Thinking, Accountable Leadership
 - **Studio model** — cohort-based, project-every-semester, portfolio on graduation
-- **Signature assessments:** AI Audit Log (IS 218), Failure Mode Analysis + Incident Drill (IS 219), Demo Day (IS 425)
+- **Signature assessments:** AI Audit Log (IS 118), Failure Mode Analysis + Incident Drill (IS 218), Demo Day (IS 425), Translation Brief (IS 482)
 
 ---
 
@@ -95,10 +95,10 @@ Raw inputs that were consolidated into `docs/research/`. Keep for reference but 
 | Mid-level AI salary range | $150K–$220K | See `06-salary-data.md` |
 | Senior AI salary range | $180K–$350K+ TC | See `06-salary-data.md` |
 | CS new-grad unemployment | 6.1% | NY Fed, Dec 2024 |
-| Studio spine courses | 8 courses (IS 117→118→218→265→219→331→390→425) | See `08-program-design.md` |
+| Studio spine courses | 8 courses (IS 117→118→218→265→331→390→425→482) | See `08-program-design.md` |
 | Human Edge capabilities | 8 (not 5, not 6) | See `08-program-design.md` |
 | SWE-bench best score | 81.42% (Sonnet 4, Jun 2025) | See `01-ai-capability-trajectory.md` |
-| Catalog numbers in spine | 7 of 8 exist (IS 118 is NEW) | See `07-accreditation-policy.md` |
+| Catalog numbers in spine | 6 of 8 exist (IS 118 and IS 482 are NEW) | See `07-accreditation-policy.md` |
 | METR task doubling | ~7 months (full), ~3 months (recent) | See `01-ai-capability-trajectory.md` |
 | AI private investment 2025 | $225.8B | Stanford HAI, Apr 2025 |
 
