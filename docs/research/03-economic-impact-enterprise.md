@@ -27,6 +27,7 @@
 | U.S. employment substitutable (≥50% tasks) | ~7% | [Goldman Sachs](https://www.gspublishing.com/content/research/en/reports/2023/03/27/d64e052b-0f6e-45d7-967b-d7be35fabd16.html) |
 | Potential global GDP boost | **~7%** | [Goldman Sachs](https://www.gspublishing.com/content/research/en/reports/2023/03/27/d64e052b-0f6e-45d7-967b-d7be35fabd16.html) |
 | U.S. unemployment rise during transition | ~0.5 pp | [Goldman Sachs, 2025 update](https://www.goldmansachs.com/insights/articles/how-will-ai-affect-the-global-workforce) |
+| U.S. GDP boost from AI (baseline) | +0.4 pp/year starting ~2027, through 2034 | [Goldman Sachs, Nov 2023](https://www.goldmansachs.com/insights/articles/ai-may-start-to-boost-us-gdp-in-2027) |
 
 ### International Monetary Fund (IMF)
 
@@ -36,6 +37,8 @@
 | Advanced economy jobs exposed | **~60%** | [IMF, Jan 2024](https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity) |
 | Emerging markets exposure | ~40% | [IMF, Jan 2024](https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity) |
 | Low-income countries exposure | ~26% | [IMF, Jan 2024](https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity) |
+
+**Davos 2026 reiteration (Jan 23, 2026):** IMF managing director reiterated ~60% of jobs in advanced economies affected; warned younger workers face outsized disruption as entry-level roles change or disappear. ([The Guardian](https://www.theguardian.com/technology/2026/jan/23/ai-tsunami-labour-market-youth-employment-says-head-of-imf-davos))
 
 **How to compare:** McKinsey measures *hours of work*. Goldman measures *share of tasks*. IMF measures *share of jobs with meaningful exposure*. Exposure ≠ job loss — roughly half of exposed roles may be complemented (productivity-enhanced) rather than substituted.
 
@@ -52,6 +55,7 @@
 | Same survey | Time: prototype → production | ~8 months | [Gartner](https://www.gartner.com/en/newsroom/press-releases/2024-05-07-gartner-survey-finds-generative-ai-is-now-the-most-frequently-deployed-ai-solution-in-organizations) |
 | Feb 2025 | Supply chain orgs with GenAI deployed | 72% | [Gartner](https://www.gartner.com/en/newsroom/press-releases/2025-02-05-gartner-survey-supply-chain-genai-productivity-gains-at-individual-level-while-creating-new-complications-for-organizations) |
 | Q4 2024 (pub Jun 2025) | High-maturity orgs with AI in production 3+ years | 45% | [Gartner](https://www.gartner.com/en/newsroom/press-releases/2025-06-30-gartner-survey-finds-forty-five-percent-of-organizations-with-high-artificial-intelligence-maturity-keep-artificial-intelligence-projects-operational-for-at-least-three-years) |
+| Oct 2023 forecast for 2026 | Enterprises that will have used GenAI APIs/apps | **>80%** | [Gartner](https://www.gartner.com/en/newsroom/press-releases/2023-10-16-gartner-identifies-the-top-10-strategic-technology-trends-for-2024) |
 
 ### Deloitte
 
@@ -74,11 +78,21 @@
 
 ## 3. AI Investment Trends
 
-### Private AI Funding
+### Stanford HAI AI Index (2024 data, published Apr 2025)
+
+| Metric | Value | Source |
+|--------|-------|--------|
+| Global private AI investment (2024) | **$150.79B** | [Stanford HAI](https://hai.stanford.edu/ai-index/2025-ai-index-report) |
+| Total corporate AI investment (incl. M&A, IPOs) | $252.33B | [Stanford HAI](https://hai.stanford.edu/ai-index/2025-ai-index-report) |
+| GenAI private investment subset | $33.94B | [Stanford HAI](https://hai.stanford.edu/ai-index/2025-ai-index-report) |
+| U.S. share of private investment | $109.08B (72%) | [Stanford HAI](https://hai.stanford.edu/ai-index/2025-ai-index-report) |
+
+### Private AI Funding (CB Insights / PitchBook)
 
 | Year | Amount | Source |
 |------|--------|--------|
 | 2023 (GenAI subset) | $29.1B (691 deals) | [PitchBook / TechCrunch](https://techcrunch.com/2025/01/03/generative-ai-funding-reached-new-heights-in-2024/) |
+| 2024 (all AI, CB Insights) | ~$100–106B | [CB Insights](https://www.cbinsights.com/research/report/ai-trends-2024/) |
 | 2024 (GenAI subset) | $56B (885 deals) | [PitchBook / TechCrunch](https://techcrunch.com/2025/01/03/generative-ai-funding-reached-new-heights-in-2024/) |
 | 2024 (all AI) | AI captured **37% of all VC** | [CB Insights](https://www.cbinsights.com/research/report/venture-trends-2024/) |
 | 2025 (all AI, private) | **$225.8B** (nearly 2× 2024) | [CB Insights State of AI 2025](https://www.cbinsights.com/research/report/ai-trends-2025/) |

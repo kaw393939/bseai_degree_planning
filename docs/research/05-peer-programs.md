@@ -36,6 +36,7 @@
 - CS core + thread requirements including Intro to AI (CS 3600)
 - Threads system allows multiple combinations; Theory+Intelligence is the canonical AI path
 - Ethics options include "AI, Ethics, and Society" course
+- NVIDIA-backed AI Makerspace and campus supercomputer integrated into undergraduate courses ([GaTech ECE](https://ece.gatech.edu/news/2025/05/ai-makerspace-turns-one-students-charting-course))
 - Strong Atlanta industry access
 
 ### Purdue — B.S. in Artificial Intelligence

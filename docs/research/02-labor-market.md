@@ -11,7 +11,10 @@
 | Metric | Rate | Source |
 |--------|------|--------|
 | CS new-grad unemployment (ages 22–27) | **6.1%** | [NY Fed, 2024 ACS](https://www.newyorkfed.org/research/college-labor-market) |
+| CS new-grad underemployment | 16.5% | [NY Fed / St. Louis Fed](https://www.stlouisfed.org/open-vault/2025/aug/jobs-degrees-underemployed-college-graduates-have) |
 | Computer Engineering new-grad unemployment | 7.5% | [NY Fed, 2024 ACS](https://www.newyorkfed.org/research/college-labor-market) |
+| Overall recent-grad unemployment (Q4 2025) | ~5.7% (highest since 2020) | [NY Fed](https://www.newyorkfed.org/research/college-labor-market) |
+| Overall recent-grad underemployment | 42.5% | [NY Fed](https://www.newyorkfed.org/research/college-labor-market) |
 
 ### Tech Sector Unemployment (broader)
 
@@ -31,6 +34,7 @@
 | 2023 | ~262,700 | [Layoffs.fyi / Computerworld](https://www.computerworld.com/article/1617283/tech-layoffs-in-2023-a-timeline.html) |
 | 2024 | ~151,500 | [NerdWallet](https://www.nerdwallet.com/article/finance/layoffs-2024) |
 | 2025 (through Oct) | ~141,000 tech cuts | [Challenger, Gray & Christmas](https://www.challengergray.com/blog/2025-year-end-challenger-report-highest-q4-layoffs-since-2008-lowest-ytd-hiring-since-2010/) |
+| 2026 (Jan alone) | ~25,000 globally | [Computerworld](https://www.computerworld.com/article/3816579/tech-layoffs-this-year-a-timeline.html) |
 | 2026 (YTD) | Continuing (Amazon, Citi, Meta) | [Business Insider](https://www.businessinsider.com/recent-company-layoffs-laying-off-workers-2026) |
 
 ---
@@ -46,7 +50,9 @@
 ### What's Growing
 
 - **AI-skill postings:** ~125,000 in May 2025. AI is the bright spot even as broader tech hiring cooled. ([CompTIA](https://www.comptia.org/en-us/resources/research/state-of-the-tech-workforce-2025/))
+- **AI postings growth:** +68% from Q4 2022 to Q4 2024. ([UMD Smith School](https://www.rhsmith.umd.edu/news/diffusion-ai-jobs-across-sectors))
 - By late 2025, **4.2% of all U.S. postings** mentioned AI; **45% of data & analytics postings** did. ([Indeed Hiring Lab, Jan 2026](https://www.hiringlab.org/2026/01/22/january-labor-market-update-jobs-mentioning-ai-are-growing-amid-broader-hiring-weakness/))
+- Employers increased tech postings **+13% MoM** in January 2026. ([Indeed Hiring Lab](https://www.hiringlab.org/2026/01/22/january-labor-market-update-jobs-mentioning-ai-are-growing-amid-broader-hiring-weakness/))
 
 ---
 
@@ -54,7 +60,7 @@
 
 | Occupation | 2024 Median Wage | Projected Growth | Source |
 |-----------|-----------------|-----------------|--------|
-| Software Developers | $133,080 | +15% (~287,900 jobs) | [BLS](https://blog.dol.gov/2024/09/06/new-bls-employment-projections-3-charts) |
+| Software Developers | $133,080 | **+15.8%** (~267,700 jobs) | [BLS](https://www.bls.gov/opub/mlr/2026/article/industry-and-occupational-employment-projections-overview.htm) |
 | Data Scientists | $112,590 | **+34%** | [BLS](https://blog.dol.gov/2024/09/06/new-bls-employment-projections-3-charts) |
 | Computer & Info Research Scientists | $140,910 | +20% | [BLS](https://blog.dol.gov/2024/09/06/new-bls-employment-projections-3-charts) |
 | Computer Programmers (narrow) | — | **Declining** | [BLS](https://blog.dol.gov/2024/09/06/new-bls-employment-projections-3-charts) |
@@ -73,6 +79,8 @@
 | Active AI openings (NYC, Mar 2025) | **5,201** (+87% YoY) | [TechNYC](https://www.technyc.org/q-dashboard-1) |
 | New AI roles posted (Mar 2025) | 2,044 | [TechNYC](https://www.technyc.org/q-dashboard-1) |
 | NYC rank for AI listings (Jan 2025) | **#1 nationally** (~1,995 posts) | [Axios](https://www.axios.com/local/washington-dc/2025/03/12/washington-s-ai-jobs-climb-to-5th-nationally) |
+| NYC total tech jobs | **~203,800** | [TechNYC 2025 Snapshot](https://www.technyc.org/nyc-tech-snapshot-2025) |
+| AI postings 2018–2023 (NYC cumulative) | **90,000+** unique | [TechNYC 2025 Snapshot](https://www.technyc.org/nyc-tech-snapshot-2025) |
 | Workers with AI skills in NYC | 40,000 | [nyc.gov](https://www.nyc.gov/office-of-the-mayor/news/060-25/mayor-adams-nycedc-release-first-of-its-kind-report-secure-new-york-city-global-leader-in) |
 | AI startups in NYC | 2,000+ | [nyc.gov](https://www.nyc.gov/office-of-the-mayor/news/060-25/mayor-adams-nycedc-release-first-of-its-kind-report-secure-new-york-city-global-leader-in) |
 
@@ -80,6 +88,8 @@
 
 - **Princeton + NJEDA + Microsoft + CoreWeave** accelerator with **$72M+ in commitments** ([Princeton](https://www.princeton.edu/news/2025/03/28/founding-partners-unveil-nj-ai-hub-center-innovation))
 - NJ 2022–2032 projections: Data Scientists **+28.3%** ([BLS state data](https://www.bls.gov/opub/mlr/2026/article/industry-and-occupational-employment-projections-overview.htm))
+- **NYC AI roadmap + OpenAI partnership** (Jan 2025): City launched applied-AI strategy, OpenAI providing internships, credits, and AI Nexus for startups. ([nyc.gov](https://www.nyc.gov/mayors-office/news/2025/01/mayor-adams-nycedc-release-first-of-its-kind-report-secure-new-york-city-global-leader-in))
+- **NJ AI employers:** CoreWeave (HQ Livingston — major data center expansion), ADP (Roseland — GenAI product roles), Panasonic North America (Newark), Prudential/PGIM (Newark). ([coreweave.com](https://www.coreweave.com/contact-us); [njeda.gov](https://www.njeda.gov/))
 
 ### Top Regional Employers Hiring AI Talent
 

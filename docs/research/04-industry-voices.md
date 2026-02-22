@@ -22,6 +22,12 @@
 
 — [CNBC, Davos, Jan 22, 2025](https://www.cnbc.com/2025/01/22/ai-hot-topic-at-davos-this-year-heres-what-top-ceos-are-saying.html)
 
+### On AI and Software Engineering (Davos, Jan 2026)
+
+> We may be **"6–12 months from models doing most, maybe all software‑engineering work end‑to‑end"**; Anthropic engineers already let models write code they then edit.
+
+— [WEF, Davos, Jan 2026](https://www.weforum.org/stories/2026/01/young-people-ai-davos/)
+
 ### On Self-Improving AI
 
 Anthropic's team has discussed whether and when to allow AI systems to train/improve themselves (recursive self-improvement), framing **2027–2030 as a likely decision window**. Anthropic's Responsible Scaling Policy flags "Autonomous AI R&D" as a specific risk threshold. ([The Guardian](https://www.theguardian.com/technology/ng-interactive/2025/dec/02/jared-kaplan-artificial-intelligence-train-itself))
@@ -52,6 +58,16 @@ Anthropic's team has discussed whether and when to allow AI systems to train/imp
 
 Acknowledged real labor-market impacts in Senate testimony (2023); urged preparation via training, safety research, and regulation. ([OpenAI](https://openai.com/global-affairs/testimony-of-sam-altman-before-the-us-senate/))
 
+### On Near-Term Displacement (Feb 2026)
+
+> Some layoffs are being wrongly blamed on AI ("AI washing"), but **real displacement from AI will become "palpable in the next few years"**; expects new job categories to appear alongside.
+
+— [Fortune, Feb 19, 2026](https://fortune.com/2026/02/19/sam-altman-confirms-ai-washing-job-displacement-layoffs/)
+
+> Called this "probably the most exciting time" to start a career — AI will spawn new industries and help people learn faster.
+
+— [CNBC, Aug 2025](https://www.cnbc.com/2025/08/22/openai-ceo-says-ai-era-is-exciting-time-to-start-a-career.html)
+
 ---
 
 ## 3. Sundar Pichai (CEO, Google/Alphabet)
@@ -73,6 +89,12 @@ Acknowledged real labor-market impacts in Senate testimony (2023); urged prepara
 > Outcomes are "not guaranteed or automatic" — urges responsible development and global collaboration.
 
 — [Economic Times](https://m.economictimes.com/tech/technology/outcome-of-ai-neither-guarenteed-nor-automatic-google-ceo-sundar-pichai/articleshow/128539557.cms)
+
+### On Adapting to AI (Dec 2025)
+
+> AI will "evolve and transition" jobs across the board; **"people who learn to use the tools will do better"** — even suggested a CEO role could be automatable one day.
+
+— [Fortune, Dec 2, 2025](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/)
 
 ---
 
@@ -96,16 +118,22 @@ Acknowledged real labor-market impacts in Senate testimony (2023); urged prepara
 
 — [CNBC, Feb 2025](https://www.cnbc.com/2025/02/26/nvidia-ceo-huang-says-next-generation-ai-will-need-more-compute.html)
 
+### On AI Infrastructure (Davos, Jan 2026)
+
+> Called this **"the largest infrastructure build-out in human history"** — predicted immediate demand and rising pay for trades building chip plants and AI data centers.
+
+— [Fortune, Jan 21, 2026](https://fortune.com/2026/01/21/jensen-huang-on-ai-bubble-largest-infrastructure-buildout-history/)
+
 ---
 
 ## 5. Quick Comparison
 
 | Leader | AGI Timeline | Jobs Impact | Posture |
 |--------|-------------|-------------|---------|
-| Amodei | **2027** (2–3 years) | 50% entry-level white-collar eliminated | Most alarmed |
-| Altman | Before 2030 | 30–40% task automation | Measured disruption |
-| Pichai | Non-committal | Augmentation emphasis | Most optimistic |
-| Huang | ~5 years | Reshaping, not erasing | Infrastructure bull |
+| Amodei | **2027** (2–3 years) | 50% entry-level white-collar; SE fully automated in 6–12 mo | Most alarmed |
+| Altman | Before 2030 | 30–40% task automation; displacement "palpable in next few years" | Measured disruption |
+| Pichai | Non-committal | Augmentation; "people who learn the tools will do better" | Most optimistic |
+| Huang | ~5 years | Reshaping, not erasing; "largest infrastructure build-out" | Infrastructure bull |
 
 ---
 

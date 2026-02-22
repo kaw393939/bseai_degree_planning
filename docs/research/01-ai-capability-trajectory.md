@@ -15,6 +15,8 @@ Measures AI ability to resolve real GitHub issues in Python repos. "Verified" = 
 | 2023 | Claude 2 (best baseline) | 1.96% | [openreview.net](https://openreview.net/pdf?id=VTF8yNQM66) |
 | 2024 | SWE-agent (GPT-4) | 12.47% (Full) | [swebench.com](https://www.swebench.com/) |
 | 2024 | GPT-4o + best scaffold | 33.2% (Verified) | [openai.com](https://openai.com/index/introducing-swe-bench-verified/) |
+| 2024 | Claude 3.5 Sonnet | 49.0% (Verified) | [anthropic.com](https://www.anthropic.com/news/3-5-models-and-computer-use) |
+| 2024 | o1 (Dec snapshot) | 48.9% (Verified) | [openai.com](https://openai.com/index/o1-and-new-tools-for-developers/) |
 | 2025 | Claude Sonnet 4.5 | 77.2% (Verified) | [anthropic.com](https://www.anthropic.com/news/claude-sonnet-4-5) |
 | 2025 | Claude Opus 4.5 | 80.9% (Verified) | [itpro.com](https://www.itpro.com/technology/artificial-intelligence/anthropic-announces-claude-opus-4-5-the-new-ai-coding-frontrunner) |
 | 2025 | GPT-5 | 74.9% (Verified) | [openai.com](https://openai.com/index/introducing-gpt-5-for-developers) |
@@ -45,10 +47,23 @@ Measures AI ability to resolve real GitHub issues in Python repos. "Verified" = 
 |------|-------|-------|--------|
 | 2022 | Chinchilla | 67.5% | [arxiv.org](https://arxiv.org/abs/2203.15556) |
 | 2023 | GPT-4 | 86.4% | [ar5iv.org](https://ar5iv.org/pdf/2303.08774.pdf) |
+| 2023 | Gemini Ultra 1.0 | 90.0% | [blog.google](https://blog.google/innovation-and-ai/technology/ai/google-gemini-ai/) |
+| 2024 | Claude 3 Opus | 86.8% | [infoq.com](https://www.infoq.com/news/2024/03/anthropic-claude-ai/) |
 | 2025 | o1 | 90.8% | [openai.com](https://openai.com/index/o1-and-new-tools-for-developers/) |
 | 2025 | o3 | ~92–93% | [openai.com](https://openai.com/open-models/) |
 
 **Status:** Saturated. Scores cluster high-80s to low-90s. Known issues: ~6.5% label errors, contamination, format sensitivity. ([arxiv.org](https://arxiv.org/abs/2406.04127)) MMLU-Pro (10-choice, harder) still discriminative through early 2026. ([crfm.stanford.edu](https://crfm.stanford.edu/2025/03/20/helm-capabilities.html))
+
+### MMLU-Pro (10-choice, harder — launched June 2024)
+
+| Year | Model | Score | Source |
+|------|-------|-------|--------|
+| 2024 | Claude 3.5 Sonnet | 76.1% | [github.com/TIGER-AI-Lab](https://github.com/TIGER-AI-Lab/MMLU-Pro) |
+| 2024 | GPT-4o | 72.6% | [github.com/TIGER-AI-Lab](https://github.com/TIGER-AI-Lab/MMLU-Pro) |
+| 2024 | Gemini 1.5 Pro | 69.0% | [github.com/TIGER-AI-Lab](https://github.com/TIGER-AI-Lab/MMLU-Pro) |
+| 2025 | Gemini 3 Pro | ~90% | [llmdb.com](https://llmdb.com/benchmarks/mmlu-pro) |
+
+**Status:** Restored headroom that MMLU lost. Initial 16–33 point score drops vs MMLU for the same models. Top scores approaching ~90% by late 2025 — beginning to ceiling. ([arxiv.org](https://arxiv.org/abs/2406.01574))
 
 ### GPQA Diamond (PhD-level STEM, hardest split)
 
@@ -56,6 +71,7 @@ Measures AI ability to resolve real GitHub issues in Python repos. "Verified" = 
 |------|-------|-------|--------|
 | 2023 | GPT-4 baseline | ~39% | [arxiv.org](https://arxiv.org/abs/2311.12022) |
 | 2023 | Human PhD experts | ~65% | [arxiv.org](https://arxiv.org/abs/2311.12022) |
+| 2024 | Claude 3 Opus | ~60% | [openreview.net](https://openreview.net/forum?id=Ti67584b98) |
 | 2024 | o1 | 77.3% | [openai.com](https://openai.com/index/learning-to-reason-with-llms/) |
 | 2025 | o3 | 83.3% | [openai.com](https://openai.com/open-models/) |
 | 2025 | GPT-5.1 | 88.1% | [openai.com](https://openai.com/index/gpt-5-1-for-developers/) |
@@ -90,7 +106,8 @@ Published in *Nature*, January 28, 2026. 2,500 questions designed to remain hard
 | Year | Benchmark | Model | Score | Source |
 |------|-----------|-------|-------|--------|
 | 2022 | MATH | Minerva | 50.3% | [research.google](https://research.google/blog/minerva-solving-quantitative-reasoning-problems-with-language-models/) |
-| 2024 | MATH | o1 | 94.8% | [openai.com](https://openai.com/index/learning-to-reason-with-llms/) |
+| 2024 | MATH | o1 (Sep) | 94.8% | [openai.com](https://openai.com/index/learning-to-reason-with-llms/) |
+| 2024 | MATH | o1 (Dec snapshot) | 96.4% | [openai.com](https://openai.com/index/o1-and-new-tools-for-developers/) |
 | 2024 | AIME 2024 | GPT-4o | ~12% (1.8/15) | [openai.com](https://openai.com/index/learning-to-reason-with-llms/) |
 | 2024 | AIME 2024 | o1 | 74% (pass@1) | [openai.com](https://openai.com/index/learning-to-reason-with-llms/) |
 | 2025 | AIME 2025 | o4-mini (w/ tools) | 99.5% | [openai.com](https://openai.com/index/introducing-o3-and-o4-mini/) |
@@ -167,7 +184,8 @@ The length of tasks AI can complete autonomously with 50% reliability has been *
 | Year | System | Score | Source |
 |------|--------|-------|--------|
 | 2024 | GPT-4 + tools | ~15% | [arxiv.org](https://arxiv.org/abs/2311.12983) |
-| 2025 | Claude Sonnet 4.5 (best) | 74.6% | [hal.cs.princeton.edu](https://hal.cs.princeton.edu/gaia) |
+| 2025 | H2O.ai Agent | 75% | [h2o.ai](https://h2o.ai/company/press-releases/ai-is-only-30-away-from-matching-human-level-generalintelligence-on-gaia-benchmark/) |
+| 2025 | Claude Sonnet 4.5 | 74.6% | [hal.cs.princeton.edu](https://hal.cs.princeton.edu/gaia) |
 | — | Humans | ~92% | [arxiv.org](https://arxiv.org/abs/2311.12983) |
 
 ### τ-bench Airline (Policy-constrained tool use)
