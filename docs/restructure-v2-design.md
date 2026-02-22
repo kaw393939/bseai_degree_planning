@@ -20,7 +20,7 @@
 
 | Role | Person | Notes |
 |------|--------|-------|
-| Program Founder & Director | **Keith Williams** | 25-year NJIT professor, SME and visionary |
+| Program Founder & Director | **Keith Williams** | 25-year NJIT Senior University Lecturer, SME and visionary |
 | Center Director | Keith Williams | Center for Enterprise AI, Dept. of Informatics |
 | IS Degree Director | Partner (co-lead) | 25-year NJIT professor, IS degree director |
 | Hosting Department | Department of Informatics | Ying Wu College of Computing |

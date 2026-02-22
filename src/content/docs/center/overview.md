@@ -6,7 +6,7 @@ description: "The Center for Enterprise AI at NJIT — the institutional home fo
 # Center for Enterprise AI
 
 **Department of Informatics** | Ying Wu College of Computing | NJIT
-**Director:** Keith Williams, Professor of Informatics
+**Director:** Keith Williams, Senior University Lecturer, Department of Informatics
 
 ---
 
@@ -69,7 +69,7 @@ NJIT is an anchor institution in Newark — one of New Jersey's most important a
 
 | Role | Person |
 |------|--------|
-| Director | Keith Williams, Professor of Informatics |
+| Director | Keith Williams, Senior University Lecturer, Department of Informatics |
 | Home Department | Department of Informatics |
 | College | Ying Wu College of Computing |
 | Funding | NJIT institutional funding + Dean's fundraising commitment for community training |
