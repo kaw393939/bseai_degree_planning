@@ -76,6 +76,8 @@ export default defineConfig({
             { label: 'Job Market Data', slug: 'evidence/job-market' },
             { label: 'Industry Voices', slug: 'evidence/industry-voices' },
             { label: 'Higher Ed Landscape', slug: 'evidence/higher-ed-landscape' },
+            { label: 'The Productivity Imperative', slug: 'evidence/productivity-imperative' },
+            { label: 'Who Walks in the Door', slug: 'evidence/student-profile' },
           ]
         },
         {
