@@ -55,6 +55,8 @@ This is not only an educational response — it is an economic one. The U.S. fac
 
 5. **Studio, not lecture.** 20–25 student cohorts. Every course produces deployable artifacts. Real feedback cycles.
 
+6. **Vocabulary as engineering, not decoration.** Named concepts — "Conway's Law," "5 Whys," "ACID properties" — are taught as high-compression prompt components that activate dense knowledge in LLMs. Students build a compounding "Spell Book" across 8 semesters: ~60+ power phrases, each an indexed lookup into the AI's parameter space. This is grounded in how transformer attention mechanisms actually process language — not metaphor, but measurable token economics.
+
 ---
 
 ## Accreditation Alignment

@@ -147,6 +147,27 @@ As students progress through the spine, their Context Packs become more sophisti
 
 By graduation, constructing a Context Pack for *any* domain is second nature. That's the operational skill behind "CEO of agents."
 
+### The Spell Book: What Goes Inside the Context Pack
+
+The Context Pack is the delivery vehicle. The **Spell Book** is what goes inside it.
+
+Across 8 studios, students build a compounding vocabulary of **power phrases** — named concepts, people, and frameworks that activate dense knowledge clusters in LLMs. Each phrase is a high-compression prompt component: "Conway's Law" (2 tokens) activates organizational theory, system design constraints, and decades of empirical evidence that would take 50+ tokens to describe from scratch. "5 Whys" (2 tokens) activates Toyota's root cause methodology, lean manufacturing, and structured diagnostic thinking.
+
+This is not metaphor. LLMs process language as tokens, and each token activates patterns across billions of learned parameters. Named concepts — reinforced by millions of expert documents in the training data — create dense, coherent activation pathways. Generic language creates diffuse, low-signal activation. The student who writes "Apply the CAP theorem to evaluate this architecture" and the student who writes "check if the system handles failures well" are asking for the same thing — but the first produces a response grounded in Eric Brewer's distributed systems proof, while the second produces generic advice that could apply to a toaster.
+
+**The Spell Book grows across 8 semesters:**
+
+- **v1 (IS 117):** Shannon, Berners-Lee, Alan Kay — the foundations of web and information theory
+- **v2 (IS 118):** Cunningham, Fielding, Crockford — the craft of software
+- **v3 (IS 218):** Uncle Bob, Wiggins, Gang of Four — production engineering protocols
+- **v4 (IS 265):** Christensen, Toyoda, Brooks — business analysis frameworks
+- **v5 (IS 331):** Codd, Gray, Brewer — data engineering precision
+- **v6 (IS 390):** Conway, Liskov, Meadows — systems architecture vocabulary
+- **v7 (IS 425):** Hinton, Gebru, Buolamwini — accountability and bias research
+- **v8 (IS 482):** Feynman, Sweller, Freire — translation and communication science
+
+By graduation, students carry ~60+ power phrases — each tested across real projects, each proven to produce measurably better AI output. The Context Pack structure ensures these phrases are deployed systematically. Together, the Spell Book and the Context Pack constitute the operational toolkit of the AI-era professional: **the right vocabulary, delivered in the right structure, to the right agent, for the right task.**
+
 ---
 
 ## What This Means for Students
