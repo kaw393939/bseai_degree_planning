@@ -42,8 +42,40 @@ No peer institution offers a program that explicitly teaches the **integration l
 
 - **First-mover**: Programs launching 2026–2027 capture students and reputation before AI degrees become table stakes
 - **Resource efficient**: Uses existing faculty, labs, and catalog infrastructure
-- **NYC metro**: Access to the largest AI job market in the country (500+ AI companies, major tech offices, pharma, finance)
+- **NYC metro**: NJIT sits 30 minutes from the #1 AI job market in the U.S. — 5,201 active AI openings (+87% YoY), 203,800 total tech jobs, 2,000+ AI startups (TechNYC, 2025). NJ AI Hub ($72M+, Princeton/NJEDA/Microsoft/CoreWeave) launching nearby.
 - **Differentiated**: Not another CS/ML program — occupies a unique space between engineering and management
+
+---
+
+## We Know Who Walks in the Door
+
+The program's design is grounded in data about the actual students who will enroll — not an idealized version of them.
+
+### The National Picture
+
+| Metric | Value | Source |
+|--------|-------|--------|
+| 12th-graders below NAEP Proficient in reading | ~65% | NAGB, Sep 2025 |
+| 8th-graders below proficient in math | ~73% | NAEP 2024 |
+| ACT-takers meeting all 4 benchmarks | 20% | ACT Inc., Oct 2024 |
+| ACT-takers meeting zero benchmarks | 43% | ACT Inc., Oct 2024 |
+| 8th-graders digitally proficient for production work | 2% | ICILS 2018 |
+| Gen Z diagnosed with a mental health condition | 46% | Harmony Healthcare IT, Jun 2025 |
+
+These declines **predate COVID** — the pandemic deepened a trend that began in the mid-2010s (OECD PISA 2022).
+
+### Why the Studio Model Is an Evidence-Based Response
+
+The BS in Enterprise AI's 8-course studio spine addresses these realities directly:
+
+- **Start from zero**: IS 117 → IS 118 assume no prior terminal, Git, or programming experience
+- **Build reading through doing**: Short, purposeful reads applied immediately to builds — not long abstract assignments
+- **Failure-safe scaffolding**: Clear rubrics, revision cycles, and "failure as data" framing from Week 1
+- **Shipped artifacts**: A generation shaped by passive consumption needs to produce. Portfolio-on-graduation proves capability.
+- **Cohort community**: Same ~20 peers across 8 courses provides built-in belonging
+- **AI amplifies novices**: MIT RCT found 40% faster, 18% higher quality work with AI — **largest gains for lowest-baseline performers**. Stanford found +30–35% for least-experienced workers. The program's 60% AI-directed workflow leverages exactly this effect.
+
+**See:** [Who Walks in the Door](/bseai_degree_planning/evidence/student-profile/) — Full data-grounded student portrait
 
 ---
 

@@ -7,6 +7,20 @@ description: "What prospective and current students need to know about the BS in
 
 You're considering a degree that didn't exist two years ago, for jobs that didn't exist five years ago, using tools that are changing every month. Here's what that means and why it's the best investment you can make.
 
+## You Might Feel Like You're Not Ready
+
+Let's be honest.
+
+Maybe you got through high school without ever opening a terminal. Maybe math wasn't your best subject. Maybe you're not sure you're "smart enough" for a tech degree. Nationally, only 29% of ACT-takers met the math college-readiness benchmark. 43% met *none* of the four benchmarks (ACT Inc., 2024). Only 2% of 8th-graders demonstrated real digital production proficiency (ICILS 2018).
+
+**This program was designed for you — not despite those numbers, but because of them.**
+
+The studio model starts from zero. IS 117 teaches you to open a terminal, use Git, and publish a website before it asks you to do anything hard. Every course scaffolds the next. You build real things from Week 1, and by graduation you have 8 shipped projects and a portfolio that proves what you can do.
+
+And here's the research that should give you confidence: MIT found that professionals using AI completed tasks **40% faster with 18% higher quality** — and the gains were **largest for the least-experienced workers**. Stanford found the same pattern: +30–35% productivity gains for novices. AI doesn't just help experts. **It helps beginners most.**
+
+The degree teaches you to use AI as your advantage while building the human skills — judgment, inquiry, resilience, accountability — that keep you valuable no matter how the tools change.
+
 ---
 
 ## What You'll Learn

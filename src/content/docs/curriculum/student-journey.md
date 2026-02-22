@@ -11,11 +11,13 @@ This is the honest version. Not the admissions brochure. Not the aspirational ma
 
 ## Who walks in the door
 
-**Jaylen, 18.** Newark public school graduate. Got decent grades but was never challenged. Has a phone, a Chromebook from school, maybe a gaming laptop. Has never opened a terminal, used Git, or heard of an API. Was told "you should do something with computers" and picked this because it sounded like the future. Might be on academic warning. Definitely can't afford paid software subscriptions.
+**Jaylen, 18.** Newark public school graduate. Got decent grades — but nationally, ~65% of 12th-graders scored below NAEP Proficient in reading (NAGB, Sep 2025), and only 29% of ACT-takers met the math college-readiness benchmark (ACT Inc., Oct 2024). "Decent grades" often mask below-proficient actual skill. Jaylen has a phone and a Chromebook from school. Has never opened a terminal, used Git, or heard of an API — and the data says that's normal: only 2% of 8th-graders demonstrated digital production proficiency in the last international study (ICILS 2018). Was told "you should do something with computers" and picked this because it sounded like the future.
 
-Jaylen represents about a third of the incoming class. The other two-thirds are slightly more prepared but not by much. A few have dabbled in Python from YouTube tutorials. Almost none have shipped anything.
+Jaylen is not an edge case. **Jaylen is the median incoming student.**
 
-**The program's job:** Take Jaylen from here to a functioning AI product engineer in four years. Not the top 5% — *Jaylen*. The average student. The one who needs the most support and has the most to gain.
+The other students in the cohort are a few steps ahead or behind, but the profile is consistent: pragmatic motivation (income and skill development are Gen Z's top two career priorities), anxiety about belonging (46% of Gen Z have been diagnosed with a mental health condition), and phone-first digital fluency that doesn't translate to production skills. A few have dabbled in Python from YouTube tutorials. Almost none have shipped anything.
+
+**The program's job:** Take Jaylen from here to a functioning AI product engineer in four years. Not the top 5% — *Jaylen*. The average student. The one who needs the most support and has the most to gain. And the MIT and Stanford research says it works: AI productivity gains are **largest for the least-experienced workers** — 40% faster with 18% higher quality (MIT RCT), +30–35% for least-experienced (Stanford/Fortune 500).
 
 ---
 
