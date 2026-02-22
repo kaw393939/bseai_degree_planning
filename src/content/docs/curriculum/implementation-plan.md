@@ -88,6 +88,38 @@ Demo Day operates as a **grading component within each course** (typically 15% o
 
 See the [Assessment Plan](/bseai_degree_planning/accreditation/assessment-plan/) for the full continuous-improvement framework.
 
+## Resource Requirements
+
+| Resource | Requirement | Timeline | Status |
+|----------|------------|----------|--------|
+| **Faculty** | 1 FTE lead + 2 adjuncts (practitioner-instructors) | Hire by Spring 2026 | Studio cap of 20–25 means small sections; adjuncts with deployment experience preferred |
+| **Lab infrastructure** | Linux terminal environment, CI/CD servers, GPU access for IS 392/465/480 | Ready by Fall 2026 | Leverage NJIT HPC + cloud credits (AWS/Azure academic programs) |
+| **Industry partnerships** | 3–5 committed organizations for senior project intake | By Fall 2028 (Phase 3) | NJ AI Hub ($72M+), NYC metro (5,201+ AI openings) provides pipeline |
+| **Assessment infrastructure** | Portfolio platform, Demo Day logistics, rubric calibration | By Spring 2027 (IS 118 launch) | Existing GitHub + deployment platforms; Demo Day adds venue + judge coordination |
+| **MSCHE filing** | Substantive change notification (IS 118 is a new course) | Filed Spring 2026 | Only 1 of 8 spine courses is new; rest are modifications of existing catalog numbers |
+
+## Risk Mitigations
+
+| Risk | Likelihood | Impact | Mitigation |
+|------|-----------|--------|------------|
+| Low initial enrollment | Medium | High | Market as AI career accelerator, not traditional CS; leverage $110K–$150K starting salary data; target students who self-select for building, not theory |
+| Faculty recruitment | Medium | High | Practitioner-instructors (not PhD researchers); competitive adjunct rates justified by small sections; industry network for guest judges |
+| AI capability outpaces curriculum | High | Medium | 40/60 policy ensures 60% of each course uses current AI tools; syllabi are frameworks, not frozen content; annual curriculum review built into assessment plan |
+| Accreditation delay | Low | High | IS 118 is the only new course; MSCHE substantive change (not new program) has shorter timeline; ABET CAC self-study planned for Year 3 |
+| Industry partner churn | Medium | Medium | Diversify across sectors (finance, healthcare, logistics, government); maintain 3–5 active partners; IS 390 can use instructor-sourced projects as fallback |
+| Student underprepration more severe than expected | Medium | Medium | Studio model is already designed for NAEP/ACT reality; IS 117 starts from zero; AI Audit Log scaffolds judgment progressively; cohort structure provides peer support |
+
+## Decision Points
+
+| Date | Decision | Depends On | Go/No-Go Criteria |
+|------|----------|-----------|-------------------|
+| **Spring 2026** | File MSCHE substantive change | Curriculum committee approval | IS 118 syllabus finalized, PEOs mapped to outcomes |
+| **Summer 2026** | Finalize IS 117 studio format | Rubric framework complete | Pilot rubric tested with sample artifacts |
+| **Fall 2026** | Launch first cohort | MSCHE approval, faculty hired, infrastructure ready | Minimum 15 enrolled students, 1 FTE + 1 adjunct confirmed |
+| **Spring 2027** | Launch IS 118 | IS 117 cohort data collected | IS 117 completion rate >80%, student feedback incorporated |
+| **Fall 2028** | Activate Center for Enterprise AI | Industry partners committed | 3+ signed MOUs, project intake process tested |
+| **Spring 2030** | First capstone cohort graduates | Full spine operational | All 8 studios have run at least once; Demo Day executed with industry judges |
+
 ## Industry Coalition & Project Intake
 
 To sustain the Center for Enterprise AI and provide authentic senior projects, the program establishes a predictable intake pipeline:

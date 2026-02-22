@@ -49,6 +49,8 @@ Actual pay varies by location, seniority, company type, and total-comp structure
 - Front-end proficiency (React or equivalent)
 - Security/privacy awareness for data used in prompts
 
+**Studio spine preparation:** IS 218 (full-stack apps + AI-assisted dev + testing), IS 331 (RAG + data integration), IS 392 (NLP + prompt engineering), IS 425 (production system with eval evidence). The AI Audit Log (IS 218+) directly practices the evaluate/iterate loop this role requires.
+
 **Estimated salary (US)**
 
 - Entry (0–2 yrs): base roughly **$110k–$150k**
@@ -73,6 +75,8 @@ Example source set: https://builtin.com/salaries/us/ai-engineer, https://www.yco
 - Strong communication + technical writing
 - Comfort working in cross-functional discovery teams
 
+**Studio spine preparation:** IS 265 (problem finding + stakeholder analysis), IS 390 (systems analysis + requirements), IS 425 (capstone delivery to industry judges). The Translation capability (IS 118) and Problem Finding capability (IS 265) map directly to this role's cross-functional delivery requirements.
+
 **Estimated salary (US)**
 
 - Often hired at **mid-level+** (varies by company)
@@ -95,6 +99,8 @@ Example source set: https://scale.com/careers/4602177005, https://www.glassdoor.
 - Systems thinking: environments, deployment, reliability, incident response
 - Secure integration patterns (authn/authz, secrets, audit logging)
 - Ability to communicate risk and operational readiness to stakeholders
+
+**Studio spine preparation:** IS 219 (Linux, containers, networking, incident drills, blameless postmortems), IS 390 (architecture + trade-off analysis), IS 425 (production deployment with governance). The Resilience Thinking capability (IS 219) is purpose-built for this role.
 
 **Estimated salary (US)**
 
@@ -121,6 +127,8 @@ Example source set: https://www.salary.com/research/salary/hiring/mlops-engineer
 - Evaluation metrics (Recall@k / nDCG + groundedness/attribution)
 - Solid software engineering: tests, CI, observability, API design
 
+**Studio spine preparation:** IS 331 (graph + vector stores + data quality), IS 392 (NLP + RAG + embeddings), IS 480 (eval harnesses + red teaming), IS 425 (production RAG system with evaluation evidence). The Epistemic Humility capability (IS 331) teaches students to document what their system doesn't know.
+
 **Estimated salary (US)**
 
 - Entry (0–2 yrs): base roughly **$110k–$160k**
@@ -145,7 +153,34 @@ Example source set: https://www.levels.fyi, https://www.h1b-connect.com
 - Observability (logs/metrics/traces) and performance tuning
 - Comfortable integrating multiple services and data sources
 
+**Studio spine preparation:** IS 218 (testing + CI/CD + AI-assisted dev), IS 219 (monitoring + observability + infrastructure), IS 331 (data integration), IS 425 (platform-scale production system). The Professional Judgment capability (IS 218) and Systems Thinking capability (IS 390) map directly to platform engineering decisions.
+
 **Estimated salary (US)**
 
 - Baseline reference: BLS Software Developers median is **$133,080** (May 2024)
 - Platform-oriented AI roles commonly overlap with higher-paying software bands in major markets
+
+---
+
+## Studio Spine → Role Readiness Summary
+
+| Studio Course | Human Edge Capability | Roles It Prepares For |
+|--------------|----------------------|----------------------|
+| IS 117 | Disciplined Inquiry | All (foundational research + documentation habits) |
+| IS 118 | Translation | Forward-Deployed AI Eng, AI Product Eng |
+| IS 218 | Professional Judgment | AI Product Eng, AI Software Eng |
+| IS 265 | Problem Finding | Forward-Deployed AI Eng, AI Product Eng |
+| IS 219 | Resilience Thinking | AI Deployment Eng, AI Software Eng |
+| IS 331 | Epistemic Humility | LLM Application Eng, AI Product Eng |
+| IS 390 | Systems Thinking | AI Deployment Eng, Forward-Deployed AI Eng |
+| IS 425 | Accountable Leadership | All (capstone integrates every role's requirements) |
+
+By graduation, students have portfolio evidence for **every role on this page** — not because we designed the roles around the curriculum, but because the curriculum was designed around the same skills these roles require.
+
+---
+
+## Further Reading
+
+- [Job Signals Summary](/bseai_degree_planning/careers/job-signals-summary/) — What the labor market is telling us
+- [Skills Map](/bseai_degree_planning/careers/skills-map/) — Human Edge capabilities mapped to employer-sought skills
+- [Salary Data (canonical)](/bseai_degree_planning/careers/job-signals-summary/) — All salary claims sourced and cross-referenced

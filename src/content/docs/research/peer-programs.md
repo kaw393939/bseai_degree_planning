@@ -19,7 +19,7 @@ Five institutions offer undergraduate AI or AI-adjacent degrees. None teach what
 | **Portfolio of shipped projects** | Senior project only | Senior project only | Capstone only | Capstone only | Capstone only | **8 projects (one per semester)** |
 | **AI Audit Log** | No | No | No | No | No | **Yes (IS 218+)** |
 | **Incident drills** | No | No | No | No | No | **Yes (IS 219)** |
-| **Demo Day** | No | No | No | No | No | **Yes — starting Year 2, industry judges in Year 4** |
+| **Demo Day** | No | No | No | No | No | **Yes — Semester 2 (IS 118 onward), industry judges IS 425** |
 | **Enterprise deployment focus** | No | No | No | Partial | Partial | **Yes — production systems, HITL, evals** |
 | **Knowledge graphs + RAG** | Research elective | Research elective | No | Elective | No | **Required (IS 331, IS 425)** |
 | **Evaluation harnesses** | No | No | No | No | No | **Required (IS 425, IS 480)** |
@@ -47,18 +47,25 @@ Five institutions offer undergraduate AI or AI-adjacent degrees. None teach what
 ### Georgia Tech — CS Threads (Intelligence + Theory)
 - Flexible "threads" model lets students combine AI with systems, media, etc.
 - Strong systems engineering culture
+- NVIDIA-backed AI Makerspace and campus supercomputer integrated into undergraduate courses ([GaTech ECE](https://ece.gatech.edu/news/2025/05/ai-makerspace-turns-one-students-charting-course))
+- Strong Atlanta industry access
 - **Limitation:** AI knowledge is distributed across electives, not a cohesive spine. No human capability framework. Theory-heavy.
 - **Source:** [GT CS Threads](https://www.cc.gatech.edu/threads), accessed Feb 2026.
 
 ### Purdue — BS in Artificial Intelligence
-- Broad AI curriculum covering ML, NLP, computer vision, robotics
-- Domain application tracks (healthcare, agriculture, manufacturing)
+- Dedicated AI program in Department of Computer Science
+- CS/AI core + cognition/ethics components
+- Also offers B.A. in AI (Liberal Arts) — humanities/ethics/policy-forward
+- University-wide AI working competency requirement begins Fall 2026
+- **AI@Purdue** initiative spanning learning, research, and partnerships
 - **Limitation:** Traditional lecture model. No studio cohorts. No named human capabilities. Limited production deployment focus.
 - **Source:** [Purdue AI BS](https://www.cs.purdue.edu/undergraduate/curriculum/ai.html), accessed Feb 2026.
 
 ### Arizona State — BS in AI in Business (W.P. Carey School)
-- Business-school approach: AI for non-engineers
-- Lighter math requirements, more organizational focus
+- Business school degree, not engineering/CS
+- Available online now; Polytechnic campus starting Fall 2026
+- Expanded OpenAI collaboration (all students/faculty get ChatGPT Edu)
+- Applied/innovation emphasis rather than research depth
 - **Limitation:** Less technical depth. AACSB not ABET. Business orientation may limit engineering roles. No systems engineering, no infrastructure.
 - **Source:** [ASU AI in Business](https://wpcarey.asu.edu/), accessed Feb 2026.
 
@@ -66,14 +73,23 @@ Five institutions offer undergraduate AI or AI-adjacent degrees. None teach what
 
 ## What None of Them Teach
 
-| Gap | Why It Matters | NJIT's Answer |
-|-----|---------------|---------------|
-| Named Human Edge capabilities paired to each course | Accreditors and employers can trace exactly which capability each course develops | 8 capabilities, formally assessed via Human Edge artifacts |
-| AI Audit Log — documenting accept/reject/modify decisions | The core professional skill: evaluating AI output with reasoned judgment | Required starting IS 218, carried through capstone |
-| Incident drills — live production failure exercises | Real systems fail. Graduates who've practiced recovery outperform those who haven't | IS 219 runs simulated production incidents |
-| 8-semester portfolio with shipped artifacts | Students can show, not tell. Employers see progressive capability. | Every studio produces a deployed artifact |
-| Remediation-to-leadership pipeline | CMU/Stanford require strong admits. NJIT takes students from OARS to Demo Day. | IS 117 starts from zero; IS 425 presents to industry judges |
-| Enterprise deployment (knowledge graphs, HITL, evals) | Most programs stop at model training. Deployment is where value is created. | IS 331 → IS 425 build production systems with evaluation evidence |
+| Capability | NJIT BSEAI | CMU | Stanford | GT | Purdue | ASU |
+|-----------|-----------|-----|---------|----|---------|----|  
+| Named Human Edge capabilities (8 specific, assessed) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Studio model (20–25 students, every semester) | ✅ | Partial | ❌ | ❌ | ❌ | ❌ |
+| Portfolio of 8 shipped projects | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| AI Audit Log (evaluate/override AI output) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Incident drills + blameless postmortems | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Enterprise deployment focus (RAG, evals, HITL, governance) | ✅ | ❌ | ❌ | ❌ | ❌ | Partial |
+| Remediation-as-feature (designed for underprepared students) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+### The Differentiation Story
+
+- **CMU and Stanford** are research pipelines that train the people who build foundation models. They don't need to teach enterprise deployment — their graduates go to Anthropic, OpenAI, and Google DeepMind.
+- **Georgia Tech** has exceptional infrastructure (NVIDIA AI Makerspace) but distributes AI across electives rather than building a cohesive spine.
+- **Purdue** has the closest structural analog (dedicated BS in AI) but focuses on traditional AI/ML foundations with some ethics/cognition. No studio model, no shipped artifacts.
+- **ASU** is business-focused (W.P. Carey), not technical.
+- **NJIT's BS in Enterprise AI** occupies a different niche: training the people who deploy, evaluate, govern, and scale AI systems in enterprise organizations. The "CEO of agents" — not building the model, but directing, evaluating, and taking responsibility for AI-powered work.
 
 ---
 
@@ -86,11 +102,18 @@ Existing programs produce two types of graduates:
 
 **Nobody produces the middle:** the practitioner who can build production AI systems, evaluate them rigorously, deploy them safely, and take accountability for outcomes. That's the BS in Enterprise AI.
 
-This maps directly to the roles employers are hiring for:
-- Forward-Deployed AI Engineer (Morningstar: $145K–$183K)
-- AI Deployment Engineer (OpenAI: $137K–$250K)
-- AI Product Engineer (e2b: $180K–$220K)
-- LLM Application Engineer (emerging role, $110K–$180K)
+The peers excel at producing AI researchers and data scientists. None of them explicitly train students for the roles enterprises are actually hiring for in 2026:
+
+| Role | Base Salary Range | What It Requires |
+|------|------------------|------------------|
+| Forward-Deployed AI Engineer | $140K–$220K | Prototyping + cross-functional delivery + technical writing |
+| AI Product Engineer | $110K–$260K | LLM features + evaluation + product metrics |
+| AI Deployment Engineer | $115K–$220K | Systems thinking + compliance + reliability |
+| LLM Application Engineer | $110K–$250K+ | RAG + eval harnesses + production engineering |
+
+*Salary ranges from [canonical salary data](/bseai_degree_planning/reference/salary-data/), cross-referenced with BLS, levels.fyi, and 2025–2026 postings.*
+
+These roles require the *intersection* of technical fluency, evaluation capability, deployment skills, and stakeholder communication — exactly the Human Edge + Studio Spine combination.
 
 ---
 
