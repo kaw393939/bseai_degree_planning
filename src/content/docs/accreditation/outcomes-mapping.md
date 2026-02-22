@@ -14,13 +14,13 @@ This matrix shows how each Human Edge capability maps to ABET CAC student outcom
 | Human Edge Capability | ABET (1) Analyze | ABET (2) Design | ABET (3) Communicate | ABET (4) Ethics | ABET (5) Teamwork |
 |---|:---:|:---:|:---:|:---:|:---:|
 | **Disciplined Inquiry** (IS 117) | ●●● | ● | ●● | | ● |
-| **Translation** (IS 118) | ● | ●● | ●●● | | ●● |
-| **Professional Judgment** (IS 218) | ●● | ●●● | ● | ●●● | ●● |
+| **Professional Judgment** (IS 118) | ●● | ●●● | ● | ●●● | ●● |
+| **Resilience Thinking** (IS 218) | ●● | ●●● | ● | ● | ●● |
 | **Problem Finding** (IS 265) | ●●● | ● | ●●● | ●● | ●●● |
-| **Resilience Thinking** (IS 219) | ●● | ●●● | ● | ● | ●● |
 | **Epistemic Humility** (IS 331) | ●●● | ●● | ● | ●●● | ● |
 | **Systems Thinking** (IS 390) | ●●● | ●●● | ●● | ●● | ●● |
 | **Accountable Leadership** (IS 425) | ●● | ●●● | ●●● | ●●● | ●●● |
+| **Translation** (IS 482) | ● | ●● | ●●● | ●● | ●●● |
 
 *●●● = primary alignment · ●● = strong alignment · ● = supporting alignment*
 
@@ -33,13 +33,13 @@ Shows where each ABET outcome is Introduced, Reinforced, and Mastered across the
 | Course | (1) Analyze | (2) Design | (3) Communicate | (4) Ethics | (5) Teamwork |
 |---|:---:|:---:|:---:|:---:|:---:|
 | IS 117 | **I** | I | I | | I |
-| IS 118 | R | I | **I** | | R |
-| IS 218 | R | **I→R** | R | I | R |
+| IS 118 | R | I | **I** | I | R |
+| IS 218 | R | **I→R** | R | R | R |
 | IS 265 | **R** | R | **R** | R | **R** |
-| IS 219 | R | **R** | R | R | R |
 | IS 331 | **R→M** | R | R | **R** | R |
 | IS 390 | **M** | **R→M** | R | R | R |
-| IS 425 | M | **M** | **M** | **M** | **M** |
+| IS 425 | M | **M** | R→M | **M** | **M** |
+| IS 482 | M | M | **M** | M | **M** |
 
 Additionally: IS 350 (Ethics) provides **I→R→M** specifically for outcome (4).
 
@@ -52,13 +52,13 @@ Each Human Edge is introduced in its home studio and reinforced in every subsequ
 | Semester | New Capability | Running Total |
 |---|---|---|
 | 1 (IS 117) | Disciplined Inquiry | 1 |
-| 2 (IS 118) | Translation | 2 |
-| 3 (IS 218) | Professional Judgment | 3 |
+| 2 (IS 118) | Professional Judgment | 2 |
+| 3 (IS 218) | Resilience Thinking | 3 |
 | 4 (IS 265) | Problem Finding | 4 |
-| 5 (IS 219) | Resilience Thinking | 5 |
-| 6 (IS 331) | Epistemic Humility | 6 |
-| 7 (IS 390) | Systems Thinking | 7 |
-| 8 (IS 425) | Accountable Leadership | **All 8 — the "CEO of agents"** |
+| 5 (IS 331) | Epistemic Humility | 5 |
+| 6 (IS 390) | Systems Thinking | 6 |
+| 7 (IS 425) | Accountable Leadership | 7 |
+| 8 (IS 482) | Translation | **All 8 — the "Human Edge" graduate** |
 
 ---
 
@@ -79,9 +79,9 @@ Each Human Edge is introduced in its home studio and reinforced in every subsequ
 | Course | Evidence |
 |---|---|
 | IS 117 | Deployed static website with portfolio |
-| IS 118 | Interactive web app with API integration |
-| IS 218 | Full-stack deployed app with CI/CD + automated tests |
-| IS 219 | Containerized service with observability + runbook |
+| IS 118 | Full-stack deployed app with CI/CD + automated tests |
+| IS 218 | Containerized service with observability + runbook |
+| IS 482 | Community AI training curriculum with delivery artifacts |
 | IS 331 | Data pipeline with validation + hybrid retrieval system |
 | IS 390 | Architecture document with evaluation plan |
 | IS 425 | Production AI system with KG + HITL + evaluation harness |
@@ -90,7 +90,8 @@ Each Human Edge is introduced in its home studio and reinforced in every subsequ
 
 | Course | Evidence |
 |---|---|
-| IS 118 | Translation briefs — making invisible concepts visible for specific audiences |
+| IS 118 | Code review documentation — professional justification of technical decisions |
+| IS 482 | Translation briefs — making technical AI concepts accessible for community audiences |
 | IS 265 | Persuasion exercises — presenting to skeptical stakeholders |
 | IS 425 | Demo Day presentation to industry judges (rubric-scored) |
 | All studios | README + documentation + "how to run" artifacts |
@@ -99,7 +100,7 @@ Each Human Edge is introduced in its home studio and reinforced in every subsequ
 
 | Course | Evidence |
 |---|---|
-| IS 218 | AI Audit Logs — documenting acceptance/rejection/modification of AI output with reasoning |
+| IS 118 | AI Audit Logs — documenting acceptance/rejection/modification of AI output with reasoning |
 | IS 331 | Data assumptions documents — acknowledging what representations distort |
 | IS 350 | Ethics case studies, responsible AI analysis (dedicated course) |
 | IS 425 | Leadership reflection + postmortem — "what I'm accountable for" |
@@ -110,7 +111,7 @@ Each Human Edge is introduced in its home studio and reinforced in every subsequ
 |---|---|
 | All studios | Cohort model, 20–25 students, collaborative projects |
 | IS 265 | Stakeholder analysis exercises (cross-functional simulation) |
-| IS 425 | Team capstone with peer evaluation + commit evidence |
+| IS 425 | Team project with peer evaluation + commit evidence |
 
 ---
 

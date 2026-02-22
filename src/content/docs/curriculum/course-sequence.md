@@ -18,13 +18,13 @@ One studio per semester, 8 semesters, cohort cap 20–25. Each course produces p
 | Semester | Course | Title | Human Edge |
 |----------|--------|-------|------------|
 | Fall 1 | IS 117 | Web Development & Inquiry | Disciplined Inquiry |
-| Spring 1 | IS 118 | Interactive Web Development | Translation |
-| Fall 2 | IS 218 | Web Application Engineering | Professional Judgment |
-| Spring 2 | IS 265 | Problem Analysis in Information Systems | Problem Finding |
-| Fall 3 | IS 219 | Web Systems & Infrastructure | Resilience Thinking |
-| Spring 3 | IS 331 | Data & Knowledge Systems | Epistemic Humility |
-| Fall 4 | IS 390 | Systems Analysis & Design | Systems Thinking |
-| Spring 4 | IS 425 | Applied Enterprise AI | Accountable Leadership |
+| Spring 1 | IS 118 | Full-Stack Web Applications | Professional Judgment |
+| Fall 2 | IS 218 | Infrastructure & Resilience | Resilience Thinking |
+| Spring 2 | IS 265 | Enterprise AI Midpoint Capstone | Problem Finding |
+| Fall 3 | IS 331 | Data & Knowledge Systems | Epistemic Humility |
+| Spring 3 | IS 390 | Systems Analysis & Design | Systems Thinking |
+| Fall 4 | IS 425 | Applied Enterprise AI | Accountable Leadership |
+| Spring 4 | IS 482 | Community AI Training | Translation |
 
 ---
 
@@ -79,7 +79,7 @@ Standard NJIT gen-ed requirements. Recommended choices that reinforce the Human 
 | Area | Recommended courses | Reinforces |
 |------|-------------------|------------|
 | Humanities | Philosophy, Ethics, Critical Thinking | Moral Reasoning (IS 390) |
-| Social Science | Psychology, Cognitive Science | Inquiry (IS 117), Translation (IS 118), UX (IS 247) |
+| Social Science | Psychology, Cognitive Science | Inquiry (IS 117), Professional Judgment (IS 118), UX (IS 247) |
 | Communication | Technical Writing, Public Speaking | Translation, Persuasion (IS 265) |
 | History/Politics | History of Technology, Political Science | Context, Critical Thinking, Governance (IS 350) |
 
@@ -107,21 +107,21 @@ Standard NJIT gen-ed requirements. Recommended choices that reinforce the Human 
 | **Gen-Ed** | ENGL 102: Writing II | GEN-ED: Humanities/Elective |
 | **Gen-Ed** | GEN-ED: Social Science | — |
 
-### Year 3: Infrastructure & Intelligence
+### Year 3: Knowledge & Analysis
 
 | | Fall | Spring |
 |---|---|---|
-| **Studio** | IS 219: Web Systems & Infrastructure | IS 331: Data & Knowledge Systems |
+| **Studio** | IS 331: Data & Knowledge Systems | IS 390: Systems Analysis & Design |
 | **Applied** | IS 392: AI-Driven Text Analytics | IS 465: Data Analytics (ML for Enterprise AI) |
 | **Enterprise** | — | IS 385: Special Topics (Service Learning Clinic) |
 | **Gen-Ed** | GEN-ED: Elective | GEN-ED: Elective |
 | **Gen-Ed** | GEN-ED: Elective | — |
 
-### Year 4: Analysis & Leadership
+### Year 4: Leadership & Service
 
 | | Fall | Spring |
 |---|---|---|
-| **Studio** | IS 390: Systems Analysis & Design | IS 425: Applied Enterprise AI |
+| **Studio** | IS 425: Applied Enterprise AI | IS 482: Community AI Training |
 | **Applied** | IS 480: Data-Centric AI (AI Quality & Reliability Eng) | IS 485: Special Topics (Advanced Enterprise AI) |
 | **Enterprise** | IS 491: Senior Project – IS (Industry Practicum) (or summer) | — |
 | **Gen-Ed** | GEN-ED: Elective | GEN-ED: Elective |
@@ -135,7 +135,7 @@ CS 100 ──────────────────────┐
                              ↓
 IS 117 → IS 118 → IS 218 → IS 265
                                   ↓
-                   IS 219 → IS 331 → IS 390 → IS 425
+                   IS 331 → IS 390 → IS 425 → IS 482
 ```
 
 Each studio requires the prior one. No skipping. The accumulation model only works if every student goes through the full progression. CS 100 (Introduction to Computer Science) feeds into IS 218 as a co-prerequisite, providing the Python programming foundation that web application engineering requires.

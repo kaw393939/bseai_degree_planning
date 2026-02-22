@@ -105,13 +105,13 @@ The principle is permanent: **enough manual work to build informed judgment, the
 | Course | 40% Hard-Way Focus | 60% Agentic Focus |
 |---|---|---|
 | IS 117 | HTML/CSS from scratch, terminal commands, Git operations, manual deployment | AI-assisted site building, content generation, layout iteration |
-| IS 118 | JavaScript fundamentals, DOM manipulation, manual debugging | AI-directed app development, API integration, interactive features |
-| IS 218 | Write tests manually, CI pipeline setup, manual code review | Full-stack app built with AI agents, evaluated against human-written tests |
-| IS 265 | Stakeholder interviews, manual process mapping, hand-drawn wireframes | AI-assisted workflow prototyping, survey analysis, documentation |
-| IS 219 | Linux CLI operations, manual container setup, firewall rules | AI-directed infrastructure automation, observability setup, deployment |
+| IS 118 | Write tests manually, CI pipeline setup, manual code review | Full-stack app built with AI agents, evaluated against human-written tests |
+| IS 218 | Linux CLI operations, manual container setup, firewall rules | AI-directed infrastructure automation, observability setup, deployment |
+| IS 265 | Stakeholder interviews, manual process mapping, enterprise analysis | AI-assisted prototyping, governance documentation, proposal drafting |
 | IS 331 | Write SQL by hand, manual schema design, data quality checks | AI-directed pipeline building, hybrid retrieval systems, graph construction |
 | IS 390 | Hand-drawn architecture diagrams, manual requirements negotiation | AI-assisted design documentation, tradeoff analysis, evaluation planning |
 | IS 425 | Manual knowledge graph design, HITL workflow architecture | AI-directed system integration, evaluation harness, production deployment |
+| IS 482 | Manual curriculum design, audience research, hands-on exercise creation | AI-assisted material generation, logistics planning, impact analysis |
 
 ---
 

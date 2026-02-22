@@ -36,5 +36,5 @@ This page is a **paraphrased** snapshot of current NJIT catalog descriptions for
   - Link: https://catalog.njit.edu/undergraduate/computing-sciences/informatics/
 
 - IS 425 — Applied Enterprise AI
-  - Focus: enterprise AI systems; ingestion + ETL; vector DBs; HITL workflows; cost/quality optimization. *(Note: description reflects proposed studio content. Current catalog description may differ — see [NJIT Catalog](https://catalog.njit.edu/) for the official version.)*
+  - Focus: enterprise AI systems; ingestion + ETL; vector DBs; HITL workflows; cost/quality optimization. *(Note: description reflects studio content. Current catalog description may differ — see [NJIT Catalog](https://catalog.njit.edu/) for the official version.)*
   - Link: https://catalog.njit.edu/undergraduate/computing-sciences/information-systems/

@@ -22,7 +22,7 @@ This plan outlines the phased rollout of the BS in Enterprise AI, from curriculu
 
 - Studio rubric framework used across all 8 spine courses (quality, evaluation, reliability, responsible AI, documentation)
 - Shared repo templates: service skeleton, eval harness skeleton, runbook template
-- IS 118 new-course proposal submitted (the only course requiring a new catalog number)
+- IS 118 and IS 482 new-course proposals submitted (the only courses requiring new catalog numbers)
 - MSCHE substantive-change notification filed
 
 ## Phase 1 — First Cohort Launch (Fall 2026 – Spring 2027)
@@ -30,7 +30,7 @@ This plan outlines the phased rollout of the BS in Enterprise AI, from curriculu
 | Semester | Studio Course | Capability Focus |
 |----------|--------------|------------------|
 | Fall 2026 | **IS 117** — Web Development & Inquiry | Disciplined Inquiry |
-| Spring 2027 | **IS 118** — Interactive Web Development | Translation |
+| Spring 2027 | **IS 118** — Full-Stack Web Applications | Professional Judgment |
 
 **Standardizations across all studios (implemented before Fall 2026)**
 
@@ -44,17 +44,17 @@ This plan outlines the phased rollout of the BS in Enterprise AI, from curriculu
 
 | Semester | Studio Course | Capability Focus |
 |----------|--------------|------------------|
-| Fall 2027 | **IS 218** — Web Application Engineering | Professional Judgment |
-| Spring 2028 | **IS 265** — Problem Analysis in IS | Problem Finding |
+| Fall 2027 | **IS 218** — Infrastructure & Resilience | Resilience Thinking |
+| Spring 2028 | **IS 265** — Enterprise AI Midpoint Capstone | Problem Finding |
 
-Technical coverage expands: containerized deployment, API design, data pipelines, SQL, and introductory ML evaluation. Demo Day begins in IS 118 and continues every semester from this point forward.
+Technical coverage expands: Linux, containers, CI/CD, observability, incident response, enterprise stakeholder analysis, and governance. Demo Day begins in IS 118 and continues every semester from this point forward.
 
-## Phase 3 — Junior Studios + Service Learning (Fall 2028 – Spring 2029)
+## Phase 3 — Junior Studios (Fall 2028 – Spring 2029)
 
 | Semester | Studio Course | Capability Focus |
 |----------|--------------|------------------|
-| Fall 2028 | **IS 219** — Web Systems & Infrastructure | Resilience Thinking |
-| Spring 2029 | **IS 331** — Data & Knowledge Systems | Epistemic Humility |
+| Fall 2028 | **IS 331** — Data & Knowledge Systems | Epistemic Humility |
+| Spring 2029 | **IS 390** — Systems Analysis & Design | Systems Thinking |
 
 **Technical spine coverage at this stage:**
 
@@ -64,16 +64,16 @@ Technical coverage expands: containerized deployment, API design, data pipelines
 - Systems/reliability (deployment, monitoring, rollbacks)
 - IS 331 introduces graph and vector as data structures for real corpora (entities/relationships + retrieval)
 
-**Center for Enterprise AI on-ramp:** A 300-level service learning clinic may be added as the Center’s intake point, scoping partner projects for real delivery with training modules, partner-facing deliverables, and reflection postmortems.
+**Center for Enterprise AI on-ramp:** The Center’s project intake pipeline feeds industry-sourced problems into IS 390 and IS 425, while IS 482 provides the community-facing service learning arm.
 
-## Phase 4 — Senior Studios & Capstone (Fall 2029 – Spring 2030)
+## Phase 4 — Senior Studios & Community Impact (Fall 2029 – Spring 2030)
 
 | Semester | Studio Course | Capability Focus |
 |----------|--------------|------------------|
-| Fall 2029 | **IS 390** — Systems Analysis & Design | Systems Thinking |
-| Spring 2030 | **IS 425** — Applied Enterprise AI | Accountable Leadership |
+| Fall 2029 | **IS 425** — Applied Enterprise AI | Accountable Leadership |
+| Spring 2030 | **IS 482** — Community AI Training | Translation |
 
-IS 425 requires a production-style system combining graph + vector + orchestration + evaluation + HITL workflows. The capstone Demo Day serves as the program’s signature assessment, evaluated by industry judges.
+IS 425 requires a production-style system combining graph + vector + orchestration + evaluation + HITL workflows. IS 482 closes the loop: students take everything they’ve built and teach it to the community. The IS 425 Demo Day serves as the program’s signature technical assessment, evaluated by industry judges.
 
 ## Demo Day Assessment Model
 
@@ -96,7 +96,7 @@ See the [Assessment Plan](/bseai_degree_planning/accreditation/assessment-plan/)
 | **Lab infrastructure** | Linux terminal environment, CI/CD servers, GPU access for IS 392/465/480 | Ready by Fall 2026 | Leverage NJIT HPC + cloud credits (AWS/Azure academic programs) |
 | **Industry partnerships** | 3–5 committed organizations for senior project intake | By Fall 2028 (Phase 3) | NJ AI Hub ($72M+), NYC metro (5,201+ AI openings) provides pipeline |
 | **Assessment infrastructure** | Portfolio platform, Demo Day logistics, rubric calibration | By Spring 2027 (IS 118 launch) | Existing GitHub + deployment platforms; Demo Day adds venue + judge coordination |
-| **MSCHE filing** | Substantive change notification (IS 118 is a new course) | Filed Spring 2026 | Only 1 of 8 spine courses is new; rest are modifications of existing catalog numbers |
+| **MSCHE filing** | Substantive change notification (IS 118 and IS 482 are new courses) | Filed Spring 2026 | 2 of 8 spine courses are new; rest are modifications of existing catalog numbers |
 
 ## Risk Mitigations
 
@@ -105,7 +105,7 @@ See the [Assessment Plan](/bseai_degree_planning/accreditation/assessment-plan/)
 | Low initial enrollment | Medium | High | Market as AI career accelerator, not traditional CS; leverage $110K–$150K starting salary data; target students who self-select for building, not theory |
 | Faculty recruitment | Medium | High | Practitioner-instructors (not PhD researchers); competitive adjunct rates justified by small sections; industry network for guest judges |
 | AI capability outpaces curriculum | High | Medium | 40/60 policy ensures 60% of each course uses current AI tools; syllabi are frameworks, not frozen content; annual curriculum review built into assessment plan |
-| Accreditation delay | Low | High | IS 118 is the only new course; MSCHE substantive change (not new program) has shorter timeline; ABET CAC self-study planned for Year 3 |
+| Accreditation delay | Low | High | IS 118 and IS 482 are the only new courses; MSCHE substantive change (not new program) has shorter timeline; ABET CAC self-study planned for Year 3 |
 | Industry partner churn | Medium | Medium | Diversify across sectors (finance, healthcare, logistics, government); maintain 3–5 active partners; IS 390 can use instructor-sourced projects as fallback |
 | Student underprepration more severe than expected | Medium | Medium | Studio model is already designed for NAEP/ACT reality; IS 117 starts from zero; AI Audit Log scaffolds judgment progressively; cohort structure provides peer support |
 
@@ -113,12 +113,12 @@ See the [Assessment Plan](/bseai_degree_planning/accreditation/assessment-plan/)
 
 | Date | Decision | Depends On | Go/No-Go Criteria |
 |------|----------|-----------|-------------------|
-| **Spring 2026** | File MSCHE substantive change | Curriculum committee approval | IS 118 syllabus finalized, PEOs mapped to outcomes |
+| **Spring 2026** | File MSCHE substantive change | Curriculum committee approval | IS 118 and IS 482 syllabi finalized, PEOs mapped to outcomes |
 | **Summer 2026** | Finalize IS 117 studio format | Rubric framework complete | Pilot rubric tested with sample artifacts |
 | **Fall 2026** | Launch first cohort | MSCHE approval, faculty hired, infrastructure ready | Minimum 15 enrolled students, 1 FTE + 1 adjunct confirmed |
 | **Spring 2027** | Launch IS 118 | IS 117 cohort data collected | IS 117 completion rate >80%, student feedback incorporated |
 | **Fall 2028** | Activate Center for Enterprise AI | Industry partners committed | 3+ signed MOUs, project intake process tested |
-| **Spring 2030** | First capstone cohort graduates | Full spine operational | All 8 studios have run at least once; Demo Day executed with industry judges |
+| **Spring 2030** | First cohort graduates | Full spine operational | All 8 studios have run at least once; Demo Day executed with industry judges |
 
 ## Industry Coalition & Project Intake
 

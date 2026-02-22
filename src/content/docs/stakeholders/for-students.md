@@ -32,15 +32,15 @@ The BS in Enterprise AI teaches you to **build, evaluate, and take accountabilit
 | Studio | Course | What You Build |
 |--------|--------|---------------|
 | 1 | IS 117 — Web Development & Inquiry | Portfolio website + museum exhibit site |
-| 2 | IS 118 — Interactive Web Development | Interactive web app with API integration |
-| 3 | IS 218 — Web Application Engineering | Full-stack web application, tested and deployed |
-| 4 | IS 265 — Problem Analysis in IS | Problem framing package for a real organization |
-| 5 | IS 219 — Web Systems & Infrastructure | Containerized, observable, resilient service |
-| 6 | IS 331 — Data & Knowledge Systems | Hybrid retrieval system (SQL + graph + vector) |
-| 7 | IS 390 — Systems Analysis & Design | Complete systems analysis for an AI system |
-| 8 | IS 425 — Applied Enterprise AI | Production AI system for a real client + Demo Day |
+| 2 | IS 118 — Full-Stack Web Applications | Full-stack web app with CI/CD + automated tests |
+| 3 | IS 218 — Infrastructure & Resilience | Containerized, observable, resilient service |
+| 4 | IS 265 — Enterprise AI Midpoint Capstone | Problem framing package for a real enterprise stakeholder |
+| 5 | IS 331 — Data & Knowledge Systems | Hybrid retrieval system (SQL + graph + vector) |
+| 6 | IS 390 — Systems Analysis & Design | Complete systems analysis for an AI system |
+| 7 | IS 425 — Applied Enterprise AI | Production AI system for a real client + Demo Day |
+| 8 | IS 482 — Community AI Training | Live community training event teaching AI to non-technical audiences |
 
-By graduation you'll have **8 deployed projects**, a professional portfolio, and Demo Day experience presenting to industry judges.
+By graduation you'll have **8 deployed projects**, a professional portfolio, Demo Day experience presenting to industry judges, and proof you can teach what you know to others.
 
 ---
 
@@ -107,16 +107,16 @@ Traditional IS graduates typically start at $65K–$80K (NJIT Class of 2024: CS 
 ## What You'll Experience
 
 ### Year 1 (IS 117 + IS 118)
-You arrive knowing nothing about code. By the end of the year you've built and deployed a portfolio site, a museum website, and an interactive web application with API integration. You've learned Git, HTML/CSS, JavaScript, and how to ask structured questions that get AI to produce useful output.
+You arrive knowing nothing about code. By the end of the year you've built and deployed a portfolio site, a museum website, and a full-stack web application with CI/CD and automated tests. You've learned Git, HTML/CSS, JavaScript, and how to evaluate AI-generated code with professional judgment.
 
 ### Year 2 (IS 218 + IS 265)
-You build a full-stack web application with testing and CI/CD. You learn to evaluate AI-generated code — accepting, rejecting, modifying with documented reasoning. Then you shift to human problems: stakeholder interviews, process mapping, persuasion, and identifying the *real* problem.
+You learn infrastructure: Linux, Docker, observability, incident response. You participate in an incident drill where your professor breaks your system and you have to fix it under pressure. Then you tackle enterprise AI: stakeholder interviews, governance analysis, and identifying the *real* problem behind the stated one.
 
-### Year 3 (IS 219 + IS 331)
-You learn infrastructure: Linux, Docker, observability, incident response. You participate in an incident drill where your professor breaks your system and you have to fix it under pressure. Then you move to data systems: SQL, knowledge graphs, vector embeddings, and hybrid retrieval.
+### Year 3 (IS 331 + IS 390)
+You move to data systems: SQL, knowledge graphs, vector embeddings, and hybrid retrieval. Then you design a complete AI system — requirements analysis, architecture, tradeoffs, and an evaluation plan.
 
-### Year 4 (IS 390 + IS 425)
-You design a complete AI system for IS 390, then build it for a real client in IS 425. Knowledge graphs, human-in-the-loop workflows, evaluation harnesses. **Demo Day**: you present to industry judges and defend every decision. You graduate ready to ship production AI.
+### Year 4 (IS 425 + IS 482)
+You build a production AI system for a real client in IS 425: knowledge graphs, human-in-the-loop workflows, evaluation harnesses. **Demo Day**: you present to industry judges and defend every decision. Then in IS 482 you take everything you've learned and teach it to others — designing and delivering a community AI training event. You graduate ready to ship production AI and translate it for any audience.
 
 ---
 

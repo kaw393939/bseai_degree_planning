@@ -63,7 +63,7 @@ Traditional exams are poor measures of AI-era competence. Emerging best practice
 | AI-use statements | Transparency, critical awareness | AI Audit Log (IS 218), AI Use Notes (all courses) |
 | Oral defenses / studio critiques | Understanding depth, not just output | Demo Day presentations (every studio) |
 | "AI-required" labs | Judgment about AI vs. human approaches | 40/60 split in every course |
-| Live case sprints | Adaptability, real-time judgment | Incident drills (IS 219), client engagement (IS 425) |
+| Live case sprints | Adaptability, real-time judgment | Incident drills (IS 218), client engagement (IS 425) |
 | Team contracts | Human vs. AI contribution clarity | Team artifacts in IS 390, IS 425 |
 
 ### Curriculum Design Principles
@@ -142,7 +142,7 @@ Traditional exams are poor measures of AI-era competence. Emerging best practice
 | Knowledge engineering | — | — | — | — | ✅ (IS 331, 425) |
 | Client delivery | — | — | ✅ | — | ✅ (IS 425) |
 | HITL workflow design | — | — | — | — | ✅ (IS 425) |
-| Infrastructure & resilience | — | — | — | — | ✅ (IS 219) |
+| Infrastructure & resilience | — | — | — | — | ✅ (IS 218) |
 
 ---
 
@@ -158,7 +158,7 @@ No program we've identified explicitly teaches:
 
 ### Resource Efficiency
 
-The program uses **7 existing catalog numbers** and proposes **1 new course** (IS 118). This is not a new department or a new college — it's a strategic reconfiguration of existing IS program resources.
+The program uses **6 existing catalog numbers** and requires **2 new courses** (IS 118, IS 482). This is not a new department or a new college — it's a strategic reconfiguration of existing IS program resources.
 
 ### NJIT's Positioning
 

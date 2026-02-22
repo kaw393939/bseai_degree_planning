@@ -32,11 +32,11 @@ Graduates will **take accountability** for the systems they build, deploy, and m
 
 | PEO | Primary Human Edge Capabilities | Primary Courses |
 |---|---|---|
-| 1. Responsible AI Deployment | Professional Judgment, Epistemic Humility, Systems Thinking | IS 218, IS 331, IS 390, IS 425, IS 350 |
-| 2. Informed Professional Judgment | Professional Judgment, Disciplined Inquiry, Epistemic Humility | IS 117, IS 218, IS 331 |
-| 3. Cross-Functional Leadership | Translation, Problem Finding, Accountable Leadership | IS 118, IS 265, IS 425 |
+| 1. Responsible AI Deployment | Professional Judgment, Epistemic Humility, Systems Thinking | IS 118, IS 331, IS 390, IS 425, IS 350 |
+| 2. Informed Professional Judgment | Professional Judgment, Disciplined Inquiry, Epistemic Humility | IS 117, IS 118, IS 331 |
+| 3. Cross-Functional Leadership | Translation, Problem Finding, Accountable Leadership | IS 482, IS 265, IS 425 |
 | 4. Continuous Adaptation | All eight — the studio model itself builds adaptation | All studios (new domain + new tool + new capability every semester) |
-| 5. Accountable Ownership | Resilience Thinking, Accountable Leadership | IS 219, IS 425 |
+| 5. Accountable Ownership | Resilience Thinking, Accountable Leadership | IS 218, IS 425 |
 
 ---
 

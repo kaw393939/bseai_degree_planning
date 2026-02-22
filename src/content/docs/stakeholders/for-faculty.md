@@ -53,9 +53,9 @@ You don't need to ban AI or pretend it doesn't exist. You also don't let student
 
 | Phase | Time | What Students Do |
 |-------|------|-----------------|
-| Hard-way | 40 min | Write a test by hand → run it → watch it fail → implement the feature manually → watch it pass |
-| Agentic | 60 min | Direct Copilot to build three more features using the same pattern. Audit each suggestion. Log decisions. |
-| Debrief | 15 min | Class discussion: where was AI helpful? Where was it wrong? What would you NOT trust it with? |
+| Hard-way | 40 min | Write a Dockerfile by hand → build the image → run the container → debug a failure → add health checks manually |
+| Agentic | 60 min | Direct Copilot to build the CI/CD pipeline and observability stack using the same patterns. Audit each suggestion. Log decisions. |
+| Debrief | 15 min | Class discussion: where was AI helpful? Where was it wrong? What would you NOT trust it with in production? |
 
 *Note: The 40/60 split is a time-allocation guideline for the semester, not a rigid per-session formula. Contact hours are 3 hrs/week per syllabus. Some sessions will lean more toward hard-way or agentic work depending on the material.*
 
@@ -68,13 +68,13 @@ Each course foregrounds one Human Edge capability. This isn't an add-on — it's
 | Your Course | Your Capability | Your Artifact |
 |------------|----------------|---------------|
 | IS 117 | Disciplined Inquiry | Context Pack v1 + Inquiry Journal |
-| IS 118 | Translation | Translation Brief |
-| IS 218 | Professional Judgment | AI Audit Log |
+| IS 118 | Professional Judgment | AI Audit Log |
+| IS 218 | Resilience Thinking | Failure Mode Analysis + Postmortem |
 | IS 265 | Problem Finding | Assumptions Log + Issue Tree |
-| IS 219 | Resilience Thinking | Failure Mode Analysis + Postmortem |
 | IS 331 | Epistemic Humility | Data Assumptions Document |
 | IS 390 | Systems Thinking | Systems Decomposition |
 | IS 425 | Accountable Leadership | Leadership Reflection |
+| IS 482 | Translation | Translation Brief |
 
 **What this means for you:** You assess both the technical deliverable AND the Human Edge artifact. The artifact shows you whether students have developed the underlying capability, not just produced the output.
 
@@ -85,9 +85,10 @@ Each course foregrounds one Human Edge capability. This isn't an add-on — it's
 Every course uses the Context Pack — a recurring artifact that teaches students to assemble the information AI needs to be effective. It evolves in complexity:
 
 - **IS 117**: Project Brief + basic requirements (simple)
-- **IS 218**: Architecture patterns + testing criteria (intermediate)
+- **IS 118**: Architecture patterns + testing criteria (intermediate)
+- **IS 218**: Infrastructure constraints + failure modes (intermediate-advanced)
 - **IS 331**: Data assumptions + epistemic limits (advanced)
-- **IS 425**: Full production system documentation (capstone)
+- **IS 425**: Full production system documentation (professional)
 
 **Why you should care:** The Context Pack gives you a window into whether students understand the project deeply enough to direct AI effectively. A good Context Pack = a student who can articulate what they're building and why. A bad Context Pack = a student who's copying prompts without understanding.
 

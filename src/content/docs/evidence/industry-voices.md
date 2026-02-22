@@ -101,7 +101,7 @@ A recurring pattern from industry:
 > "I don't need a 10th engineer who can prompt GPT-5. I need a 1st engineer who can tell me whether the system is doing what it should be doing, explain it to our compliance team, and stand up in front of the board when it makes a mistake."
 
 This maps directly to the BS in EAI's Human Edge capabilities:
-- **Professional Judgment** (IS 218) — knowing whether to ship it
+- **Professional Judgment** (IS 118) — knowing whether to ship it
 - **Epistemic Humility** (IS 331) — knowing what the data misses
 - **Accountable Leadership** (IS 425) — standing up when it fails
 
@@ -165,7 +165,7 @@ Nancy Leveson (MIT, systems safety) has long argued that complex system failures
 
 ### Organizational Design
 
-Amy Edmondson (Harvard Business School) established that psychological safety and blameless postmortems are essential for organizational learning. The BS in EAI builds this into the curriculum structure — postmortems in IS 219, IS 425, and the incident drill format.
+Amy Edmondson (Harvard Business School) established that psychological safety and blameless postmortems are essential for organizational learning. The BS in EAI builds this into the curriculum structure — postmortems in IS 218, IS 425, and the incident drill format.
 
 ---
 

@@ -60,9 +60,9 @@ These are Human Edge capabilities, not model parameters.
 |------|-------------|-----------------|----------------------|
 | **Forward-Deployed AI Engineer** | $140K–$220K base | Prototyping, cross-functional delivery, technical writing | IS 265, IS 390, IS 425 |
 | **AI Product Engineer** | $110K–$260K base | LLM features, evaluation, product metrics, iteration | IS 218, IS 331, IS 425 |
-| **AI Deployment Engineer** | $115K–$220K base | Systems thinking, compliance, reliability, incident response | IS 219, IS 390, IS 425 |
+| **AI Deployment Engineer** | $115K–$220K base | Systems thinking, compliance, reliability, incident response | IS 218, IS 390, IS 425 |
 | **LLM Application Engineer** | $110K–$250K+ base | RAG, eval harnesses, production engineering | IS 331, IS 392, IS 425 |
-| **AI Software Engineer** | $133K+ base (BLS median) | Platform tooling, evaluation infrastructure, observability | IS 218, IS 219, IS 425 |
+| **AI Software Engineer** | $133K+ base (BLS median) | Platform tooling, evaluation infrastructure, observability | IS 218, IS 331, IS 425 |
 
 *Salary ranges from [canonical salary data](/bseai_degree_planning/careers/example-job-descriptions/), cross-referenced with BLS, levels.fyi, and 2025–2026 postings.*
 

@@ -41,13 +41,13 @@ Each studio course in the [core spine](/bseai_degree_planning/curriculum/core-st
 | Capability | Course | What it means |
 |---|---|---|
 | **Disciplined Inquiry** | IS 117 — Web Development & Inquiry | Asking structured, productive questions — issue trees, hypothesis-first thinking, the Five Whys |
-| **Translation** | IS 118 — Interactive Web Development | Making complex ideas tangible — turning invisible logic into something humans can see and interact with |
-| **Professional Judgment** | IS 218 — Web Application Engineering | Evaluating work — your own, your team's, your AI's — and knowing when to override the machine |
-| **Problem Finding** | IS 265 — Problem Analysis in Information Systems | Identifying the real problem in organizational noise, not just the stated one |
-| **Resilience Thinking** | IS 219 — Web Systems & Infrastructure | Designing for failure, responding to incidents, owning recovery |
+| **Professional Judgment** | IS 118 — Full-Stack Web Applications | Evaluating work — your own, your team's, your AI's — and knowing when to override the machine |
+| **Resilience Thinking** | IS 218 — Infrastructure & Resilience | Designing for failure, responding to incidents, owning recovery |
+| **Problem Finding** | IS 265 — Enterprise AI Midpoint Capstone | Identifying the real problem in organizational noise, not just the stated one |
 | **Epistemic Humility** | IS 331 — Data & Knowledge Systems | Understanding that data is not truth — it's a model of truth, with assumptions and blind spots |
 | **Systems Thinking** | IS 390 — Systems Analysis & Design | Decomposing complexity, understanding interdependencies, designing for the whole system |
 | **Accountable Leadership** | IS 425 — Applied Enterprise AI | Shipping a KG + HITL system, defending its design, owning its failures, and improving it |
+| **Translation** | IS 482 — Community AI Training | Making complex ideas accessible — teaching AI to people who didn't sign up for a CS degree |
 
 ## What makes this different
 

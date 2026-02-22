@@ -18,13 +18,13 @@ Each Human Edge capability maps to specific skills that employers test for in in
 | Human Edge Capability | Studio Course | Employer-Sought Skills | Evidence in Portfolio |
 |----------------------|--------------|----------------------|---------------------|
 | **Disciplined Inquiry** | IS 117 | Requirements gathering, stakeholder interviews, scope definition, research methodology | Question Log, site research documentation |
-| **Translation** | IS 118 | Technical communication, cross-functional collaboration, translating business needs to technical specs | Interactive prototype with user-facing docs |
-| **Professional Judgment** | IS 218 | Code review, AI output evaluation, accept/reject/modify decisions, quality trade-off analysis | **AI Audit Log** — documented reasoning for every AI decision |
+| **Professional Judgment** | IS 118 | Code review, AI output evaluation, accept/reject/modify decisions, quality trade-off analysis | **AI Audit Log** — documented reasoning for every AI decision |
+| **Resilience Thinking** | IS 218 | Incident response, failure mode analysis, rollback planning, monitoring and alerting | **Failure Mode Analysis + Incident Drill** postmortem |
 | **Problem Finding** | IS 265 | Business process analysis, opportunity identification, stakeholder mapping, workflow optimization | Problem analysis report with stakeholder-validated recommendations |
-| **Resilience Thinking** | IS 219 | Incident response, failure mode analysis, rollback planning, monitoring and alerting | **Failure Mode Analysis + Incident Drill** postmortem |
 | **Epistemic Humility** | IS 331 | Data quality assessment, uncertainty quantification, limitation documentation, bias identification | Data pipeline with validation checks and documented limitations |
 | **Systems Thinking** | IS 390 | Architecture design, trade-off analysis, requirements engineering, evaluation planning | System design document with AI evaluation plan |
 | **Accountable Leadership** | IS 425 | Project ownership, stakeholder presentation, risk communication, production accountability | **Demo Day** — ship, present, defend to industry judges |
+| **Translation** | IS 482 | Technical communication, cross-functional collaboration, curriculum design, audience analysis | Community AI training event with participant feedback |
 
 ### What This Mapping Means
 
@@ -115,10 +115,10 @@ Students should be able to:
 |---|---|---|---|
 | LLM app engineering | IS 331, IS 392, IS 425 | Epistemic Humility, Accountable Leadership | RAG app with eval suite + cost/latency report |
 | Data integration | IS 331, IS 465 | Epistemic Humility | Pipeline with validation + lineage notes |
-| Production readiness | IS 219, IS 390, IS 425 | Resilience Thinking, Systems Thinking | Service with tests + CI + monitoring plan |
-| Product engineering | IS 218, IS 265 | Professional Judgment, Problem Finding | Prototype → iteration log + acceptance tests |
-| Responsible AI | IS 218, IS 350, IS 480 | Professional Judgment, Accountable Leadership | System card (risks, mitigations, limitations) |
-| Cross-functional delivery | IS 265, IS 390, IS 425 | Translation, Problem Finding, Accountable Leadership | Stakeholder presentations + handoff docs |
+| Production readiness | IS 218, IS 390, IS 425 | Resilience Thinking, Systems Thinking | Service with tests + CI + monitoring plan |
+| Product engineering | IS 118, IS 265 | Professional Judgment, Problem Finding | Prototype → iteration log + acceptance tests |
+| Responsible AI | IS 118, IS 350, IS 480 | Professional Judgment, Accountable Leadership | System card (risks, mitigations, limitations) |
+| Cross-functional delivery | IS 265, IS 390, IS 482 | Translation, Problem Finding, Accountable Leadership | Stakeholder presentations + handoff docs |
 
 ---
 

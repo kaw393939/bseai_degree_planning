@@ -1,0 +1,70 @@
+IS 265 - 001: Introduction to Information
+Systems (Enterprise AI Edition)
+
+Course Description
+Introduce how modern organizations design, operate, and evolve enterprise information
+systems, and how AI (especially generative AI) is incorporated responsibly into processes,
+products, and decision-making—at the level of architecture, governance, and implementation
+practices.
+
+Course Objectives
+The course intends to build a wide range of analytical, communication, interpersonal, leadership,
+and technology skills. Students will be able to:
+ Explain IS through an enterprise architecture lens (strategy, process, application, data,
+infrastructure).
+ Map a business process and propose improvements using automation + analytics + AI
+(including GenAI use cases).
+ Describe core enterprise system categories (ERP/CRM/SCM, data platforms, workflow
+systems) and how they integrate.
+ Evaluate an AI-in-enterprise proposal for value, feasibility, risk, and governance.
+ Design a simple “enterprise AI feature” blueprint (e.g., enterprise search/RAG, ticket
+triage, procurement assistant) with requirements, data needs, and controls.
+ Communicate findings using clear stakeholder-facing artifacts: 1-page memo,
+architecture diagram, risk register, KPI plan.
+
+Weekly schedule (14 weeks, 3 credits)
+Week 1 — What is an information system now?
+IS in organizations; systems vs. workflows; digital + AI transformation overview.
+Week 2 — Enterprise architecture basics
+Strategy → business processes → apps → data/infrastructure (layered view).
+Week 3 — Business processes + value
+Process mapping (BPMN-lite), KPIs, bottlenecks, “where AI fits / doesn’t fit.”
+Week 4 — Data foundations for IS
+Master data, transactional vs. analytical systems, data quality, lifecycle.
+Week 5 — Enterprise systems landscape
+ERP/CRM/SCM, integration patterns, APIs, eventing (conceptual, not vendor-specific).
+Week 6 — Cloud &amp; platform thinking for enterprise IS
+Shared responsibility, scalability, reliability, cost basics (FinOps-lite).
+Week 7 — Cybersecurity, privacy, compliance
+Threat basics, least privilege, data classification, auditability—why enterprises care.
+Week 8 — GenAI in enterprise: capabilities &amp; limits
+Prompting as interface, summarization/classification, copilots, and failure modes.
+Week 9 — Enterprise GenAI patterns
+RAG/enterprise search, knowledge bases, tool-using agents (conceptual), human-in-the-loop
+controls.
+Week 10 — AI governance in the enterprise
+Governance of data/models/systems; approvals, monitoring, accountability.
+Week 11 — Build vs. buy; vendor and platform selection
+Evaluation criteria, integration constraints, total cost, lock-in, procurement realities.
+Week 12 — Change management + adoption
+Operating model, training, rollout strategy, measurement, stakeholder management.
+Week 13 — Responsible AI &amp; ethics in real deployments
+Bias, transparency, safety, privacy; “responsible use” policies and controls.
+Week 14 — Capstone presentations
+Teams present an “Enterprise AI System Proposal” with architecture + governance + KPI plan.
+
+Assignments &amp; grading (industry-aligned)
+Weekly labs / applied exercises (20%): process map, data-flow diagram, prompt test plan, risk
+checklist, KPI design
+Case memos (20%): 2 short memos critiquing real enterprise AI/IS scenarios (HBS-style)
+Midterm (20%): concepts + architecture + governance
+Team capstone (40%): “Enterprise AI implementation proposal”
+ Requirements + stakeholder map
+ Architecture diagram (systems + data + AI component)
+ Governance &amp; risk register (privacy/security/model risk)
+ Rollout + change plan
+ KPI/ROI measurement plan
+Tooling (kept lightweight for an intro course)
+ Diagramming (Lucidchart / draw.io)
+ Spreadsheet-based analysis for KPIs
+ A controlled GenAI sandbox for assignments

@@ -1,49 +1,33 @@
 ---
-title: "The Human Edge Framework"
-description: "Eight irreplaceable human capabilities that AI cannot automate — the real outcomes of the BS in Enterprise AI."
+title: "The Human Edge"
+description: "The eight irreplaceable human capabilities that define the BS in Enterprise AI — why they matter, what they look like, and why AI can't replicate them."
 ---
 
-# The Human Edge Framework
+# The Human Edge: Eight Capabilities AI Cannot Replicate
 
-Traditional program outcomes read like a checklist of technical skills: "students will be able to build X, deploy Y, evaluate Z." Those skills matter — they're the substrate. But in a world where AI can generate code, analyze data, write documentation, and draft architecture, the *differentiating* outcomes are human.
+The BS in Enterprise AI is built on a thesis: **the most valuable skills in the AI era are the ones AI cannot perform.** We call these the Human Edge capabilities. There are eight. Each is taught in a specific studio course, assessed through a dedicated artifact, and reinforced in every subsequent course.
 
-This framework defines eight human capabilities that the BS in Enterprise AI explicitly develops, assesses, and accumulates across the [eight studio courses](/bseai_degree_planning/curriculum/core-studio-spine/).
+These are not "soft skills." They are the hardest skills — the ones that determine whether an AI system helps or harms, ships or stalls, solves the right problem or the wrong one.
 
 ---
 
 ## 1. Disciplined Inquiry *(IS 117)*
 
-**The ability to ask structured, productive questions — not just "any questions?" but questions that change outcomes.**
+**The ability to ask questions that matter — to decompose ambiguity into structured investigation.**
 
 What this looks like in practice:
-- Using issue trees and hypothesis-first thinking to decompose ambiguous problems
-- Applying the Five Whys to find root causes, not just symptoms
-- Asking "What would have to be true?" before jumping to solutions (McKinsey-style)
-- Crafting questions for AI tools that produce useful answers — and knowing when the question itself is wrong
+- Using issue trees and the Five Whys to move from "I don't know" to "here's what I need to find out"
+- Developing hypothesis-first thinking: what do I believe, and how would I test it?
+- Building a habit of questioning assumptions before writing code
+- Documenting the evolution of understanding over time
 
-Assessment evidence: Structured inquiry logs, question evolution documents, assumption-testing records
+Assessment evidence: Inquiry logs showing question quality, assumption tracking, investigation paths
 
-Why AI can't do this: AI answers questions. It does not know which questions matter. The ability to look at a messy situation and identify what to investigate is the highest-leverage skill in any organization.
+Why AI can't do this: AI answers questions. It cannot tell you whether you're asking the right one. The most expensive failures in AI projects start with the wrong question.
 
 ---
 
-## 2. Translation *(IS 118)*
-
-**The ability to make complex, invisible things tangible — turning data, logic, and system behavior into something humans can see, interact with, and understand.**
-
-What this looks like in practice:
-- Designing interfaces that reveal the structure of information
-- Explaining technical decisions to non-technical audiences
-- Building interactive artifacts that make abstract concepts concrete
-- Choosing the right representation (visual, narrative, interactive) for the audience
-
-Assessment evidence: Translation briefs, interactive prototypes, explanation artifacts
-
-Why AI can't do this: AI can generate visualizations and text, but it cannot judge whether a human *actually understands.* Translation requires empathy — understanding what the audience doesn't know and meeting them there.
-
----
-
-## 3. Professional Judgment *(IS 218)*
+## 2. Professional Judgment *(IS 118)*
 
 **The ability to evaluate work — your own, your team's, your AI's — and know when to accept, reject, or modify.**
 
@@ -53,9 +37,25 @@ What this looks like in practice:
 - Knowing when "good enough" is right and when it's dangerous
 - Debugging not just code but *reasoning* — why did this approach fail?
 
-Assessment evidence: AI audit logs, code review artifacts, tradeoff analysis documents
+Assessment evidence: AI Audit Logs, code review artifacts, tradeoff analysis documents
 
 Why AI can't do this: AI generates output with uniform confidence. It does not know when it's wrong. Professional judgment — the gut sense that "this doesn't look right" backed by the skill to investigate — is what separates competent engineers from prompt-typers.
+
+---
+
+## 3. Resilience Thinking *(IS 218)*
+
+**The ability to design for failure, respond when things break, and own recovery.**
+
+What this looks like in practice:
+- Designing systems with failure modes explicitly identified and mitigated
+- Building monitoring and alerting that surfaces real problems, not noise
+- Running incident drills and writing honest postmortems
+- Making recovery plans *before* the incident, not after
+
+Assessment evidence: Failure mode analyses, runbooks, incident drill documentation, postmortems
+
+Why AI can't do this: AI can monitor metrics and flag anomalies. It cannot make the judgment call at 2 AM about whether to roll back, patch forward, or wake up the client. Resilience requires ownership — someone who says "this is my system and I will fix it."
 
 ---
 
@@ -75,23 +75,7 @@ Why AI can't do this: AI can analyze data about organizations. It cannot sit in 
 
 ---
 
-## 5. Resilience Thinking *(IS 219)*
-
-**The ability to design for failure, respond when things break, and own recovery.**
-
-What this looks like in practice:
-- Designing systems with failure modes explicitly identified and mitigated
-- Building monitoring and alerting that surfaces real problems, not noise
-- Running incident drills and writing honest postmortems
-- Making recovery plans *before* the incident, not after
-
-Assessment evidence: Failure mode analyses, runbooks, incident drill documentation, postmortems
-
-Why AI can't do this: AI can monitor metrics and flag anomalies. It cannot make the judgment call at 2 AM about whether to roll back, patch forward, or wake up the client. Resilience requires ownership — someone who says "this is my system and I will fix it."
-
----
-
-## 6. Epistemic Humility *(IS 331)*
+## 5. Epistemic Humility *(IS 331)*
 
 **The understanding that data is not truth — it's a model of truth, with assumptions, biases, and blind spots.**
 
@@ -107,7 +91,7 @@ Why AI can't do this: AI treats its training data as ground truth. It has no mec
 
 ---
 
-## 7. Systems Thinking *(IS 390)*
+## 6. Systems Thinking *(IS 390)*
 
 **The ability to decompose complex systems, understand interdependencies, and design for the whole — not just the parts.**
 
@@ -126,13 +110,13 @@ Why AI can't do this: AI can analyze individual components. It cannot reason abo
 
 ---
 
-## 8. Accountable Leadership *(IS 425)*
+## 7. Accountable Leadership *(IS 425)*
 
 **The ability to ship an AI system, present it to stakeholders, defend its design, own its failures, and plan its improvement.**
 
 What this looks like in practice:
 - Leading a team through the full lifecycle of a knowledge-graph-backed AI system with human-in-the-loop workflows
-- Building the integration of every skill from the program: inquiry, translation, judgment, problem finding, resilience, data knowledge, and systems thinking
+- Building the integration of every skill from the program: inquiry, judgment, resilience, problem finding, data knowledge, and systems thinking
 - Presenting to industry judges with evidence — not slides, but a live system with evaluation data
 - Writing postmortems that name what went wrong without blaming
 - Taking personal responsibility for a system that real people will use
@@ -140,6 +124,23 @@ What this looks like in practice:
 Assessment evidence: Demo Day presentations, production AI systems with KG + HITL + eval suite, leadership reflections, postmortems, improvement plans
 
 Why AI can't do this: AI cannot be held accountable. When a system fails, someone must face the client, explain what happened, take responsibility, and commit to a fix. This is the ultimate human capability — the willingness to stand behind your work.
+
+---
+
+## 8. Translation *(IS 482)*
+
+**The ability to make complex, invisible things tangible — turning data, logic, and system behavior into something humans can see, interact with, and understand.**
+
+What this looks like in practice:
+- Designing curriculum that teaches AI concepts to non-technical audiences
+- Explaining technical decisions to community members, executives, and non-engineers
+- Building materials that make abstract concepts concrete and actionable
+- Choosing the right representation (visual, narrative, interactive, hands-on) for the audience
+- Measuring whether your audience actually learned, not just whether you presented
+
+Assessment evidence: Community AI training curriculum, delivery artifacts, participant feedback, impact assessments
+
+Why AI can't do this: AI can generate text and visualizations, but it cannot judge whether a human *actually understands.* Translation requires empathy — understanding what the audience doesn't know and meeting them there. Teaching is the ultimate proof of mastery.
 
 ---
 

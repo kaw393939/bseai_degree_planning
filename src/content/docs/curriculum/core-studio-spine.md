@@ -1,23 +1,23 @@
 ---
-title: "The Eight Studios"
-description: "Eight studio courses pairing a technical domain with an irreplaceable human capability."
+title: "The Studio Spine"
+description: "Detailed walkthrough of all eight studio courses that form the backbone of the BS in Enterprise AI."
 ---
 
-# The Eight Studios
+# The Studio Spine: Eight Courses, Eight Capabilities
 
-Every studio has two co-equal pillars: a **technical domain** and a **Human Edge** capability. Both are graded. Both produce portfolio-grade artifacts. Neither is optional.
-
-**Operating constraints:** Cohort cap 20–25 · Portfolio artifact every semester · Terminal + Git + deploy every semester · Demo Day starting Semester 2 (IS 118 onward; IS 117 ends with a final presentation)
+The studio spine is the backbone of the BS in Enterprise AI — eight sequential courses, each teaching one **Human Edge** capability alongside progressively sophisticated technical skills. Every course produces a shipped artifact. By graduation, students have built eight projects, developed eight irreplaceable human capabilities, and accumulated a professional portfolio.
 
 ---
 
-## Year 1: Craft
+## Year 1: Foundations
 
 ### IS 117 — Web Development & Inquiry
 
-**Human Edge: Disciplined Inquiry** — asking structured, productive questions.
+**Human Edge: Disciplined Inquiry** — learning to ask questions that matter.
 
-**Technical domain:** Terminal, filesystem, VS Code, Git/GitHub, HTML/CSS, static site deployment, information architecture.
+**Technical domain:** HTML/CSS fundamentals, static site generators, terminal fluency, Git version control, deployment to production, portfolio construction.
+
+The most important technical skill is not coding — it's knowing what to build and why. IS 117 teaches digital literacy from zero while developing the questioning discipline that underlies every subsequent course.
 
 Before you can build anything worth building, you must learn to ask what's worth building. Warren Berger's *A More Beautiful Question*, issue trees, hypothesis-first thinking, the Five Whys — while building digital literacy from zero.
 
@@ -30,74 +30,57 @@ Before you can build anything worth building, you must learn to ask what's worth
 
 ---
 
-### IS 118 — Interactive Web Development *(proposed)*
-
-**Human Edge: Translation** — making the invisible visible.
-
-**Technical domain:** JavaScript fundamentals, DOM manipulation, API integration, debugging, data handling (JSON, forms, validation), security hygiene basics.
-
-The gap between a page and an application is the gap between displaying information and enabling thinking. Every great AI product is an act of translation — taking data, logic, or a model's reasoning and making it something humans can interact with.
-
-**Deliverables:**
-- Interactive web app with form + API call + client-side state
-- Testing starter (automated checks or structured manual test checklist)
-- Documentation: README + "how to run" + "what I verified"
-- **Human Edge artifact:** Translation brief — what invisible thing the app makes visible, and how
-
----
-
-## Year 2: Construction
-
-### IS 218 — Web Application Engineering
+### IS 118 — Full-Stack Web Applications
 
 **Human Edge: Professional Judgment** — evaluating work and knowing when to override the machine.
 
-**Technical domain:** Full-stack development (front-end + API + persistence), testing, CI/CD, deployment, monitoring, AI-assisted development workflow.
+**Technical domain:** Full-stack development (front-end + API + persistence), automated testing (unit + integration), CI/CD pipelines, deployment, monitoring, AI-assisted development workflow.
 
-Copilot can generate 50 lines of code. Is it correct? Secure? Maintainable? The skill gap is *knowing whether it's right.* Judgment comes from building, breaking, debugging, testing, and deploying — then critically evaluating AI-generated contributions.
+Copilot can generate 50 lines of code. Is it correct? Secure? Maintainable? The skill gap is *knowing whether it's right.* Judgment comes from building, breaking, debugging, testing, and deploying — then critically evaluating AI-generated contributions. This is the course where AI Audit Logs begin.
 
 **Deliverables:**
 - Full-stack deployed app with automated tests and CI pipeline
 - Deployment with logging and basic monitoring
-- **Human Edge artifact:** AI audit log — what the student accepted, rejected, and modified from AI, with reasoning
-
-
----
-
-### IS 265 — Problem Analysis in Information Systems
-
-**Human Edge: Problem Finding** — identifying the real problem in complex human systems.
-
-**Technical domain:** Business process modeling, stakeholder analysis, workflow prototyping, requirements elicitation, communication and persuasion frameworks.
-
-Organizations don't hand you clean problem statements. They hand you symptoms, complaints, contradictions, and politics. The most expensive mistake in AI is solving the wrong problem perfectly. Placed *after* IS 218: you need to have shipped software before you can reason about what's worth building.
-
-**Deliverables:**
-- Problem framing memo (stakeholders, constraints, success metrics)
-- Workflow prototype (wireframe + minimal implementation)
-- Persuasion exercise: presenting to skeptical stakeholders
-- **Human Edge artifact:** Assumptions log + issue tree — what was assumed, investigated, and changed
+- **Human Edge artifact:** AI Audit Log — what the student accepted, rejected, and modified from AI, with reasoning
 
 ---
 
-## Year 3: Infrastructure & Knowledge
+## Year 2: Construction & Context
 
-### IS 219 — Web Systems & Infrastructure
+### IS 218 — Infrastructure & Resilience
 
 **Human Edge: Resilience Thinking** — designing for failure and owning recovery.
 
 **Technical domain:** Linux operations (processes, permissions, networking), containers, orchestration, secrets management, auth, observability (logs/metrics/traces).
 
-Systems break. Pipelines fail. Models drift. The engineer who can diagnose, recover, and prevent recurrence is worth ten who only build happy paths. After IS 265, students understand *why* systems must be resilient; here they learn *how*.
+Systems break. Pipelines fail. Models drift. The engineer who can diagnose, recover, and prevent recurrence is worth ten who only build happy paths. After IS 118, students can build full-stack apps; here they learn what happens beneath the application layer and how to keep things running when they break.
 
 **Deliverables:**
 - Deployed API/service with containers
 - Observability checklist + runbook
 - Incident drill + postmortem
-- **Human Edge artifact:** Failure mode analysis — "how my system breaks, how I'd know, what I'd do"
+- **Human Edge artifact:** Failure Mode Analysis — "how my system breaks, how I'd know, what I'd do"
 
 
 ---
+
+### IS 265 — Enterprise AI Midpoint Capstone
+
+**Human Edge: Problem Finding** — identifying the real problem in complex human systems.
+
+**Technical domain:** Business process modeling, stakeholder analysis, enterprise governance, workflow prototyping, requirements elicitation, communication and persuasion frameworks.
+
+Organizations don't hand you clean problem statements. They hand you symptoms, complaints, contradictions, and politics. The most expensive mistake in AI is solving the wrong problem perfectly. Placed after IS 218: you need to have shipped resilient software before you can reason about what enterprise problems are worth solving.
+
+**Deliverables:**
+- Problem framing memo (stakeholders, constraints, success metrics)
+- Workflow prototype (wireframe + minimal implementation)
+- Persuasion exercise: presenting to skeptical enterprise stakeholders
+- **Human Edge artifact:** Assumptions log + issue tree — what was assumed, investigated, and changed
+
+---
+
+## Year 3: Knowledge & Analysis
 
 ### IS 331 — Data & Knowledge Systems
 
@@ -114,8 +97,6 @@ Every AI system is only as good as its data, and every dataset is an imperfect r
 - **Human Edge artifact:** Data assumptions document — "what this captures, what it distorts, what's missing"
 
 ---
-
-## Year 4: Analysis & Integration
 
 ### IS 390 — Systems Analysis & Design
 
@@ -134,8 +115,9 @@ Ethics and governance are handled by IS 350 (Computers, Society & Ethics). IS 39
 - Prototype demonstrating key architectural decisions
 - **Human Edge artifact:** Systems decomposition — mapping how components interact, where complexity hides, what emerges from the whole that isn't visible in the parts
 
-
 ---
+
+## Year 4: Leadership & Service
 
 ### IS 425 — Applied Enterprise AI
 
@@ -143,7 +125,7 @@ Ethics and governance are handled by IS 350 (Computers, Society & Ethics). IS 39
 
 **Technical domain:** Knowledge graphs, human-in-the-loop workflows, vector + graph retrieval, agent/tool orchestration, evaluation harnesses, regression gates, observability, client engagement — the integration of everything.
 
-This is the capstone. A real client. A real problem. A production-grade AI system where **knowledge graphs** structure domain understanding, **HITL workflows** keep humans in control of critical decisions, and the full stack of skills from every prior course comes together. Students build, evaluate, deploy, present at Demo Day, and write an honest postmortem. This is where Neural Fabric concepts — local LLM + graph + vector + observability for mission-critical AI — come to life in student hands.
+A real client. A real problem. A production-grade AI system where **knowledge graphs** structure domain understanding, **HITL workflows** keep humans in control of critical decisions, and the full stack of skills from every prior course comes together. Students build, evaluate, deploy, present at Demo Day, and write an honest postmortem.
 
 **System scope (non-negotiable):**
 - Knowledge graph: entities, relationships, and reasoning over domain structure
@@ -160,15 +142,31 @@ This is the capstone. A real client. A real problem. A production-grade AI syste
 
 ---
 
+### IS 482 — Community AI Training
+
+**Human Edge: Translation** — making the invisible visible for audiences who need it most.
+
+**Technical domain:** Curriculum design for non-technical audiences, AI literacy pedagogy, event planning and facilitation, audience analysis, accessibility, impact measurement.
+
+The ultimate test of mastery is teaching. Students take everything they've learned across seven studios and translate it into a live community AI training event. They design curriculum, build materials, facilitate sessions, and measure impact. If you can teach it to someone who's never used AI, you truly understand it.
+
+**Deliverables:**
+- Community AI training curriculum and materials
+- Live training event delivered to a real community audience
+- Participant feedback analysis and impact assessment
+- **Human Edge artifact:** Translation brief — making complex AI concepts accessible and actionable for non-technical people
+
+---
+
 ## The Accumulation
 
 | Sem | New capability | Running total |
 |-----|---------------|--------------|
 | 1 | Disciplined Inquiry | Inquiry |
-| 2 | Translation | + Translation |
-| 3 | Professional Judgment | + Judgment |
+| 2 | Professional Judgment | + Judgment |
+| 3 | Resilience Thinking | + Resilience |
 | 4 | Problem Finding | + Problem Finding |
-| 5 | Resilience Thinking | + Resilience |
-| 6 | Epistemic Humility | + Epistemic Humility |
-| 7 | Systems Thinking | + Systems Thinking |
-| 8 | Accountable Leadership | **All eight — the "CEO of agents"** |
+| 5 | Epistemic Humility | + Epistemic Humility |
+| 6 | Systems Thinking | + Systems Thinking |
+| 7 | Accountable Leadership | + Leadership |
+| 8 | Translation | **All eight — the "Human Edge" graduate** |

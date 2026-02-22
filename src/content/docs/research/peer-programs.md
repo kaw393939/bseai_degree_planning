@@ -17,8 +17,8 @@ Five institutions offer undergraduate AI or AI-adjacent degrees. None teach what
 | **Studio/cohort model** | No | No | No | No | No | **Yes — 8 studios, 20–25 cap** |
 | **Named human capabilities** | No | No | No | No | No | **Yes — 8 Human Edge capabilities** |
 | **Portfolio of shipped projects** | Senior project only | Senior project only | Capstone only | Capstone only | Capstone only | **8 projects (one per semester)** |
-| **AI Audit Log** | No | No | No | No | No | **Yes (IS 218+)** |
-| **Incident drills** | No | No | No | No | No | **Yes (IS 219)** |
+| **AI Audit Log** | No | No | No | No | No | **Yes (IS 118+)** |
+| **Incident drills** | No | No | No | No | No | **Yes (IS 218)** |
 | **Demo Day** | No | No | No | No | No | **Yes — Semester 2 (IS 118 onward), industry judges IS 425** |
 | **Enterprise deployment focus** | No | No | No | Partial | Partial | **Yes — production systems, HITL, evals** |
 | **Knowledge graphs + RAG** | Research elective | Research elective | No | Elective | No | **Required (IS 331, IS 425)** |

@@ -28,25 +28,7 @@ By the end of this course, students will be able to:
 
 ---
 
-## IS 118 — Interactive Web Development *(proposed)*
-
-**Human Edge: Translation** · **40/60 Split: Manual JavaScript / AI-directed app building**
-
-By the end of this course, students will be able to:
-
-1. **Write** JavaScript programs that manipulate the DOM, handle events, and manage state (Create)
-2. **Integrate** external APIs into web applications, handling authentication, errors, and data formats (Apply)
-3. **Debug** client-side applications using browser developer tools and systematic approaches (Analyze)
-4. **Implement** form validation, data handling, and basic security hygiene (Apply)
-5. **Design** interactive interfaces that make invisible concepts tangible for specific audiences (Create)
-6. **Write** a Translation Brief explaining what invisible thing the app makes visible and how (Evaluate)
-7. **Construct** Context Packs that include API documentation and interaction requirements (Apply)
-8. **Compare** human-only vs. AI-assisted development approaches, documenting tradeoffs (Evaluate)
-9. **Create** technical documentation (README, setup guide, test checklist) for a non-technical audience (Create)
-
----
-
-## IS 218 — Web Application Engineering
+## IS 118 — Full-Stack Web Applications
 
 **Human Edge: Professional Judgment** · **40/60 Split: Manual testing and review / AI-directed full-stack development**
 
@@ -64,7 +46,25 @@ By the end of this course, students will be able to:
 
 ---
 
-## IS 265 — Problem Analysis in Information Systems
+## IS 218 — Infrastructure & Resilience
+
+**Human Edge: Resilience Thinking** · **40/60 Split: Manual infrastructure / AI-directed automation**
+
+By the end of this course, students will be able to:
+
+1. **Administer** Linux systems including processes, permissions, networking, and security (Apply)
+2. **Build** and deploy containerized applications using Docker and orchestration tools (Create)
+3. **Configure** authentication, authorization, and secrets management for web services (Apply)
+4. **Implement** observability (logs, metrics, traces) for a deployed system (Create)
+5. **Conduct** incident drills and write honest postmortems (Evaluate)
+6. **Create** a Failure Mode Analysis identifying how a system breaks, detection methods, and recovery plans (Create)
+7. **Design** runbooks for operational scenarios including degraded service and recovery (Create)
+8. **Construct** infrastructure Context Packs including failure modes and SLA requirements (Create)
+9. **Diagnose** production incidents using systematic investigation methods (Analyze)
+
+---
+
+## IS 265 — Enterprise AI Midpoint Capstone
 
 **Human Edge: Problem Finding** · **40/60 Split: Manual stakeholder analysis / AI-assisted prototyping**
 
@@ -82,21 +82,21 @@ By the end of this course, students will be able to:
 
 ---
 
-## IS 219 — Web Systems & Infrastructure
+## IS 482 — Community AI Training (Service Learning)
 
-**Human Edge: Resilience Thinking** · **40/60 Split: Manual infrastructure / AI-directed automation**
+**Human Edge: Translation** · **40/60 Split: Manual curriculum design / AI-assisted material creation**
 
 By the end of this course, students will be able to:
 
-1. **Administer** Linux systems including processes, permissions, networking, and security (Apply)
-2. **Build** and deploy containerized applications using Docker and orchestration tools (Create)
-3. **Configure** authentication, authorization, and secrets management for web services (Apply)
-4. **Implement** observability (logs, metrics, traces) for a deployed system (Create)
-5. **Conduct** incident drills and write honest postmortems (Evaluate)
-6. **Create** a Failure Mode Analysis identifying how a system breaks, detection methods, and recovery plans (Create)
-7. **Design** runbooks for operational scenarios including degraded service and recovery (Create)
-8. **Construct** infrastructure Context Packs including failure modes and SLA requirements (Create)
-9. **Diagnose** production incidents using systematic investigation methods (Analyze)
+1. **Research** a non-technical audience's AI knowledge gaps and design workshop curricula to address them (Create)
+2. **Design** hands-on exercises that make abstract AI concepts accessible to diverse audiences (Create)
+3. **Deliver** live training sessions, adapting in real-time to audience questions and confusion (Apply)
+4. **Write** a Translation Brief documenting what it took to make AI concepts accessible to a non-technical audience (Evaluate)
+5. **Plan** event logistics including venue, outreach, registration, accessibility, and contingency (Apply)
+6. **Collect** and analyze participant feedback to assess community impact (Analyze)
+7. **Produce** a Community Impact Report with evidence of learning outcomes (Create)
+8. **Construct** Translation-focused Context Packs that bridge technical and non-technical perspectives (Create)
+9. **Reflect** on the gap between expert understanding and public comprehension of AI (Evaluate)
 
 ---
 

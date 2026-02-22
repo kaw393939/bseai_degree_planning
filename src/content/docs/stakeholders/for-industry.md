@@ -16,7 +16,7 @@ Here's how to partner with the program.
 By graduation, every BS in EAI student has:
 
 - **Built 8 deployed projects** across a four-year studio spine
-- **Managed a real client relationship** with deliverables, feedback, and accountability (IS 425 capstone)
+- **Managed a real client relationship** with deliverables, feedback, and accountability (IS 425)
 - **Designed and built a production AI system** with knowledge graphs, human-in-the-loop workflows, evaluation harnesses, and observability
 - **Maintained an AI Audit Log** documenting every decision about when to trust and when to override AI output
 - **Survived an incident drill** — their professor broke their production system and they had to detect, diagnose, and recover under time pressure
@@ -65,9 +65,10 @@ Our students are ready for AI-related internships after Year 2 (they've shipped 
 
 | After Year | Skills Available | Ideal Internship Roles |
 |-----------|-----------------|----------------------|
-| Year 2 | Full-stack dev, testing, CI/CD, AI-assisted development | Software engineering intern |
-| Year 3 | + Infrastructure, containers, observability, data systems | AI systems intern, data engineering intern |
-| Year 4 | + Knowledge engineering, HITL design, evaluation, client delivery | AI engineering intern, solutions architecture intern |
+| Year 1 | Full-stack dev, testing, CI/CD, AI-assisted development | Software engineering intern |
+| Year 2 | + Infrastructure, containers, observability, enterprise problem analysis | AI systems intern, infrastructure intern |
+| Year 3 | + Data systems, knowledge engineering, systems analysis | Data engineering intern, AI solutions intern |
+| Year 4 | + Production AI, HITL design, evaluation, client delivery, community training | AI engineering intern, solutions architecture intern |
 
 ### Guest Lectures and Mentorship
 
@@ -86,7 +87,7 @@ Share real-world experience:
 | Can write code | Can write code AND evaluate AI-generated code |
 | Learned theory in lectures | Built 8 deployed projects in studios |
 | Academic projects | Real client engagement (IS 425) |
-| No systematic AI evaluation skills | AI Audit Log discipline from IS 218 |
+| No systematic AI evaluation skills | AI Audit Log discipline from IS 118 |
 | No knowledge engineering | Knowledge graphs + vector retrieval + hybrid systems |
 | First production experience at first job | Production experience from Year 2 |
 | No incident response training | Incident drills, postmortems, failure mode analysis |
@@ -116,7 +117,7 @@ Interested in partnering with the BS in Enterprise AI program?
 
 ## Further Reading
 
-- [IS 425 Syllabus](/bseai_degree_planning/syllabi/is425/) — The capstone course where industry partnerships happen
+- [IS 425 Syllabus](/bseai_degree_planning/syllabi/is425/) — The production studio where industry partnerships happen
 - [Student Outcomes](/bseai_degree_planning/program/student-outcomes/) — What graduates are formally assessed on
 - [Assessment Plan](/bseai_degree_planning/accreditation/assessment-plan/) — How we ensure quality
 - [Job Market Data](/bseai_degree_planning/evidence/job-market/) — The market context

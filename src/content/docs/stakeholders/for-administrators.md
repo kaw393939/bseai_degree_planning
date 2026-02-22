@@ -17,8 +17,8 @@ An eight-course studio spine that takes students from zero technical knowledge t
 |---------|--------|
 | Degree | BS in Enterprise AI (within Informatics) |
 | Studio spine | 8 courses, sequenced, cohort-based |
-| New courses needed | 1 (IS 118); IS 425 already exists, needs minor update |
-| Existing catalog numbers used | IS 117, IS 218, IS 219, IS 265, IS 331, IS 390 |
+| New courses needed | 2 (IS 118, IS 482) |
+| Existing catalog numbers used | IS 117, IS 218, IS 265, IS 331, IS 390, IS 425 |
 | Faculty required | 4 (identified and willing) |
 | Target launch | Fall 2026 |
 | Accreditation pathway | ABET CAC (IS criteria) + MSCHE |
@@ -88,21 +88,21 @@ Every course develops one of eight Human Edge capabilities — permanent skills 
 | Capability | Course | What It Means |
 |-----------|--------|--------------|
 | Disciplined Inquiry | IS 117 | Asking the right questions |
-| Translation | IS 118 | Making the invisible visible |
-| Professional Judgment | IS 218 | Knowing when to override the machine |
+| Professional Judgment | IS 118 | Knowing when to override the machine |
+| Resilience Thinking | IS 218 | Designing for failure |
 | Problem Finding | IS 265 | Identifying the real problem |
-| Resilience Thinking | IS 219 | Designing for failure |
 | Epistemic Humility | IS 331 | Knowing what you don't know |
 | Systems Thinking | IS 390 | Seeing the whole system |
 | Accountable Leadership | IS 425 | Standing behind your work |
+| Translation | IS 482 | Making the invisible visible |
 
 ### The 40/60 Split
 
 Every course: 40% manual work (building understanding) + 60% AI-directed work (building velocity). Students learn to use AI as professionals — critically, selectively, and with accountability.
 
-### The Capstone
+### The Production Project
 
-IS 425: Real clients, real problems, production-grade AI systems, Demo Day with industry judges. Students don't just learn about AI — they ship AI and defend it.
+IS 425: Real clients, real problems, production-grade AI systems, Demo Day with industry judges. IS 482: Students take everything they've learned and teach it to the community — the ultimate test of mastery.
 
 ---
 
@@ -115,7 +115,7 @@ IS 425: Real clients, real problems, production-grade AI systems, Demo Day with 
 | Software/tools | All free tiers or NJIT-provided |
 | Cloud resources | Education credits (AWS/GCP/Azure) |
 | Industry partners | Center for Enterprise AI |
-| New course proposals | 1 (IS 118) — manageable governance timeline |
+| New course proposals | 2 (IS 118, IS 482) — manageable governance timeline |
 
 **Cost estimate:** Minimal incremental cost beyond existing IS program budget. No new hires required for launch. No specialized equipment beyond standard computing labs.
 
@@ -141,7 +141,7 @@ IS 425: Real clients, real problems, production-grade AI systems, Demo Day with 
 
 | Date | Milestone |
 |------|-----------|
-| Spring 2026 | Faculty governance approval; IS 118 new course proposal |
+| Spring 2026 | Faculty governance approval; IS 118 and IS 482 new course proposals |
 | Summer 2026 | Marketing materials; advisor training; industry partner engagement |
 | Fall 2026 | Launch with initial cohort (IS 117 + supporting courses) |
 | Fall 2027 | Full enrollment; first students in IS 218 |

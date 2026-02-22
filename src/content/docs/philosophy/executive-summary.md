@@ -34,10 +34,10 @@ This is not only an educational response — it is an economic one. The U.S. fac
 
 | Year | Courses | Human Capabilities | Technical Foundation |
 |------|---------|-------------------|---------------------|
-| 1 | IS 117 → IS 118 | Disciplined Inquiry + Translation | Web development, JavaScript, APIs, Git |
-| 2 | IS 218 → IS 265 | Professional Judgment + Problem Finding | Full-stack apps, testing, CI/CD, stakeholder analysis |
-| 3 | IS 219 → IS 331 | Resilience Thinking + Epistemic Humility | Linux, containers, databases, knowledge graphs |
-| 4 | IS 390 → IS 425 | Systems Thinking + Accountable Leadership | Systems design, AI integration, capstone with real client |
+| 1 | IS 117 → IS 118 | Disciplined Inquiry + Professional Judgment | Web development, JavaScript, full-stack apps, testing, CI/CD |
+| 2 | IS 218 → IS 265 | Resilience Thinking + Problem Finding | Linux, containers, infrastructure, enterprise stakeholder analysis |
+| 3 | IS 331 → IS 390 | Epistemic Humility + Systems Thinking | Databases, knowledge graphs, systems design, AI architecture |
+| 4 | IS 425 → IS 482 | Accountable Leadership + Translation | Production AI systems, client delivery, community AI training |
 
 **Supported by:** CS 100, CS 114, MATH 111/211/226, DS 100, IS 247, IS 350, IS 392, IS 465, IS 480, and additional applied courses (IS 385, IS 491, IS 485).
 
@@ -51,7 +51,7 @@ This is not only an educational response — it is an economic one. The U.S. fac
 
 3. **Portfolio, not transcript.** Graduates present 8 shipped projects with increasing sophistication, plus Demo Day presentations starting Semester 2 (IS 118 onward).
 
-4. **AI-native but AI-skeptical.** Students use AI tools from Day 1 but are trained to verify, evaluate, and override. The AI Audit Log (IS 218) documents what students accepted, rejected, and modified from AI — with reasoning.
+4. **AI-native but AI-skeptical.** Students use AI tools from Day 1 but are trained to verify, evaluate, and override. The AI Audit Log (IS 118) documents what students accepted, rejected, and modified from AI — with reasoning.
 
 5. **Studio, not lecture.** 20–25 student cohorts. Every course produces deployable artifacts. Real feedback cycles.
 
@@ -61,7 +61,7 @@ This is not only an educational response — it is an economic one. The U.S. fac
 
 The degree is designed to meet:
 
-- **ABET CAC Information Systems criteria:** ≥30 SCH in IS topics (app dev, programming, data/DB, IT infrastructure, systems analysis, project management), ≥15 SCH in an IS environment, major project (IS 425 capstone)
+- **ABET CAC Information Systems criteria:** ≥30 SCH in IS topics (app dev, programming, data/DB, IT infrastructure, systems analysis, project management), ≥15 SCH in an IS environment, major project (IS 425)
 - **MSCHE Standards III, V, VI:** Rigorous curriculum design, documented assessment of student learning, adequate resources and institutional support
 - **ABET Student Outcomes:** All five general outcomes (analyze, design, communicate, ethical judgment, teamwork) are explicitly mapped to Human Edge capabilities and assessed through portfolio artifacts
 
@@ -91,7 +91,7 @@ BLS projects +15% growth for software developers, +34% for data scientists, and 
 
 - **Faculty:** 4 instructors committed and prepared for studio pedagogy
 - **Facilities:** Standard computing labs (students use personal machines + cloud)
-- **Existing courses leveraged:** 7 of 8 spine courses use existing NJIT catalog numbers (IS 117, IS 218, IS 219, IS 265, IS 331, IS 390, IS 425). Only IS 118 requires a new course proposal. IS 425 is an existing number with updated content.
+- **Existing courses leveraged:** 6 of 8 spine courses use existing NJIT catalog numbers (IS 117, IS 218, IS 265, IS 331, IS 390, IS 425). IS 118 and IS 482 require new course proposals.
 - **Timeline:** Phase 1 courses ready for Fall 2026
 
 ---

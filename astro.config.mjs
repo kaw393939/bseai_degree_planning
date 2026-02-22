@@ -51,13 +51,21 @@ export default defineConfig({
           label: 'Syllabi',
           items: [
             { label: 'IS 117 — Web Development & Inquiry', slug: 'syllabi/is117' },
-            { label: 'IS 118 — Interactive Web Development', slug: 'syllabi/is118' },
-            { label: 'IS 218 — Web Application Engineering', slug: 'syllabi/is218' },
-            { label: 'IS 265 — Problem Analysis in Information Systems', slug: 'syllabi/is265' },
-            { label: 'IS 219 — Web Systems & Infrastructure', slug: 'syllabi/is219' },
+            { label: 'IS 118 — Full-Stack Web Applications', slug: 'syllabi/is118' },
+            { label: 'IS 218 — Infrastructure & Resilience', slug: 'syllabi/is218' },
+            { label: 'IS 265 — Enterprise AI Midpoint Capstone', slug: 'syllabi/is265' },
             { label: 'IS 331 — Data & Knowledge Systems', slug: 'syllabi/is331' },
             { label: 'IS 390 — Systems Analysis & Design', slug: 'syllabi/is390' },
             { label: 'IS 425 — Applied Enterprise AI', slug: 'syllabi/is425' },
+            { label: 'IS 482 — Community AI Training', slug: 'syllabi/is482' },
+          ]
+        },
+        {
+          label: 'Center for Enterprise AI',
+          items: [
+            { label: 'Center Overview', slug: 'center/overview' },
+            { label: 'Community Engagement', slug: 'center/community' },
+            { label: 'Open Resources', slug: 'center/resources' },
           ]
         },
         {

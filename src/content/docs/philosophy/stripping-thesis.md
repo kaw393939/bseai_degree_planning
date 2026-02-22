@@ -55,13 +55,13 @@ AI answers questions. It does not know which questions matter. The act of lookin
 
 Not "converting format A to format B" — AI does that. The human act of translation is *deciding what another person needs to understand.* It requires a theory of mind, an understanding of what's invisible to *this specific audience*, and the empathy to meet them where they are.
 
-**Where we teach this:** IS 118 — Translation
+**Where we teach this:** IS 482 — Translation
 
 ### 3. Overriding the Confident Machine
 
 AI produces output with uniform confidence. It does not know when it's wrong. Professional judgment — the willingness to say "this doesn't look right" when the AI says everything is fine — requires *moral courage*. That's not a cognitive skill. It's a character trait.
 
-**Where we teach this:** IS 218 — Professional Judgment
+**Where we teach this:** IS 118 — Professional Judgment
 
 ### 4. Finding the Problem Nobody Stated
 
@@ -73,7 +73,7 @@ AI can optimize any objective function you give it. It cannot tell you that you'
 
 AI can monitor metrics and flag anomalies. It cannot make the 2 AM judgment call about whether to roll back, patch forward, or wake up the client. Resilience requires *ownership* — someone who says "this is my system and I will fix it." Machines don't have responsibility. People do.
 
-**Where we teach this:** IS 219 — Resilience Thinking
+**Where we teach this:** IS 218 — Resilience Thinking
 
 ### 6. Standing Outside Your Own Representations
 

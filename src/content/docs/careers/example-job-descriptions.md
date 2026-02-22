@@ -75,7 +75,7 @@ Example source set: https://builtin.com/salaries/us/ai-engineer, https://www.yco
 - Strong communication + technical writing
 - Comfort working in cross-functional discovery teams
 
-**Studio spine preparation:** IS 265 (problem finding + stakeholder analysis), IS 390 (systems analysis + requirements), IS 425 (capstone delivery to industry judges). The Translation capability (IS 118) and Problem Finding capability (IS 265) map directly to this role's cross-functional delivery requirements.
+**Studio spine preparation:** IS 265 (problem finding + stakeholder analysis), IS 390 (systems analysis + requirements), IS 425 (production delivery to industry judges). The Translation capability (IS 482) and Problem Finding capability (IS 265) map directly to this role's cross-functional delivery requirements.
 
 **Estimated salary (US)**
 
@@ -100,7 +100,7 @@ Example source set: https://scale.com/careers/4602177005, https://www.glassdoor.
 - Secure integration patterns (authn/authz, secrets, audit logging)
 - Ability to communicate risk and operational readiness to stakeholders
 
-**Studio spine preparation:** IS 219 (Linux, containers, networking, incident drills, blameless postmortems), IS 390 (architecture + trade-off analysis), IS 425 (production deployment with governance). The Resilience Thinking capability (IS 219) is purpose-built for this role.
+**Studio spine preparation:** IS 218 (Linux, containers, networking, incident drills, blameless postmortems), IS 390 (architecture + trade-off analysis), IS 425 (production deployment with governance). The Resilience Thinking capability (IS 218) is purpose-built for this role.
 
 **Estimated salary (US)**
 
@@ -153,7 +153,7 @@ Example source set: https://www.levels.fyi, https://www.h1b-connect.com
 - Observability (logs/metrics/traces) and performance tuning
 - Comfortable integrating multiple services and data sources
 
-**Studio spine preparation:** IS 218 (testing + CI/CD + AI-assisted dev), IS 219 (monitoring + observability + infrastructure), IS 331 (data integration), IS 425 (platform-scale production system). The Professional Judgment capability (IS 218) and Systems Thinking capability (IS 390) map directly to platform engineering decisions.
+**Studio spine preparation:** IS 118 (testing + CI/CD + AI-assisted dev), IS 218 (monitoring + observability + infrastructure), IS 331 (data integration), IS 425 (platform-scale production system). The Professional Judgment capability (IS 118) and Systems Thinking capability (IS 390) map directly to platform engineering decisions.
 
 **Estimated salary (US)**
 
@@ -167,13 +167,13 @@ Example source set: https://www.levels.fyi, https://www.h1b-connect.com
 | Studio Course | Human Edge Capability | Roles It Prepares For |
 |--------------|----------------------|----------------------|
 | IS 117 | Disciplined Inquiry | All (foundational research + documentation habits) |
-| IS 118 | Translation | Forward-Deployed AI Eng, AI Product Eng |
-| IS 218 | Professional Judgment | AI Product Eng, AI Software Eng |
+| IS 118 | Professional Judgment | AI Product Eng, AI Software Eng |
+| IS 218 | Resilience Thinking | AI Deployment Eng, AI Software Eng |
 | IS 265 | Problem Finding | Forward-Deployed AI Eng, AI Product Eng |
-| IS 219 | Resilience Thinking | AI Deployment Eng, AI Software Eng |
 | IS 331 | Epistemic Humility | LLM Application Eng, AI Product Eng |
 | IS 390 | Systems Thinking | AI Deployment Eng, Forward-Deployed AI Eng |
-| IS 425 | Accountable Leadership | All (capstone integrates every role's requirements) |
+| IS 425 | Accountable Leadership | All (production project integrates every role's requirements) |
+| IS 482 | Translation | Forward-Deployed AI Eng, AI Product Eng |
 
 By graduation, students have portfolio evidence for **every role on this page** — not because we designed the roles around the curriculum, but because the curriculum was designed around the same skills these roles require.
 

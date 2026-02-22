@@ -62,38 +62,18 @@ Prior Context: N/A (first project)
 ```
 *Learning goal:* Students practice defining a problem and specifying what "done" means.
 
-**IS 118 — Interactive Context Pack**
-```
-Project Brief: Build interactive app that makes [invisible thing] visible
-Domain Context: JavaScript patterns, API documentation, data format specs
-Evaluation Criteria: Functional interactive features, error handling, UX quality
-Prior Context: Portfolio site from IS 117, lessons from first Context Pack
-```
-*Learning goal:* Students practice giving domain context that enables better AI output.
-
-### Year 2: Professional Context
-
-**IS 218 — Engineering Context Pack**
+**IS 118 — Engineering Context Pack**
 ```
 Project Brief: Full-stack app with [specific user need]
 Domain Context: Architecture patterns, testing frameworks, CI/CD requirements
 Evaluation Criteria: Test coverage, deployment success, code review checklist
-Prior Context: IS 117/118 projects, known pitfalls, architectural decisions made
+Prior Context: Portfolio site from IS 117, lessons from first Context Pack
 ```
 *Learning goal:* Context Pack includes technical architecture context and testing criteria.
 
-**IS 265 — Organizational Context Pack**
-```
-Project Brief: Solve [stakeholder's stated problem] — but first find the real one
-Domain Context: Stakeholder interview notes, organizational dynamics, requirements
-Evaluation Criteria: Did we solve the RIGHT problem? Stakeholder satisfaction?
-Prior Context: Initial assumptions vs. discovered reality (tracked in Assumptions Log)
-```
-*Learning goal:* Context Pack includes human/organizational context, not just technical.
+### Year 2: Professional Context
 
-### Year 3: Deep Technical Context
-
-**IS 219 — Infrastructure Context Pack**
+**IS 218 — Infrastructure Context Pack**
 ```
 Project Brief: Containerized service with [SLA requirements]
 Domain Context: Infrastructure constraints, security requirements, failure modes
@@ -101,6 +81,17 @@ Evaluation Criteria: Uptime, recovery time, observability coverage, security pos
 Prior Context: Failure Mode Analysis, prior incident data, known vulnerabilities
 ```
 *Learning goal:* Context Pack includes failure modes and recovery requirements.
+
+**IS 265 — Enterprise Context Pack**
+```
+Project Brief: Solve [enterprise stakeholder's stated problem] — but first find the real one
+Domain Context: Enterprise architecture, stakeholder dynamics, governance requirements
+Evaluation Criteria: Did we solve the RIGHT problem? Working prototype? Governance plan?
+Prior Context: Initial assumptions vs. discovered reality (tracked in Assumptions Log)
+```
+*Learning goal:* Context Pack includes human/organizational context and enterprise domain knowledge.
+
+### Year 3: Deep Technical Context
 
 **IS 331 — Data Context Pack**
 ```
@@ -111,7 +102,7 @@ Prior Context: Data assumptions document, known biases, representation choices
 ```
 *Learning goal:* Context Pack explicitly addresses epistemic limitations — what the data doesn't capture.
 
-### Year 4: Capstone Context
+### Year 4: Leadership & Service
 
 **IS 390 — Systems Context Pack**
 ```
@@ -128,7 +119,16 @@ Domain Context: Client requirements, domain knowledge graph, existing systems
 Evaluation Criteria: Production readiness, evaluation harness results, client satisfaction
 Prior Context: All prior Context Packs synthesized, lessons from every studio
 ```
-*Learning goal:* The capstone Context Pack is a professional-grade project brief.
+*Learning goal:* The IS 425 Context Pack is a professional-grade project brief.
+
+**IS 482 — Translation Context Pack**
+```
+Project Brief: Community AI training event for [audience segment]
+Domain Context: Audience analysis, AI literacy research, pedagogical frameworks
+Evaluation Criteria: Participant comprehension, accessibility, community impact
+Prior Context: All eight Context Packs synthesized; lessons from every studio
+```
+*Learning goal:* The final Context Pack bridges technical and non-technical worlds.
 
 ---
 
