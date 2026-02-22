@@ -37,6 +37,53 @@ A student entering the BS in Enterprise AI in Fall 2026 will graduate in Spring 
 
 This is why the program teaches **permanent human capabilities** — not transient technical skills. The 40/60 split, the Human Edge framework, and the Context Pack artifact are all designed for a world where the tools change constantly but the human substrate remains.
 
+### Benchmark Saturation: The Treadmill Accelerates
+
+AI researchers build harder benchmarks to measure progress. AI keeps breaking them faster:
+
+| Benchmark | Released | Time to Near-Saturation | Status (Feb 2026) |
+|-----------|----------|-------------------------|-------------------|
+| MMLU (knowledge, 57 subjects) | 2020 | ~4–5 years | **Saturated** (~90%+) |
+| GPQA Diamond (PhD-level Q&A) | Nov 2023 | ~2 years | **Near-saturated** (~94%) |
+| SWE-bench Verified (real GitHub issues) | Aug 2024 | ~18 months (still climbing) | ~81% |
+| HLE (Humanity's Last Exam) | Jan 2026 | TBD | 44% |
+| ARC-AGI-2 (novel reasoning) | 2025 | TBD | 77% (best), humans >95% |
+
+Source: Research corpus file 01, compiled from METR, Anthropic, OpenAI, Google DeepMind, and benchmark organization data.
+
+**The pattern is clear:** each successive "harder" benchmark is beaten faster. MMLU lasted ~5 years. GPQA lasted ~2 years. SWE-bench Verified is at 81% after just 18 months. The gap between "this is beyond AI" and "AI solved it" is **shrinking**.
+
+This is why the program doesn't teach students to do what benchmarks test. It teaches them to do what benchmarks cannot measure: inquiry, judgment, translation, resilience, and accountability.
+
+### The Capital Behind the Curve
+
+The acceleration isn't slowing. It's being funded at unprecedented scale:
+
+| Company | 2025 Capex | 2026 Capex (Guided) |
+|---------|-----------|---------------------|
+| Amazon (AWS) | ~$100B | ~$200B |
+| Alphabet (Google) | ~$85B | ~$175–185B |
+| Meta | $66–72B | $115–135B |
+| Microsoft | ~$80B (FY25) | >$100B (run-rate) |
+| **Combined (Big 4)** | **~$330B** | **~$600B+** |
+
+Sources: CNBC, Barron's, DataCenterDynamics, TechCrunch, various (2025–2026).
+
+**$600 billion in one year** from four companies — the largest private capital deployment in human history for a single technology. The Stargate Project ($100B–$500B intended U.S. AI infrastructure buildout, announced Jan 2025) adds to this. The capital demands people who can make it productive.
+
+### Government Policy Is Aligned
+
+| Action | Date |
+|--------|------|
+| Executive Order: Removing Barriers to AI Leadership | Jan 23, 2025 |
+| EO: Advancing AI Education for American Youth | Apr 23, 2025 |
+| "Winning the AI Race" Action Plan (90+ actions) | Jul 23, 2025 |
+| 60+ public-private AI education commitments | Jun 30, 2025 |
+
+Source: [whitehouse.gov](https://www.whitehouse.gov), [ai.gov](https://ai.gov).
+
+The federal government has identified AI education as a national priority, creating a White House Task Force on AI Education and ordering integration across K-12, higher education, and workforce development. The BS in Enterprise AI is directly aligned with this policy trajectory.
+
 ---
 
 ## The Broadway Photo

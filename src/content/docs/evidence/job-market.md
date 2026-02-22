@@ -112,12 +112,24 @@ The BS in Enterprise AI prepares students for roles that combine technical depth
 
 ## Demand Indicators Beyond BLS
 
-### Job Posting Trends
+### The Paradox: The Wrong Jobs Are Dying, The Right Jobs Are Growing
 
-AI-related job postings have shown consistent growth:
-- LinkedIn reports AI-related job postings grew **85%** in 2024–2025
-- "AI engineer" has become the fastest-growing job title on major platforms
-- Postings increasingly require **integration skills** (RAG, knowledge graphs, evaluation) rather than just model training
+The job market data tells a two-track story that most programs fail to see:
+
+**What's declining:**
+- **"Computer Programmers" (BLS narrow category):** Down **25%+ in 2 years**. Generative AI and consolidation hit routine coding hardest. (Washington Post / BLS, Mar 2025)
+- **Software development postings:** Down **~51% YoY** by Oct 2023; remained weak through 2024. (Indeed Hiring Lab)
+- Posted wages for generic software dev barely grew: +0.7% YoY in Dec 2024. (Indeed Hiring Lab)
+- CS new-grad unemployment: **6.1%** — above the overall labor market. (NY Fed, Dec 2024)
+
+**What's growing:**
+- **AI-skill postings:** ~125,000 in May 2025 — the bright spot in an otherwise cool tech market. (CompTIA)
+- **AI posting growth:** **+68%** from Q4 2022 to Q4 2024. (UMD Smith School)
+- By late 2025, **4.2% of all U.S. postings** mentioned AI; **45% of data & analytics postings** did. (Indeed Hiring Lab, Jan 2026)
+- BLS projects software developers at **+15.8%** through 2034 — but the growth is in AI-integrated roles, not routine coding. (BLS, Aug 2025)
+- Data scientists: **+34%** projected growth — among the fastest-growing occupations. (BLS)
+
+**The paradox:** Traditional programming jobs are contracting while AI-integrated roles are expanding. Programs that teach students to write code are preparing them for the shrinking market. Programs that teach students to direct AI systems, evaluate their output, and take accountability for results are preparing them for the growing one.
 
 ### Cross-Industry Demand
 
@@ -145,15 +157,48 @@ This is precisely what the BS in Enterprise AI teaches: the integration of AI wi
 
 ## Geographic Context: New Jersey/New York Metro
 
-NJIT's location in the New York metro area provides access to one of the world's largest AI job markets:
+NJIT sits 30 minutes from the **#1 AI job market in the United States**.
 
-| Factor | Detail |
-|--------|--------|
-| NYC AI companies | 500+ AI-focused companies; major tech offices (Google, Meta, Amazon, Microsoft) |
-| NJ pharmaceutical/healthcare | Major AI adoption in drug discovery, clinical AI, medical devices |
-| Financial services corridor | Wall Street AI trading, risk, compliance; major banks and hedge funds |
-| Government/defense | Federal agencies, Fort Monmouth legacy, defense contractors |
-| Median tech salary (NYC metro) | 15–25% premium over national median |
+### NYC AI Market
+
+| Metric | Value | Source |
+|--------|-------|--------|
+| NYC rank for AI listings | **#1 nationally** (~1,995 posts, Jan 2025) | Axios |
+| Active AI openings (Mar 2025) | **5,201** (+87% YoY) | TechNYC |
+| New AI roles posted (Mar 2025) | 2,044 | TechNYC |
+| Total NYC tech jobs | **~203,800** | TechNYC 2025 Snapshot |
+| AI postings 2018–2023 (cumulative) | **90,000+** unique | TechNYC 2025 Snapshot |
+| Workers with AI skills in NYC | 40,000 | nyc.gov |
+| AI startups in NYC | 2,000+ | nyc.gov |
+
+NYC launched an applied-AI roadmap with an OpenAI partnership (Jan 2025) — internships, credits, and an AI Nexus for startups. (nyc.gov)
+
+### New Jersey AI Hub
+
+- **Princeton + NJEDA + Microsoft + CoreWeave** AI accelerator with **$72M+ in commitments** (Princeton, Mar 2025)
+- NJ Data Scientist projections: **+28.3%** (2022–2032, BLS state data)
+- **Key NJ AI employers within commuting distance:**
+  - CoreWeave (HQ Livingston — major data center expansion)
+  - ADP (Roseland — GenAI product roles)
+  - Panasonic North America (Newark)
+  - Prudential / PGIM (Newark)
+
+### Metro Compensation
+
+Computer & Mathematical occupations averaged **$64.31/hour (~$134K annualized)** in the NY-NJ metro (May 2024, BLS) — well above the national average. AI/ML-specific roles typically exceed this.
+
+### NJIT Graduate Outcomes (Class of 2024)
+
+| Metric | Value |
+|--------|-------|
+| Undergrad employment/continuing ed rate | >90% within 6 months |
+| CS BS average starting salary | **$92,375** |
+| Data Science BS average | $88,854 |
+| Top employers | JPMorgan Chase, Amazon, Goldman Sachs, Verizon, ADP, PSEG, Prudential |
+
+Source: [NJIT Career Services, Class of 2024](https://www.njit.edu/careerservices/).
+
+The BS in Enterprise AI aims to place graduates into AI-integrated roles commanding $110K–$150K entry-level — a significant premium over NJIT's current $74,700 bachelor's average, reflecting the specialized skills few programs teach.
 
 ---
 

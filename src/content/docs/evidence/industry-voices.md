@@ -34,6 +34,52 @@ Key perspectives:
 
 ---
 
+## CEO Voices: January–February 2026
+
+The most recent statements from AI industry leaders paint a consistent picture — and it's more urgent than 12 months ago.
+
+### Dario Amodei (CEO, Anthropic) — Davos, January 2026
+
+> We may be **"6–12 months from models doing most, maybe all software-engineering work end-to-end."**
+
+Amodei also noted that Anthropic engineers already let models write code they then edit — the workflow this program teaches. He has separately warned that AI could eliminate **up to 50% of entry-level white-collar roles within 1–5 years**, potentially pushing unemployment to 10–20%.
+
+Sources: [WEF, Jan 2026](https://www.weforum.org/stories/2026/01/young-people-ai-davos/); [Axios, May 2025](https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic).
+
+### Sam Altman (CEO, OpenAI) — February 2026
+
+> Real displacement from AI will become **"palpable in the next few years."** Some layoffs are being wrongly blamed on AI ("AI washing"), but the real wave is coming.
+
+He also called this **"probably the most exciting time to start a career"** — AI will spawn new industries and help people learn faster. Both halves of that statement are true, and both are the program's thesis: the disruption is real, AND the opportunity is real.
+
+Sources: [Fortune, Feb 19, 2026](https://fortune.com/2026/02/19/sam-altman-confirms-ai-washing-job-displacement-layoffs/); [CNBC, Aug 2025](https://www.cnbc.com/2025/08/22/openai-ceo-says-ai-era-is-exciting-time-to-start-a-career.html).
+
+### Sundar Pichai (CEO, Google/Alphabet) — December 2025
+
+> AI will evolve and transition jobs across the board. **"People who learn to use the tools will do better."** Even suggested a CEO role could be automatable one day.
+
+Pichai emphasizes augmentation over replacement and said Alphabet would keep growing engineering hiring into 2026. But his message to workers is clear: adapt or fall behind.
+
+Source: [Fortune, Dec 2, 2025](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/).
+
+### Jensen Huang (CEO, NVIDIA) — Davos, January 2026
+
+> We are in the **"largest infrastructure build-out in human history"** — AI data centers require a 7–8 year construction cycle. Next-gen reasoning models require ~100× more computation vs. early ChatGPT-era systems.
+
+Huang's infrastructure framing matters: $600B+ in Big 4 hyperscaler capex in 2026 alone. Every data center needs people who can deploy AI systems, evaluate their output, and take accountability for results.
+
+Sources: [MarketWatch](https://www.marketwatch.com/story/nvidias-jensen-huang-says-human-jobs-wont-just-go-away-because-of-ai-84f400e8); [CNBC, Feb 2025](https://www.cnbc.com/2025/02/26/nvidia-ceo-huang-says-next-generation-ai-will-need-more-compute.html).
+
+### The Pattern
+
+All four leaders agree on the core dynamic:
+1. **AI capability is accelerating** beyond what most expected
+2. **Real job displacement is coming** — not a hypothetical
+3. **The winners will be people who learn to direct AI** — not people who compete with it
+4. **Massive capital is being deployed** — creating demand for exactly the professionals this program produces
+
+---
+
 ## What Hiring Managers Say
 
 ### The Skills They Can't Find
