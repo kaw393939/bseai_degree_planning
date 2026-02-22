@@ -95,6 +95,31 @@ The final irreducible thing: **someone has to be responsible.** AI cannot be sue
 
 ---
 
+## The Double Stripping
+
+AI strips from above — automating the tasks that used to justify a technical education.
+
+But there is a second stripping happening simultaneously, from below.
+
+### K-12 Is Stripping From Below
+
+National data reveals a generation arriving with weaker preparation than any in recent measurement history:
+
+- **Reading:** ~65% of 12th-graders scored below NAEP Proficient (NAGB, Sep 2025). Only 14% of 13-year-olds read for fun daily — the lowest ever recorded (NAEP LTT, 2023).
+- **Math:** Only 29% of ACT-takers met the math college-readiness benchmark. 43% met *none* of the four benchmarks (ACT Inc., Oct 2024). ~73% of 8th-graders are not proficient in math (NAEP 2024).
+- **Digital skills:** Only 2% of 8th-graders demonstrated production-level digital proficiency (ICILS 2018). The "digital native" label is empirically false for the skills that matter.
+- **Mental health:** 46% of Gen Z have been diagnosed with a mental health condition (Harmony Healthcare IT, Jun 2025).
+
+These declines **predate COVID** — the pandemic deepened trends that began in the mid-2010s (OECD PISA 2022).
+
+### Squeezed From Both Directions
+
+Students are being squeezed from both directions: AI is making their procedural skills worthless faster, while K-12 is producing fewer students with the foundational skills to adapt. The gap between "what they arrive with" and "what the economy demands" is wider than it has ever been.
+
+**The program responds to both forces.** The studio spine starts from zero (addressing the preparation gap) and builds toward irreplaceable human capabilities (addressing the AI automation threat). IS 117 assumes no terminal, Git, or programming experience. IS 425 produces professionals who can direct production AI systems and defend them to industry judges. The entire arc — from zero to accountable leadership — is the response to the double stripping.
+
+---
+
 ## The Inversion
 
 Most technical programs treat human capabilities as "soft skills" — a seminar here, a communication course there. The technical content is the real curriculum; the human stuff is garnish.

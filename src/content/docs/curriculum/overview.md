@@ -57,7 +57,7 @@ Each studio course in the [core spine](/bseai_degree_planning/curriculum/core-st
 
 3. **Portfolio, not transcript.** Employers see 8 shipped projects with increasing sophistication — not a GPA and a list of course names.
 
-4. **Remediation as a feature.** We take students from wherever they are. Freshman year builds from zero. This is not a weakness — it's proof the program works.
+4. **Remediation as a feature.** We take students from wherever they are. Freshman year builds from zero. This is not a weakness — it's what the national data demands: ~65% of 12th-graders read below NAEP Proficient, only 29% of ACT-takers meet math readiness, and only 2% of 8th-graders demonstrated production-level digital skills (ICILS 2018). The studio spine's start-from-zero design is evidence-based pedagogy, not remediation in disguise. (See [Who Walks in the Door](/bseai_degree_planning/evidence/student-profile/).)
 
 5. **AI-native but AI-skeptical.** Students use AI tools from Day 1, but they also learn to verify, evaluate, and override AI. They learn *how* AI works well enough to know when it doesn't.
 

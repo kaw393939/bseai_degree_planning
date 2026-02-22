@@ -175,6 +175,14 @@ The [job market evidence](/bseai_degree_planning/evidence/job-market/) shows tha
 
 For administrators: This isn't a speculative bet on one technology. It's a structural response to a pattern that has occurred with every general-purpose technology in history. The question isn't whether the investment model will change. It's whether your institution adapts before or after the change is obvious.
 
+### The Productivity Imperative
+
+The investment case extends beyond individual career returns. The U.S. faces $38.5T in gross federal debt, with ~$1T/yr in interest costs climbing to an estimated $2.1T by 2036 (CBO, Feb 2026). The only non-regressive exit is productivity growth — and AI is the only tool capable of delivering at scale. Goldman Sachs projects +1.4 pp/yr for a decade; McKinsey projects +0.5–3.4 pp/yr including automation.
+
+But every projection includes a conditional: gains require **skilled human deployment**, not just better models. The four largest hyperscalers are deploying ~$600B+ in AI infrastructure in 2026 alone (CNBC, Barron's). The federal government has responded with a dedicated White House AI Education Task Force, 90+ actions in the "Winning the AI Race" plan, and an Executive Order on Advancing AI Education (Apr 2025, whitehouse.gov).
+
+The missing piece is people. Not model builders — too few needed, and models improve themselves. Not prompt engineers — the skill is already being automated. The missing piece is **professionals who can deploy AI into complex organizations, evaluate whether it works, and take accountability for the result.** That's what this degree produces. (See [The Productivity Imperative](/bseai_degree_planning/evidence/productivity-imperative/).)
+
 ---
 
 ## Further Reading
