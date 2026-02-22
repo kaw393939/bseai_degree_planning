@@ -20,6 +20,7 @@
 | 07 | [07-accreditation-policy.md](07-accreditation-policy.md) | ABET CAC criteria (2025–2026), MSCHE substantive change requirements, NJIT syllabus policy. What the program must satisfy. |
 | 08 | [08-program-design.md](08-program-design.md) | The Human Edge vision, 8 capabilities, spine structure, course catalog (current vs proposed), administrative change roadmap, prerequisite chain, LLM App Engineer skills framework. |
 | 09 | [09-student-profile.md](09-student-profile.md) | Incoming student portrait: NAEP reading/math (2019–2024), ACT college readiness (Class of 2024), college remediation rates, Gen Z digital literacy/mental health/resilience/work values, Gen Alpha preview, NJIT context, design implications for BSEAI. |
+| 10 | [10-societal-context.md](10-societal-context.md) | Macro-economic argument for AI education as fiscal imperative: national debt ($38.5T, ~100% GDP), inflation as regressive tax, productivity imperative, AI productivity evidence (McKinsey/Goldman/MIT/Stanford), government AI policy (Action Plan, Education EO, Stargate), data center capex ($600B+/yr Big 4), logical chain connecting debt→inflation→productivity→AI→this program. |
 
 ---
 
@@ -57,3 +58,13 @@
 | ACT math readiness | 29% (Class of 2024) | ACT Inc., Oct 2024 | 1 |
 | 8th graders digitally proficient | 2% | ICILS 2018 | 1 |
 | Gen Z mental health diagnosis | 46% | Harmony Healthcare IT, Jun 2025 | 2–3 |
+| U.S. gross federal debt (Dec 2025) | $38.5 trillion | GAO, gao.gov | 1 |
+| Debt-to-GDP projected 2036 | 120% | CBO Feb 2026 baseline | 1 |
+| Annual interest on debt (FY2025) | ~$1 trillion (14% of spending) | CBO/BPC | 1 |
+| Inflation regressive premium | +0.28 pp/yr bottom vs top quintile | BLS research CPI | 1 |
+| Goldman AI productivity estimate | +1.4–1.5 pp/yr for a decade | Goldman Sachs Research | 2 |
+| MIT RCT: AI task speedup | 40% faster, 18% higher quality | MIT / news.mit.edu | 1 |
+| Stanford: AI boost for novices | +30–35% productivity | Stanford GSB / gsb.stanford.edu | 1 |
+| Big 4 hyperscaler capex (2026) | ~$600B+ | CNBC, Barron's, company filings | 2–3 |
+| White House AI Action Plan | 90+ actions, Jul 2025 | whitehouse.gov | 1 |
+| AI Education EO | Apr 23, 2025 | whitehouse.gov | 1 |
