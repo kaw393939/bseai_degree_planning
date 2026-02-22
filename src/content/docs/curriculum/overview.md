@@ -33,7 +33,17 @@ Human capabilities are the primary outcome. Technical fluency is the necessary s
 We are not training coders. We are training the people who will decide what gets built, whether it should be built, how to know if it's working, and what to do when it fails. They must be technically fluent enough to build, debug, and evaluate AI systems — but their lasting value will be in judgment, inquiry, ethics, and leadership.
 
 This is the **"CEO of agents"** thesis: you don't write every line of code your agents produce, but you must know enough to hire well, evaluate work, diagnose failures, and take responsibility for outcomes.
+## The mechanism: how vocabulary becomes capability
 
+The inversion is not just philosophical — it is operationalized through a specific pedagogical mechanism. Every course in the spine builds a **Spell Book**: a curated vocabulary of named concepts, patterns, and frameworks that students accumulate from IS 117 through IS 482.
+
+This is grounded in information theory (Shannon, 1948). Named concepts function as compressed protocols. When a student learns to say "the Observer pattern" instead of describing event-driven publish-subscribe behavior from first principles, they have achieved roughly a 50:1 compression ratio. That compression works identically in three contexts: communicating with colleagues, reasoning about system design, and instructing AI agents through precise prompts.
+
+The program trains *both neural networks simultaneously*:
+- **The biological network** — the student's growing professional vocabulary, judgment, and pattern recognition
+- **The artificial network** — the AI agents whose output quality is directly proportional to the precision of the instructions they receive
+
+Students who build richer Spell Books write better Context Packs, get better AI output, reason more precisely about their systems, and communicate more efficiently with colleagues. Vocabulary is not decoration — it is the compression layer that makes professional expertise possible.
 ## The eight human capabilities
 
 Each studio course in the [core spine](/bseai_degree_planning/curriculum/core-studio-spine/) foregrounds one irreplaceable human capability while reinforcing all prior ones. These are not afterthoughts — they are graded, assessed, and accumulated across the degree.
@@ -57,7 +67,7 @@ Each studio course in the [core spine](/bseai_degree_planning/curriculum/core-st
 
 3. **Portfolio, not transcript.** Employers see 8 shipped projects with increasing sophistication — not a GPA and a list of course names.
 
-4. **Remediation as a feature.** We take students from wherever they are. Freshman year builds from zero. This is not a weakness — it's what the national data demands: ~65% of 12th-graders read below NAEP Proficient, only 29% of ACT-takers meet math readiness, and only 2% of 8th-graders demonstrated production-level digital skills (ICILS 2018). The studio spine's start-from-zero design is evidence-based pedagogy, not remediation in disguise. (See [Who Walks in the Door](/bseai_degree_planning/evidence/student-profile/).)
+4. **Remediation as a feature.** We take students from wherever they are. Freshman year builds from zero. This is not a weakness — it's what the national data demands: ~65% of 12th-graders read below NAEP Proficient, only 29% of ACT-takers meet math readiness, and only 2% of 8th-graders demonstrated production-level digital skills (ICILS 2018). The studio spine's start-from-zero design is evidence-based pedagogy, not remediation in disguise. Vygotsky's (1978) Zone of Proximal Development provides the theoretical foundation: each course scaffolds exactly one step beyond the prior course's demonstrated capability, with the instructor providing guided support in the gap. (See [Who Walks in the Door](/bseai_degree_planning/evidence/student-profile/).)
 
 5. **AI-native but AI-skeptical.** Students use AI tools from Day 1, but they also learn to verify, evaluate, and override AI. They learn *how* AI works well enough to know when it doesn't.
 

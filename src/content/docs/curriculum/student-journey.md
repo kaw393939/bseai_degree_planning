@@ -36,6 +36,8 @@ The other students in the cohort are a few steps ahead or behind, but the profil
 
 **Human Edge gained: Disciplined Inquiry.** Jaylen can now articulate a question, investigate it, and document what they found. They don't just accept the first answer — they ask "What would have to be true?"
 
+**Spell Book v1:** Jaylen has learned to *name what they see* — DOM, semantic HTML, version control, the Five Whys, issue trees. These are the first compressed protocols. Where Jaylen once said "the thing on the webpage," they now say "the DOM node" — and that precision works identically when talking to a classmate and when instructing an AI agent.
+
 **Technical confidence:** Terminal basics, Git, HTML/CSS, static deployment. The digital floor is laid.
 
 ### Spring — IS 118: Full-Stack Web Applications
@@ -50,6 +52,8 @@ The other students in the cohort are a few steps ahead or behind, but the profil
 - Week 15: Ships a complete web application. Tests pass. CI runs. Deployed. Documented.
 
 **Human Edge gained: Professional Judgment.** Jaylen doesn't just accept AI output anymore. They evaluate it. The AI Audit Log shows 14 instances where they modified or rejected Copilot suggestions — with reasoning.
+
+**Spell Book v2:** Jaylen now names *what they do* — MVC, REST, CI/CD, test coverage, the AI Audit Log pattern itself. The Context Pack they write for their full-stack app is noticeably more precise than IS 117's — and the AI output they get back is noticeably better. This is the first visible evidence that vocabulary density and AI output quality are correlated.
 
 **Technical confidence:** Full-stack development, testing, CI/CD, deployment, monitoring basics. Jaylen is now a functioning software engineer.
 
@@ -83,6 +87,8 @@ The other students in the cohort are a few steps ahead or behind, but the profil
 - Week 15: Delivers a problem framing memo that a real organization could act on. Includes assumptions log showing what they originally believed vs. what investigation revealed.
 
 **Human Edge gained: Problem Finding.** Jaylen can now walk into a messy enterprise situation and find the real problem. They don't just build what's asked for — they ask whether it's the right thing to build.
+
+**Spell Book v4 (midpoint check):** Jaylen's vocabulary now spans four domains: foundational terms (v1), patterns and practices (v2), system behaviors (v3), and organizational concepts (v4 — stakeholder analysis, root cause, governance, assumptions log). Their Context Packs look qualitatively different from Year 1: where they once wrote "build a website about encryption," they now write "conduct stakeholder analysis to identify the root cause behind the stated chatbot requirement, distinguishing governance failures from technical gaps." The compression ratio of their professional communication has increased by roughly an order of magnitude.
 
 **Turning point:** After this semester, Jaylen understands that engineering without context is just expensive typing.
 
@@ -119,6 +125,8 @@ The other students in the cohort are a few steps ahead or behind, but the profil
 **Human Edge gained: Systems Thinking.** Jaylen can now look at a complex system and see how the parts interact — where complexity hides, what emergent behavior to watch for, how to design for the whole and not just the pieces.
 
 **The shift:** Jaylen stops thinking like a developer ("what should I build?") and starts thinking like an analyst ("what does this system need to be, and how do all the parts work together?").
+
+**Spell Book v6:** Jaylen now commands architecture vocabulary — Conway's Law, coupling, cohesion, non-functional requirements, emergent behavior. They can describe a system's structure in precise compressed terms that would take paragraphs to unpack for a novice. Their AI prompts have become engineering specifications: tightly constrained, terminologically precise, with explicit acceptance criteria. The difference between Jaylen's IS 117 prompts and IS 390 prompts is the difference between a tourist's phrasebook and a native speaker's technical vocabulary.
 
 ---
 
@@ -160,6 +168,8 @@ The other students in the cohort are a few steps ahead or behind, but the profil
 ## What Jaylen has at graduation
 
 **Portfolio:** 8 shipped projects, each more sophisticated than the last, publicly visible on GitHub and their portfolio site (which has evolved every semester since IS 117).
+
+**The Spell Book (v8):** 200+ named concepts spanning 8 domains — from basic HTML semantics to cognitive load theory for audience design. Jaylen can compress expert-level instructions into precise AI prompts, and decompress expert vocabulary into accessible explanations for non-technical audiences. Both neural networks are trained: Jaylen's biological network (professional judgment and reasoning) and the artificial networks Jaylen will direct throughout their career.
 
 **Human Edge artifacts:** 8 documents demonstrating inquiry, judgment, resilience, problem finding, epistemic humility, systems thinking, leadership, and translation.
 

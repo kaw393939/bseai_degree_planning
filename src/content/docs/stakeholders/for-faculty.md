@@ -9,6 +9,19 @@ The BS in Enterprise AI is not a traditional lecture-based program. It's a studi
 
 ---
 
+## The Pedagogical Framework
+
+The studio model is not an experiment — it's grounded in established instructional design theory:
+
+- **Cognitive Load Theory (Sweller, 1988):** The 40/60 split manages intrinsic load. The hard-way component builds schemas first; the agentic component adds complexity only after understanding is established. This is why the sequence matters — students who skip the 40% cannot evaluate the 60%.
+- **Reflective Practice (Schon, 1983):** Every Human Edge artifact is a reflection artifact. The AI Audit Log, the Failure Mode Analysis, the Data Assumptions Document — each requires students to articulate *why*, not just *what*. This converts tacit professional knowledge into assessable evidence.
+- **Situated Learning (Lave and Wenger, 1991):** Studio assessment happens through authentic practice — real deployments, real stakeholders, real incident drills. Students demonstrate capability in the contexts where they will use it professionally.
+- **Zone of Proximal Development (Vygotsky, 1978):** The 8-course spine is a deliberate scaffold. Each studio demands capability just beyond what the previous one established, with the instructor providing guided support in the gap.
+
+The instructional loop in every studio is **CCR: Concept, Challenge, Reflect.** Introduce a named concept (with vocabulary and history). Challenge students to apply it in a real build task. Then require structured reflection on what happened and why. This loop repeats weekly and compounds across the spine.
+
+---
+
 ## The Studio Model
 
 ### What Changes
@@ -94,6 +107,20 @@ Every course uses the Context Pack — a recurring artifact that teaches student
 
 ---
 
+## The Spell Book: Vocabulary as Pedagogy
+
+Every studio course builds a **Spell Book** — a curated set of named concepts, patterns, and frameworks that students accumulate across the spine (v1 in IS 117 through v8 in IS 482). This is not decoration. It is grounded in information theory: named concepts function as compressed protocols that make both human reasoning and AI interaction dramatically more efficient.
+
+The pedagogical logic: when a student learns to say "the Observer pattern" instead of describing a publish-subscribe mechanism from scratch, they have compressed ~500 words of explanation into 3 words. That compression works identically in conversation with colleagues and in prompts to AI agents. The program trains *both neural networks simultaneously* — the biological one (the student's growing professional vocabulary and judgment) and the artificial one (the AI agents whose output quality depends on the precision of their instructions).
+
+**What this means for teaching:**
+- Introduce named concepts with their history and inventor (e.g., "Dijkstra coined 'separation of concerns' in 1974")
+- Require students to use professional vocabulary in artifacts and presentations — not as jargon, but as precision
+- Use Context Pack quality as a proxy for vocabulary mastery: students with richer Spell Books write better prompts and get better AI output
+- The Spell Book grows each semester; reference prior vocabulary and expect students to build on it
+
+---
+
 ## Assessment Approach
 
 ### No Traditional Exams (for Most Courses)
@@ -133,9 +160,27 @@ You can customize within the framework, but the core criteria remain consistent 
 - Cross-course coordination meetings (lightweight, term-start and mid-term)
 
 ### What's Not Expected
-- You don't need to be an AI expert to teach IS 117 or IS 265
-- You don't need to rebuild your course from scratch — the scaffolding is provided
+- You don't need to redesign your pedagogy from scratch — the scaffolding (CCR loop, rubrics, Spell Book progression) is provided
 - You don't need to police AI use — the 40/60 structure handles this pedagogically
+
+---
+
+## Instructor Onboarding and Calibration
+
+The studio model's quality depends on instructor preparation. The program provides structured onboarding:
+
+### Before Your First Semester
+- **Orientation workshop** (1 day): Studio pedagogy, CCR loop, 40/60 split in practice, Spell Book philosophy, Context Pack assessment, rubric walkthrough
+- **Shadow session**: Observe an experienced studio instructor for one class session (or review recorded sessions)
+- **Rubric calibration**: Score 3 sample artifacts using the standard rubric with the faculty committee. Discuss discrepancies and establish shared anchors.
+- **AI tool proficiency**: Hands-on session with the AI tools students will use (Copilot, Claude, ChatGPT). You don't need to be an AI researcher, but you must be able to evaluate AI-generated output in your domain and demonstrate the 40/60 workflow.
+
+### Ongoing Support
+- **Mid-semester rubric check**: Exchange 2 anonymized artifacts with a colleague in a different studio. Compare scores and calibrate.
+- **Cross-course coordination** (term-start + mid-term): Lightweight meetings to align Spell Book progression, ensure Context Pack expectations build appropriately, and share what's working.
+- **Annual norming workshop**: Faculty committee reviews exemplar artifacts from each rubric level and updates anchor descriptions based on observed student work.
+
+This is not bureaucratic overhead — it is the mechanism that makes the studio model work at consistent quality across sections and semesters. The research is clear: inter-rater reliability in portfolio-based assessment requires structured calibration (Jonsson and Svingby, 2007).
 
 ---
 

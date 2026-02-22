@@ -95,7 +95,13 @@ Every course develops one of eight Human Edge capabilities — permanent skills 
 | Systems Thinking | IS 390 | Seeing the whole system |
 | Accountable Leadership | IS 425 | Standing behind your work |
 | Translation | IS 482 | Making the invisible visible |
+### The Spell Book: Vocabulary as Professional Capital
 
+Across all 8 studios, students build a **Spell Book** — a curated set of named concepts, patterns, and frameworks that compounds each semester. This is not a glossary. It is grounded in information theory (Shannon, 1948): named concepts function as compressed protocols that make both human communication and AI interaction dramatically more efficient.
+
+The institutional significance: students are training *both neural networks simultaneously* — their own biological network (professional vocabulary and judgment) and the artificial networks they will direct throughout their careers. A student who can articulate "apply the 12-Factor methodology" instead of describing configuration management from scratch has compressed ~500 words into 3 — and that compression works identically in team conversations and in AI prompts.
+
+This dual-training model is the program's deepest differentiator. No peer institution teaches vocabulary as an engineering discipline with measurable output (prompt quality, Context Pack sophistication, artifact precision).
 ### The 40/60 Split
 
 Every course: 40% manual work (building understanding) + 60% AI-directed work (building velocity). Students learn to use AI as professionals — critically, selectively, and with accountability.
@@ -118,6 +124,12 @@ IS 425: Real clients, real problems, production-grade AI systems, Demo Day with 
 | New course proposals | 2 (IS 118, IS 482) — manageable governance timeline |
 
 **Cost estimate:** Minimal incremental cost beyond existing IS program budget. No new hires required for launch. No specialized equipment beyond standard computing labs.
+
+### Instructor Quality: The Key Execution Variable
+
+The studio model's quality ceiling is set by instructor preparation. This is not a lecture program where content can be delivered from slides — studio instructors must model the 40/60 workflow, evaluate AI-generated output live, calibrate rubrics across sections, and coach students through ambiguity.
+
+The program addresses this through structured onboarding (orientation workshop, rubric calibration, AI tool proficiency sessions), ongoing cross-course coordination, and annual norming workshops. See the [Faculty Guide](/bseai_degree_planning/stakeholders/for-faculty/) and [Implementation Plan](/bseai_degree_planning/curriculum/implementation-plan/) for details. Treating instructor preparation as a first-class program requirement — not an afterthought — is what makes the studio model scalable.
 
 ---
 

@@ -7,6 +7,15 @@ description: "How the BS in Enterprise AI measures student learning outcomes at 
 
 This document describes the multi-level assessment architecture for the BS in Enterprise AI, designed to satisfy ABET CAC continuous improvement requirements and MSCHE Standard V (Educational Effectiveness Assessment).
 
+## Theoretical Foundation
+
+The assessment architecture is grounded in established instructional design theory:
+
+- **Cognitive Load Theory (Sweller, 1988):** Assessment tasks are designed to manage intrinsic load — each artifact isolates one Human Edge capability so students can demonstrate mastery without competing cognitive demands. The 40/60 split ensures the hard-way component builds schemas before the agentic component adds complexity.
+- **Reflective Practice (Schon, 1983):** Every Human Edge artifact is a reflection artifact — the AI Audit Log, the Failure Mode Analysis, the Data Assumptions Document each require students to articulate *why* they made decisions, not just *what* they built. This converts tacit knowledge into assessable evidence.
+- **Zone of Proximal Development (Vygotsky, 1978):** The studio spine sequences capability demands within each student's expanding zone. IS 117 asks students to document inquiry; IS 425 asks them to lead under ambiguity. The scaffolding is deliberate, and assessment expectations scale accordingly.
+- **Situated Learning (Lave and Wenger, 1991):** Assessment happens through authentic practice — real deployments, real stakeholders, real incident drills — not decontextualized exams. Students demonstrate capability in the same contexts where they will exercise it professionally.
+
 ---
 
 ## Three-Level Assessment Architecture
@@ -66,6 +75,29 @@ Each Human Edge artifact is scored on a 4-point rubric:
 | **2 — Developing** | Shows awareness of the capability but application is incomplete or surface-level. |
 | **1 — Beginning** | Minimal evidence of the capability. Artifact is perfunctory or missing key elements. |
 
+### Vocabulary Mastery as Assessment Dimension
+
+Every studio course builds a **Spell Book** — a curated vocabulary of named concepts, patterns, and frameworks that students accumulate across the spine (v1 in IS 117 through v8 in IS 482). The Spell Book is not assessed as a separate artifact but is embedded in every assessment through a concrete signal: **the precision and compression of student communication.**
+
+This is grounded in information theory (Shannon, 1948): named concepts function as compressed protocols. A student who writes "I applied the 12-Factor methodology to externalize configuration" has indexed a shared knowledge structure that would otherwise require paragraphs of explanation. A student who writes "I put the settings in a separate file" has not.
+
+Across the spine, assessors look for increasing vocabulary density in:
+- Context Packs (can the student construct precise instructions for AI agents?)
+- Human Edge artifacts (can the student name the framework they applied?)
+- Demo Day presentations (can the student communicate technical decisions efficiently to expert audiences?)
+- Postmortems and reflections (can the student diagnose problems using professional terminology?)
+
+This provides a **measurable proxy for cognitive development**: prompt quality and vocabulary precision improve as students internalize more compressed protocols. The trajectory from IS 117 (where students are learning to name what they see) to IS 482 (where students must translate professional vocabulary into accessible explanations) is itself assessment evidence.
+
+### Rubric Calibration Protocol
+
+To ensure inter-rater reliability across sections and semesters:
+
+1. **Pre-semester calibration session** (2 hours): All studio instructors score the same 3 sample artifacts using the standard rubric. Scores are compared, discrepancies discussed, and shared anchors established.
+2. **Mid-semester check**: Instructors exchange 2 anonymized artifacts per course with a colleague teaching a different studio. Scoring agreement is documented.
+3. **Annual norming workshop**: Faculty committee reviews exemplar artifacts from each rubric level (1–4) and updates anchor descriptions based on observed student work.
+4. **Calibration documentation**: All calibration results are archived as part of the continuous improvement evidence for ABET and MSCHE.
+
 ---
 
 ## Level 2: Program-Level Assessment
@@ -78,6 +110,9 @@ Each year, a faculty committee reviews a stratified sample of student portfolios
 - **Technical growth:** Are deployed projects increasing in sophistication?
 - **AI judgment:** Are AI Audit Logs showing increasingly nuanced evaluation?
 - **Context Packs:** Are students constructing more sophisticated context over time?
+- **Vocabulary density:** Are students using more precise, compressed professional language in later semesters? (Measured by comparing Spell Book growth and terminology usage in Context Packs and reflections across the spine.)
+
+The portfolio review trains *both neural networks* simultaneously: the biological network (the student's growing professional vocabulary and judgment) and the artificial network (the AI agents whose output quality depends on how precisely students can direct them through Context Packs). Portfolio evidence should show improvement in both — better human reasoning *and* better AI-directed output.
 
 ### Demo Day Assessment (Starting Semester 2)
 

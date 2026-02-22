@@ -98,10 +98,38 @@ See the [Assessment Plan](/bseai_degree_planning/accreditation/assessment-plan/)
 | **Assessment infrastructure** | Portfolio platform, Demo Day logistics, rubric calibration | By Spring 2027 (IS 118 launch) | Existing GitHub + deployment platforms; Demo Day adds venue + judge coordination |
 | **MSCHE filing** | Substantive change notification (IS 118 and IS 482 are new courses) | Filed Spring 2026 | 2 of 8 spine courses are new; rest are modifications of existing catalog numbers |
 
+## Instructor Preparation: The Primary Execution Variable
+
+The studio model's quality ceiling is set by instructor quality. This is not a lecture program where content can be delivered from prepared slides — studio instructors must model the 40/60 workflow live, evaluate AI-generated output in real time, calibrate rubrics with colleagues, coach students through ambiguity, and accumulate the Spell Book vocabulary alongside their students.
+
+The research is clear: inter-rater reliability in portfolio-based assessment requires structured calibration (Jonsson and Svingby, 2007), and situated learning environments depend on instructor authenticity (Lave and Wenger, 1991). Instructor preparation is therefore treated as a **first-class program requirement**, not a staffing afterthought.
+
+### Structured Onboarding Protocol
+
+| Phase | Activity | Timeline | Responsible |
+|-------|----------|----------|-------------|
+| **Pre-hire** | Candidate teaches a sample studio session (not a lecture) as part of interview | During hiring | Search committee |
+| **Orientation** | 1-day workshop: studio pedagogy, CCR loop, 40/60 split, Spell Book philosophy, Context Pack assessment, rubric walkthrough | 4 weeks before first semester | Program director |
+| **Shadow** | Observe an experienced studio instructor for 1–2 class sessions (or review recorded sessions) | 2 weeks before first semester | Assigned mentor |
+| **Rubric calibration** | Score 3 sample artifacts using the standard rubric with faculty committee; discuss discrepancies and establish shared anchors | 1 week before first semester | Faculty committee |
+| **AI tool proficiency** | Hands-on session with AI tools students will use (Copilot, Claude, ChatGPT); demonstrate 40/60 workflow; practice evaluating AI-generated output | During orientation | Program director |
+
+### Ongoing Calibration
+
+| Activity | Frequency | Purpose |
+|----------|-----------|----------|
+| Mid-semester artifact exchange | Every semester | 2 anonymized artifacts exchanged with a colleague in a different studio; scores compared |
+| Cross-course coordination meeting | Term-start + mid-term | Align Spell Book progression, Context Pack expectations, share what's working |
+| Annual norming workshop | Every August | Review exemplar artifacts from each rubric level (1–4); update anchor descriptions based on observed student work |
+| Peer observation | Annual | Each instructor observes one colleague's studio session; structured feedback form |
+
+This protocol ensures that the program's quality is not dependent on finding "unicorn" instructors. It creates a system where good instructors become great studio instructors through deliberate preparation and ongoing calibration.
+
 ## Risk Mitigations
 
 | Risk | Likelihood | Impact | Mitigation |
 |------|-----------|--------|------------|
+| **Instructor quality variance** | **High** | **High** | **Primary execution risk.** Structured onboarding protocol (see above), pre-semester rubric calibration, mid-semester artifact exchange, annual norming workshop, peer observation. Studio teaching is a skill that must be developed — the onboarding protocol converts good instructors into effective studio instructors through deliberate practice. |
 | Low initial enrollment | Medium | High | Market as AI career accelerator, not traditional CS; leverage $110K–$150K starting salary data; target students who self-select for building, not theory |
 | Faculty recruitment | Medium | High | Practitioner-instructors (not PhD researchers); competitive adjunct rates justified by small sections; industry network for guest judges |
 | AI capability outpaces curriculum | High | Medium | 40/60 policy ensures 60% of each course uses current AI tools; syllabi are frameworks, not frozen content; annual curriculum review built into assessment plan |

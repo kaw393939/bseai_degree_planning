@@ -56,6 +56,14 @@ You'll use AI coding assistants (Copilot, ChatGPT, Claude) from day one. But 40%
 
 This is exactly how professionals use AI. The degree teaches you to do it that way from the start.
 
+### Your Spell Book: How You Get Better at AI (and Everything Else)
+
+Every course gives you a vocabulary — named concepts, patterns, and frameworks that professionals use to think and communicate precisely. You collect these in your **Spell Book**, which grows from v1 (IS 117) to v8 (IS 482).
+
+Here's the secret: the better your vocabulary, the better your AI output. When you can tell an AI agent "implement the Observer pattern with event-driven architecture" instead of "make the things update when something changes," you get dramatically better results. The same vocabulary that makes you a more effective AI user also makes you a more effective communicator, problem-solver, and leader.
+
+By graduation you'll have 200+ professional concepts in your Spell Book. That's not memorization — it's the difference between a tourist and a native speaker. And you'll be able to see your own growth: compare your IS 117 prompts to your IS 425 prompts and the improvement is unmistakable.
+
 ### The Human Edge
 
 Every course develops a capability that AI cannot replicate:
@@ -117,6 +125,8 @@ You move to data systems: SQL, knowledge graphs, vector embeddings, and hybrid r
 
 ### Year 4 (IS 425 + IS 482)
 You build a production AI system for a real client in IS 425: knowledge graphs, human-in-the-loop workflows, evaluation harnesses. **Demo Day**: you present to industry judges and defend every decision. Then in IS 482 you take everything you've learned and teach it to others — designing and delivering a community AI training event. You graduate ready to ship production AI and translate it for any audience.
+
+**The visible arc:** Compare your IS 117 Context Pack (a few sentences about what you want to build) to your IS 425 Context Pack (a precise engineering specification with architecture constraints, evaluation criteria, and failure modes). That progression — visible in your own work — is the proof that the program works. You'll be able to see exactly how much better you've gotten at thinking, communicating, and directing AI.
 
 ---
 
