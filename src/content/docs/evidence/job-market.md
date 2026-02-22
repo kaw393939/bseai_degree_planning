@@ -208,10 +208,10 @@ The BS in Enterprise AI aims to place graduates into AI-integrated roles command
 |--------|------------------------|-------------------------------|
 | Entry salary (median) | $65K–$80K | $110K–$150K |
 | 5-year salary (median) | $85K–$110K | $150K–$220K |
-
-*Traditional IS baseline drawn from BLS Computer and Information Systems data (2024) and NJIT Class of 2024 career outcomes (CS average: $92,375, DS average: $89,000).*
 | Role breadth | IT analyst, systems admin, business analyst | AI systems engineer, knowledge engineer, AI PM, AI consultant |
 | Career trajectory | Management → CIO track | Technical leadership + management → CTO/CAIO track |
+
+*Traditional IS baseline drawn from BLS Computer and Information Systems data (2024) and NJIT Class of 2024 career outcomes (CS average: $92,375, Data Science average: $89,000). EAI projections from [canonical salary data](/bseai_degree_planning/careers/example-job-descriptions/), cross-referenced with BLS, levels.fyi, and 2025–2026 postings.*
 
 The salary premium reflects the specialized integration skills that few programs teach.
 

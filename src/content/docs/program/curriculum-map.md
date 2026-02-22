@@ -28,7 +28,7 @@ This matrix shows how each student outcome progresses across the eight-course st
 | **HE-1** Directed AI Orchestration | **I** | R | R | R | R | R | M | **M** |
 | **HE-2** Judgment Under Uncertainty | — | I | **I** | R | R | R | **M** | M |
 | **HE-3** Failure Ownership | — | — | I | — | **I** | R | R | **M** |
-| **HE-4** Epistemic Responsibility | I | I | R | R | R | **I** | R | **M** |
+| **HE-4** Epistemic Responsibility | — | I | R | R | R | **I** | R | **M** |
 | **HE-5** Adaptive Re-Tooling | **I** | R | R | R | **R** | R | R | **M** |
 
 > **Bold** cells indicate the primary course for each outcome — where the outcome is either first Introduced or formally Mastered. Assessment evidence for mastery is collected from the bolded **M** courses.

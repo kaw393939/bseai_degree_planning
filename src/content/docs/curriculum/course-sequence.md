@@ -68,7 +68,7 @@ These courses deepen specific AI and enterprise competencies beyond what the spi
 |--------|-------|------|---------|
 | IS 385 | Special Topics in IS (Service Learning Clinic) | Spring 3 or Fall 4 | Center for Enterprise AI on-ramp. Students deliver AI training and build solutions for real community or industry clients. |
 | IS 491 | Senior Project – IS (Industry Practicum) | Summer or Fall 4 | Co-op / internship with an industry partner. Applied experience in a real company environment. |
-| IS 485 | Special Topics in IS (Advanced Topics in Enterprise AI) | Spring 4 (elective) | Advanced agent systems, Neural Fabric concepts, research-grade AI engineering. For students going to graduate school or deep technical roles. |
+| IS 485 | Special Topics in IS (Advanced Topics in Enterprise AI) | Spring 4 (elective) | Advanced agent systems, Neural Fabric concepts (local LLM + graph + vector + observability for mission-critical AI), research-grade AI engineering. For students going to graduate school or deep technical roles. |
 
 ---
 
@@ -131,14 +131,14 @@ Standard NJIT gen-ed requirements. Recommended choices that reinforce the Human 
 ## Prerequisite Chain (Studio Spine)
 
 ```
+CS 100 ──────────────────────┐
+                             ↓
 IS 117 → IS 118 → IS 218 → IS 265
                                   ↓
                    IS 219 → IS 331 → IS 390 → IS 425
 ```
 
-Each studio requires the prior one. No skipping. The accumulation model only works if every student goes through the full progression.
-
-*Note: IS 218 also requires CS 100 (Introduction to Computer Science) as a co-prerequisite. CS 100 is taken in Fall 1 alongside IS 117.*
+Each studio requires the prior one. No skipping. The accumulation model only works if every student goes through the full progression. CS 100 (Introduction to Computer Science) feeds into IS 218 as a co-prerequisite, providing the Python programming foundation that web application engineering requires.
 
 ---
 
