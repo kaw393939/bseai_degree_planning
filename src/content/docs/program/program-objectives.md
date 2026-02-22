@@ -44,11 +44,13 @@ Graduates will **take accountability** for the systems they build, deploy, and m
 
 Based on [job market evidence](/bseai_degree_planning/evidence/job-market/), graduates are prepared for roles including:
 
-- **Forward-Deployed AI Engineer** ($145K–$183K) — Prototyping AI solutions in cross-functional teams
-- **AI Product Engineer** ($180K–$220K) — Building full-stack AI-powered products
-- **AI Deployment Engineer** ($137K–$250K) — Ensuring safe, effective AI deployment
-- **AI Systems Engineer** ($175K–$350K) — Building user-centric AI products with design and product teams
+- **Forward-Deployed AI Engineer** (entry $110K–$150K; mid $140K–$220K) — Prototyping AI solutions in cross-functional teams
+- **AI Product Engineer** (entry $110K–$150K; mid $140K–$260K) — Building full-stack AI-powered products
+- **AI Deployment Engineer** (entry $115K–$140K; mid $130K–$220K) — Ensuring safe, effective AI deployment in regulated environments
+- **LLM Application Engineer** (entry $110K–$160K; mid $150K–$250K+) — Building RAG systems, eval harnesses, and production AI workflows
 - **AI Product Manager** — Bridging technical AI capabilities with business needs
+
+*Salary ranges from [canonical salary data](/bseai_degree_planning/careers/example-job-descriptions/), cross-referenced with BLS, levels.fyi, and 2025–2026 postings.*
 
 These are not entry-level coding jobs. They are judgment-intensive roles where the **human capabilities are the differentiator** and the technical fluency is assumed.
 

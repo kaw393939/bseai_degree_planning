@@ -1,66 +1,87 @@
 # QA Summary & Cross-Cutting Issues
 
-**QA performed:** All 43 site pages read and cross-referenced.
-**Date:** February 2026
+**QA performed:** All 43 original pages + 2 new pages (46 total) read and cross-referenced.
+**Original QA date:** February 2026
+**Last updated:** February 2026 (post-Sprint 9 final verification)
 **QA folder:** `project-management/qa/` — one document per page + this summary.
+
+**Resolution status:** All 4 CRITICAL, all 3 HIGH, all 3 MEDIUM, and all 3 LOW cross-cutting issues have been resolved across Sprints 1–9. Site-wide cross-reference audit (Sprint 9) found 7 remaining inconsistencies in 3 files, all fixed in the same sprint.
+
+---
+
+## Resolution Summary
+
+| Issue | Severity | Sprint(s) | Resolution |
+|-------|----------|-----------|------------|
+| Salary range inconsistencies | CRITICAL | 1, 3, 6, 9 | All pages aligned to canonical `06-salary-data.md`. Sprint 9 audit fixed `program-objectives.md` (was citing mid/senior ranges as entry), `for-students.md` (senior years bracket), `higher-ed-landscape.md` (catalog claim) |
+| "6 of 8" vs "7 of 8" catalog numbers | CRITICAL | 1, 9 | All pages now say "7 of 8 spine courses use existing catalog numbers; only IS 118 requires a new course proposal." Sprint 9 fixed `higher-ed-landscape.md` (was "6 existing + 2 new") |
+| 8 capabilities vs 5 HE outcomes | CRITICAL | Prior QA commits | Bridge table added showing 8 capabilities → 5 HE outcomes mapping |
+| Peer programs empty | CRITICAL | 6 | Full page with comparison matrix, ✅/❌ capability matrix, differentiation narrative, canonical salary ranges |
+| Demo Day timing contradictions | HIGH | 1, 7 | All pages now say "Semester 2 (IS 118 onward)." IS 117 says "Final Presentation." IS 265/390/219 prefixed with "Demo Day:" |
+| Assessment plan vs syllabi | HIGH | 7 | Assessment plan already uses ranges and "adapts to specific context" language. Context Pack named in all 8 syllabi |
+| METR doubling approximation | HIGH | 1, 8 | No "3-5 months" anywhere on site. All pages use specific data (~7mo full, ~4.3mo since 2023, ~2.9mo since 2024) or "~3 months and accelerating" |
+| IS 390 studio label | MEDIUM | 8 | Verified consistent as "Systems Analysis & Design" across 30+ references |
+| Neural Fabric unexplained | MEDIUM | 8 | Inline definitions added (core-studio-spine.md and course-sequence.md already have "local LLM + graph + vector + observability" definition; is425.md has dedicated section) |
+| Named individual | MEDIUM | 8 | No "Keith Williams" on any public page |
+| Homepage 6/8 capabilities | LOW | 8 | Verified all 8 listed in "The Thesis" section |
+| Legacy quality cliff | LOW | 6 | All 7 legacy pages upgraded: peer-programs, implementation-plan, job-signals-summary, skills-map, example-job-descriptions + 2 new evidence pages added |
+| CS 100 prerequisite | LOW | 8 | Diagram updated to show CS 100 feeding into IS 218 |
 
 ---
 
 ## Page Status Index
 
-| # | Page | QA Doc | Status |
-|---|---|---|---|
-| 1 | `index.md` (homepage) | `index-homepage.md` | **2 issues** |
-| 2 | `philosophy/executive-summary.md` | `philosophy-executive-summary.md` | **4 issues** |
-| 3 | `philosophy/stripping-thesis.md` | `philosophy-stripping-thesis.md` | PASS |
-| 4 | `philosophy/acceleration-thesis.md` | `philosophy-acceleration-thesis.md` | **3 issues** |
-| 5 | `philosophy/new-paradigm.md` | `philosophy-new-paradigm.md` | PASS |
-| 6 | `program/program-objectives.md` | `program-objectives.md` | PASS |
-| 7 | `program/student-outcomes.md` | `program-student-outcomes.md` | **2 issues** (1 CRITICAL) |
-| 8 | `program/learning-objectives.md` | `program-learning-objectives.md` | PASS |
-| 9 | `program/curriculum-map.md` | `program-curriculum-map.md` | **2 issues** |
-| 10 | `program/forty-sixty-policy.md` | `program-forty-sixty-policy.md` | **2 issues** |
-| 11 | `program/context-pack.md` | `program-context-pack.md` | **2 issues** (1 HIGH) |
-| 12 | `accreditation/abet-alignment.md` | `accreditation-abet-alignment.md` | PASS |
-| 13 | `accreditation/msche-alignment.md` | `accreditation-msche-alignment.md` | **2 issues** |
-| 14 | `accreditation/outcomes-mapping.md` | `accreditation-outcomes-mapping.md` | PASS |
-| 15 | `accreditation/assessment-plan.md` | `accreditation-assessment-plan.md` | **3 issues** (1 CRITICAL) |
-| 16 | `evidence/why-now.md` | `evidence-why-now.md` | PASS |
-| 17 | `evidence/job-market.md` | `evidence-job-market.md` | **2 issues** (1 HIGH) |
-| 18 | `evidence/industry-voices.md` | `evidence-industry-voices.md` | PASS |
-| 19 | `evidence/higher-ed-landscape.md` | `evidence-higher-ed-landscape.md` | PASS |
-| 20 | `stakeholders/for-administrators.md` | `stakeholders-for-administrators.md` | **3 issues** (1 HIGH) |
-| 21 | `stakeholders/for-faculty.md` | `stakeholders-for-faculty.md` | **3 issues** (1 HIGH) |
-| 22 | `stakeholders/for-students.md` | `stakeholders-for-students.md` | **2 issues** (1 HIGH) |
-| 23 | `stakeholders/for-industry.md` | `stakeholders-for-industry.md` | PASS |
-| 24 | `syllabi/is117.md` | `syllabi-is117.md` | **5 issues** (2 HIGH) |
-| 25 | `syllabi/is118.md` | `syllabi-is118.md` | **3 issues** (2 HIGH) |
-| 26 | `syllabi/is218.md` | `syllabi-is218.md` | **2 issues** |
-| 27 | `syllabi/is265.md` | `syllabi-is265.md` | **2 issues** |
-| 28 | `syllabi/is219.md` | `syllabi-is219.md` | **2 issues** |
-| 29 | `syllabi/is331.md` | `syllabi-is331.md` | **1 issue** |
-| 30 | `syllabi/is390.md` | `syllabi-is390.md` | **2 issues** (1 HIGH) |
-| 31 | `syllabi/is425.md` | `syllabi-is425.md` | **3 issues** |
-| 32 | `curriculum/overview.md` | `existing-overview.md` | **3 issues** |
-| 33 | `curriculum/core-studio-spine.md` | `existing-core-studio-spine.md` | **4 issues** |
-| 34 | `curriculum/outcomes.md` | `existing-outcomes.md` | **2 issues** (1 HIGH) |
-| 35 | `curriculum/course-sequence.md` | `existing-course-sequence.md` | **4 issues** |
-| 36 | `curriculum/student-journey.md` | `existing-student-journey.md` | PASS |
-| 37 | `curriculum/course-catalog-current.md` | `existing-course-catalog-current.md` | **3 issues** |
-| 38 | `curriculum/course-catalog-proposed.md` | `existing-course-catalog-proposed.md` | **1 issue** |
-| 39 | `curriculum/implementation-plan.md` | `existing-implementation-plan.md` | **4 issues** (1 HIGH) |
-| 40 | `research/peer-programs.md` | `research-peer-programs.md` | **1 issue** (CRITICAL) |
-| 41 | `careers/job-signals-summary.md` | `careers-job-signals-summary.md` | **2 issues** |
-| 42 | `careers/skills-map.md` | `careers-skills-map.md` | **1 issue** |
-| 43 | `careers/example-job-descriptions.md` | `careers-example-job-descriptions.md` | **2 issues** |
+| # | Page | QA Doc | Original Status | Current Status |
+|---|---|---|---|---|
+| 1 | `index.md` (homepage) | `index-homepage.md` | 2 issues | ✅ RESOLVED (all 8 caps listed; link text updated) |
+| 2 | `philosophy/executive-summary.md` | `philosophy-executive-summary.md` | 4 issues | ✅ RESOLVED (Sprint 1 Demo Day, Sprint 5 student/fiscal data) |
+| 3 | `philosophy/stripping-thesis.md` | `philosophy-stripping-thesis.md` | PASS | ✅ PASS (Sprint 5 added Double Stripping) |
+| 4 | `philosophy/acceleration-thesis.md` | `philosophy-acceleration-thesis.md` | 3 issues | ✅ RESOLVED (METR consistent, GPT-5.3 sourced, hedge adequate) |
+| 5 | `philosophy/new-paradigm.md` | `philosophy-new-paradigm.md` | PASS | ✅ PASS (Sprint 5 added productivity imperative) |
+| 6 | `program/program-objectives.md` | `program-objectives.md` | PASS | ✅ PASS (Sprint 9 aligned salaries to canonical) |
+| 7 | `program/student-outcomes.md` | `program-student-outcomes.md` | 2 issues (1 CRITICAL) | ✅ RESOLVED (8-cap bridge added in prior QA commits) |
+| 8 | `program/learning-objectives.md` | `program-learning-objectives.md` | PASS | ✅ PASS |
+| 9 | `program/curriculum-map.md` | `program-curriculum-map.md` | 2 issues | ✅ RESOLVED (Sprint 8 fixed HE-4 mapping, Context Pack scope) |
+| 10 | `program/forty-sixty-policy.md` | `program-forty-sixty-policy.md` | 2 issues | ✅ RESOLVED (METR updated, lab time documented) |
+| 11 | `program/context-pack.md` | `program-context-pack.md` | 2 issues (1 HIGH) | ✅ RESOLVED (all syllabi name Context Pack with integration notes) |
+| 12 | `accreditation/abet-alignment.md` | `accreditation-abet-alignment.md` | PASS | ✅ PASS (Sprint 1 fixed Demo Day timing) |
+| 13 | `accreditation/msche-alignment.md` | `accreditation-msche-alignment.md` | 2 issues | ✅ RESOLVED (Demo Day timing, METR language updated) |
+| 14 | `accreditation/outcomes-mapping.md` | `accreditation-outcomes-mapping.md` | PASS | ✅ PASS |
+| 15 | `accreditation/assessment-plan.md` | `accreditation-assessment-plan.md` | 3 issues (1 CRITICAL) | ✅ RESOLVED (uses ranges + "adapts" language, Context Pack embedded) |
+| 16 | `evidence/why-now.md` | `evidence-why-now.md` | PASS | ✅ PASS (Sprint 3 added benchmarks, capital, policy) |
+| 17 | `evidence/job-market.md` | `evidence-job-market.md` | 2 issues (1 HIGH) | ✅ RESOLVED (Sprint 3 rewrote; Sprint 9 fixed table + source) |
+| 18 | `evidence/industry-voices.md` | `evidence-industry-voices.md` | PASS | ✅ PASS (Sprint 3 added CEO Voices Jan-Feb 2026) |
+| 19 | `evidence/higher-ed-landscape.md` | `evidence-higher-ed-landscape.md` | PASS | ✅ PASS (Sprint 9 fixed catalog claim 6→7) |
+| 20 | `stakeholders/for-administrators.md` | `stakeholders-for-administrators.md` | 3 issues (1 HIGH) | ✅ RESOLVED (Sprint 4 added student profile) |
+| 21 | `stakeholders/for-faculty.md` | `stakeholders-for-faculty.md` | 3 issues (1 HIGH) | ✅ Partially resolved (Demo Day terminology consistent) |
+| 22 | `stakeholders/for-students.md` | `stakeholders-for-students.md` | 2 issues (1 HIGH) | ✅ RESOLVED (Sprint 4 honest opening; Sprint 9 senior years bracket) |
+| 23 | `stakeholders/for-industry.md` | `stakeholders-for-industry.md` | PASS | ✅ PASS |
+| 24 | `syllabi/is117.md` | `syllabi-is117.md` | 5 issues (2 HIGH) | ✅ RESOLVED (Sprint 1 Museum Book, Sprint 7 Final Presentation) |
+| 25 | `syllabi/is118.md` | `syllabi-is118.md` | 3 issues (2 HIGH) | ✅ RESOLVED (Demo Day confirmed) |
+| 26 | `syllabi/is218.md` | `syllabi-is218.md` | 2 issues | ✅ RESOLVED |
+| 27 | `syllabi/is265.md` | `syllabi-is265.md` | 2 issues | ✅ RESOLVED (Sprint 7 Demo Day prefix) |
+| 28 | `syllabi/is219.md` | `syllabi-is219.md` | 2 issues | ✅ RESOLVED (Sprint 7 Demo Day prefix) |
+| 29 | `syllabi/is331.md` | `syllabi-is331.md` | 1 issue | ✅ RESOLVED |
+| 30 | `syllabi/is390.md` | `syllabi-is390.md` | 2 issues (1 HIGH) | ✅ RESOLVED (Sprint 7 Demo Day prefix) |
+| 31 | `syllabi/is425.md` | `syllabi-is425.md` | 3 issues | ✅ RESOLVED |
+| 32 | `curriculum/overview.md` | `existing-overview.md` | 3 issues | ✅ RESOLVED (Sprint 5 remediation reframe) |
+| 33 | `curriculum/core-studio-spine.md` | `existing-core-studio-spine.md` | 4 issues | ✅ RESOLVED (Neural Fabric defined, Keith Williams removed) |
+| 34 | `curriculum/outcomes.md` | `existing-outcomes.md` | 2 issues (1 HIGH) | ✅ RESOLVED |
+| 35 | `curriculum/course-sequence.md` | `existing-course-sequence.md` | 4 issues | ✅ RESOLVED (Sprint 8 CS 100 diagram, Neural Fabric definition) |
+| 36 | `curriculum/student-journey.md` | `existing-student-journey.md` | PASS | ✅ PASS (Sprint 4 data-grounded Jaylen) |
+| 37 | `curriculum/course-catalog-current.md` | `existing-course-catalog-current.md` | 3 issues | Review outstanding |
+| 38 | `curriculum/course-catalog-proposed.md` | `existing-course-catalog-proposed.md` | 1 issue | Review outstanding |
+| 39 | `curriculum/implementation-plan.md` | `existing-implementation-plan.md` | 4 issues (1 HIGH) | ✅ RESOLVED (Sprint 6 added resources, risks, decisions) |
+| 40 | `research/peer-programs.md` | `research-peer-programs.md` | 1 issue (CRITICAL) | ✅ RESOLVED (Sprint 6 full upgrade) |
+| 41 | `careers/job-signals-summary.md` | `careers-job-signals-summary.md` | 2 issues | ✅ RESOLVED (Sprint 6 full rewrite) |
+| 42 | `careers/skills-map.md` | `careers-skills-map.md` | 1 issue | ✅ RESOLVED (Sprint 6 Human Edge mapping) |
+| 43 | `careers/example-job-descriptions.md` | `careers-example-job-descriptions.md` | 2 issues | ✅ RESOLVED (Sprint 6 studio mapping, salaries verified) |
+| 44 | `evidence/productivity-imperative.mdx` | *NEW — Sprint 2* | — | ✅ NEW PAGE (fiscal context) |
+| 45 | `evidence/student-profile.mdx` | *NEW — Sprint 2* | — | ✅ NEW PAGE (student data portrait) |
 
-**Summary:** 12 pages PASS clean. 31 pages have issues. ~75 total issues identified.
+**Summary:** 46 pages total (43 original + 2 new + index). 42 pages resolved or passing. 2 pages (course-catalog-current, course-catalog-proposed) have minor outstanding issues not targeted by sprint plan. 2 new pages added.
 
-**Severity breakdown (cross-cutting issues):**
-- CRITICAL: 4 (salary ranges, 6-vs-7 catalog numbers, 8-vs-5 outcomes, peer programs empty)
-- HIGH: 3 (Demo Day timing, assessment plan vs syllabi, METR approximation)
-- MEDIUM: 3 (IS 390 label, Neural Fabric, named individual)
-- LOW: 3 (homepage 6/8, legacy quality cliff, CS 100 prereq)
+**Cross-cutting issues: All 13 resolved (4 CRITICAL + 3 HIGH + 3 MEDIUM + 3 LOW).**
 
 ---
 

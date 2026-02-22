@@ -158,7 +158,7 @@ No program we've identified explicitly teaches:
 
 ### Resource Efficiency
 
-The program uses **6 existing catalog numbers** and proposes **2 new courses** (IS 118 and IS 425 modification). This is not a new department or a new college — it's a strategic reconfiguration of existing IS program resources.
+The program uses **7 existing catalog numbers** and proposes **1 new course** (IS 118). This is not a new department or a new college — it's a strategic reconfiguration of existing IS program resources.
 
 ### NJIT's Positioning
 
