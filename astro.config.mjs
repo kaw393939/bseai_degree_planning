@@ -30,10 +30,12 @@ export default defineConfig({
         {
           label: 'Philosophy',
           items: [
+            { label: 'Why This Program — and Why Me', slug: 'philosophy/why-this-program' },
             { label: 'Executive Summary', slug: 'philosophy/executive-summary' },
             { label: 'The Stripping Thesis', slug: 'philosophy/stripping-thesis' },
             { label: 'The Acceleration Thesis', slug: 'philosophy/acceleration-thesis' },
             { label: 'The New Paradigm', slug: 'philosophy/new-paradigm' },
+            { label: 'A Letter from the AI', slug: 'philosophy/letter-from-the-ai' },
           ]
         },
         {
