@@ -41,7 +41,7 @@ No existing degree program at NJIT — or nationally — is designed from first 
 
 2. **40/60 hard-way/agentic split.** 40% of work builds foundational understanding. 60% develops AI-directed workflow — the actual skill employers pay for.
 
-3. **Portfolio, not transcript.** Graduates present 8 shipped projects with increasing sophistication, plus Demo Day presentations starting Year 2.
+3. **Portfolio, not transcript.** Graduates present 8 shipped projects with increasing sophistication, plus Demo Day presentations starting Semester 2 (IS 118 onward).
 
 4. **AI-native but AI-skeptical.** Students use AI tools from Day 1 but are trained to verify, evaluate, and override. The AI Audit Log (IS 218) documents what students accepted, rejected, and modified from AI — with reasoning.
 

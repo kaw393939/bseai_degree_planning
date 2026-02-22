@@ -74,7 +74,7 @@ ABET requires documented continuous improvement. The EAI program implements:
 | Mechanism | Frequency | What It Measures |
 |---|---|---|
 | **Portfolio review** | Every semester | Quality and progression of Human Edge artifacts across cohort |
-| **Demo Day rubrics** | Starting Year 2 | External judges + faculty score technical depth, communication, evidence, responsibility |
+| **Demo Day rubrics** | Starting Semester 2 (IS 118 onward) | External judges + faculty score technical depth, communication, evidence, responsibility |
 | **AI Audit Log analysis** | Every semester (IS 218+) | Are students developing informed judgment about AI output? |
 | **Industry Advisory Board** | Annual | Are program outcomes aligned with employer needs? |
 | **Graduate surveys** | 1-year and 3-year post-graduation | Are PEOs being achieved? |
