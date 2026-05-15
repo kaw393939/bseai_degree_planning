@@ -1,3 +1,27 @@
+# BS Enterprise AI Degree Planning
+
+<!-- portfolio-curation -->
+## Portfolio Overview
+Planning hub for a proposed BS in Enterprise AI curriculum centered on durable human capabilities.
+
+**Live site:** https://kaw393939.github.io/bseai-degree-planning/
+
+## What This Demonstrates
+- Curriculum design
+- AI education strategy
+- degree planning
+
+## Stack
+MDX, documentation
+
+## Portfolio Status
+This repository is part of Keith Williams' curated public portfolio. The README has been updated to explain the project purpose, technical focus, and why the work is worth reviewing.
+<!-- /portfolio-curation -->
+
+---
+
+## Original Notes
+
 # BS in Enterprise AI — The Human Edge
 
 Planning hub for NJIT's proposed **BS in Enterprise AI**, a degree that trains the human capabilities AI cannot replicate. Target launch: **Fall 2026**.
@@ -67,4 +91,5 @@ See `project-management/qa/00-cross-cutting-issues.md` for the full status index
 ## AI Assistant Setup
 
 This repo includes `.github/copilot-instructions.md` with full project context for VS Code Copilot. New conversations automatically load these instructions — no manual context needed.
+
 
